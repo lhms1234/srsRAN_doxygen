@@ -1,0 +1,8 @@
+<map id="asn1::rrc_nr::affected_carrier_freq_comb_info_mrdc_s" name="asn1::rrc_nr::affected_carrier_freq_comb_info_mrdc_s">
+<area shape="rect" id="node1" title=" " alt="" coords="187,667,348,817"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1affected__carrier__freq__comb__info__mrdc__s_1_1affected__carrier__freq__comb__mrdc__s__.html" title=" " alt="" coords="5,424,175,545"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="19,5,161,273"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1victim__sys__type__s.html" title=" " alt="" coords="199,387,336,582"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="360,380,575,589"/>
+<area shape="rect" id="node6" title=" " alt="" coords="394,93,541,185"/>
+</map>

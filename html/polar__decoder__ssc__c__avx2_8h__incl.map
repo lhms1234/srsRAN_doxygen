@@ -1,0 +1,10 @@
+<map id="lib/src/phy/fec/polar/polar_decoder_ssc_c_avx2.h" name="lib/src/phy/fec/polar/polar_decoder_ssc_c_avx2.h">
+<area shape="rect" id="node1" title="Declaration of the SSC polar decoder inner functions working with 8&#45;bit integer&#45;valued LLRs and AVX2 ..." alt="" coords="210,5,359,61"/>
+<area shape="rect" id="node2" href="$polar__decoder__ssc__all_8h.html" title="Declaration of the SSC polar decoder functions common to all implementations." alt="" coords="203,109,366,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,184,84,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="109,184,183,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="208,184,273,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="298,184,359,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="383,184,447,211"/>
+<area shape="rect" id="node8" title=" " alt="" coords="472,184,537,211"/>
+</map>

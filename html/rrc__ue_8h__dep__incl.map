@@ -1,0 +1,11 @@
+<map id="srsenb/hdr/stack/rrc/rrc_ue.h" name="srsenb/hdr/stack/rrc/rrc_ue.h">
+<area shape="rect" id="node1" title=" " alt="" coords="298,5,437,47"/>
+<area shape="rect" id="node2" href="$rrc__endc_8h.html" title=" " alt="" coords="245,95,383,136"/>
+<area shape="rect" id="node3" href="$rnti__pool_8cc.html" title=" " alt="" coords="5,184,164,225"/>
+<area shape="rect" id="node6" href="$rrc__ue_8cc.html" title=" " alt="" coords="351,184,490,225"/>
+<area shape="rect" id="node7" href="$rrc__mobility_8h.html" title=" " alt="" coords="486,95,625,136"/>
+<area shape="rect" id="node4" href="$srsenb_2src_2stack_2rrc_2rrc_8cc.html" title=" " alt="" coords="514,184,653,225"/>
+<area shape="rect" id="node5" href="$rrc__endc_8cc.html" title=" " alt="" coords="189,184,327,225"/>
+<area shape="rect" id="node8" href="$rrc__mobility_8cc.html" title=" " alt="" coords="677,184,815,225"/>
+<area shape="rect" id="node9" href="$rrc__mobility__test_8cc.html" title=" " alt="" coords="839,184,965,225"/>
+</map>

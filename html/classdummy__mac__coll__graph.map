@@ -1,0 +1,7 @@
+<map id="dummy_mac" name="dummy_mac">
+<area shape="rect" id="node1" title=" " alt="" coords="27,549,189,979"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1mac__interface__proc__ra__nr.html" title="Interface from MAC NR parent class to subclass random access procedure." alt="" coords="5,263,168,487"/>
+<area shape="rect" id="node3" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="193,270,383,479"/>
+<area shape="rect" id="node4" title=" " alt="" coords="213,64,251,141"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="275,5,415,200"/>
+</map>

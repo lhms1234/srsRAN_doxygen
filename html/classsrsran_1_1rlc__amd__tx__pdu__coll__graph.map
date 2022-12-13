@@ -1,0 +1,5 @@
+<map id="srsran::rlc_amd_tx_pdu&lt; HeaderType &gt;" name="srsran::rlc_amd_tx_pdu&lt; HeaderType &gt;">
+<area shape="rect" id="node1" title="Class that contains the parameters and state (e.g. segments) of a RLC PDU." alt="" coords="31,505,175,803"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1intrusive__forward__list.html" title=" " alt="" coords="5,160,200,443"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1intrusive__forward__list__element.html" title="Base class of T, where T is a node of intrusive_forward_list&lt;T&gt;" alt="" coords="20,5,185,97"/>
+</map>

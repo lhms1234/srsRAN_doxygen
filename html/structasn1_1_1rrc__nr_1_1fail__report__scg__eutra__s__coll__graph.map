@@ -1,0 +1,33 @@
+<map id="asn1::rrc_nr::fail_report_scg_eutra_s" name="asn1::rrc_nr::fail_report_scg_eutra_s">
+<area shape="rect" id="node1" title=" " alt="" coords="434,3536,574,3657"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="221,3198,379,3451"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1meas__result2__eutra__s.html" title=" " alt="" coords="213,2889,387,3084"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1meas__result__eutra__s.html" title=" " alt="" coords="235,2617,365,2768"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc__nr_1_1meas__quant__results__eutra__s.html" title=" " alt="" coords="164,2360,321,2555"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc__nr_1_1cgi__info__eutra__s.html" title=" " alt="" coords="345,2375,503,2540"/>
+<area shape="rect" id="node7" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="179,2029,322,2297"/>
+<area shape="rect" id="node8" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="347,2029,501,2297"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc__nr_1_1cell__access__related__info__eutra__minus5__gc__s.html" title=" " alt="" coords="305,1757,484,1908"/>
+<area shape="rect" id="node10" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="445,1047,587,1344"/>
+<area shape="rect" id="node11" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="547,336,699,648"/>
+<area shape="rect" id="node23" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="718,718,861,1015"/>
+<area shape="rect" id="node27" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="551,718,694,1015"/>
+<area shape="rect" id="node12" href="$structasn1_1_1rrc__nr_1_1cell__id__eutra__minus5__gc__c.html" title=" " alt="" coords="259,711,466,1023"/>
+<area shape="rect" id="node13" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="383,439,518,545"/>
+<area shape="rect" id="node14" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="227,5,427,273"/>
+<area shape="rect" id="node19" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="209,439,359,545"/>
+<area shape="rect" id="node15" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,387,184,597"/>
+<area shape="rect" id="node18" href="$structasn1_1_1rrc__nr_1_1plmn__id__eutra__minus5__gc__c.html" title=" " alt="" coords="16,711,235,1023"/>
+<area shape="rect" id="node16" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node17" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="93,1368,264,1621"/>
+<area shape="rect" id="node20" href="$structasn1_1_1rrc__nr_1_1cgi__info__eutra__s_1_1cgi__info__epc__s__.html" title=" " alt="" coords="554,2117,729,2209"/>
+<area shape="rect" id="node21" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="572,1699,719,1967"/>
+<area shape="rect" id="node22" href="$structasn1_1_1rrc__nr_1_1cell__access__related__info__eutra__epc__s.html" title=" " alt="" coords="698,1427,843,1563"/>
+<area shape="rect" id="node24" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="885,740,1040,993"/>
+<area shape="rect" id="node25" href="$structasn1_1_1rrc__nr_1_1plmn__id__s.html" title=" " alt="" coords="883,431,1042,553"/>
+<area shape="rect" id="node26" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="891,5,1034,273"/>
+<area shape="rect" id="node28" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="413,3220,576,3429"/>
+<area shape="rect" id="node29" title=" " alt="" coords="443,2948,546,3025"/>
+<area shape="rect" id="node30" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="600,3176,779,3473"/>
+<area shape="rect" id="node31" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="600,2860,779,3113"/>
+</map>

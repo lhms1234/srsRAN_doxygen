@@ -1,0 +1,5 @@
+<map id="srsue::ul_harq_entity::ul_harq_process::lockable_grant" name="srsue::ul_harq_entity::ul_harq_process::lockable_grant">
+<area shape="rect" id="node1" title="Thread safe wrapper for a mac_grant_ul_t object." alt="" coords="5,432,223,612"/>
+<area shape="rect" id="node2" href="$structsrsue_1_1mac__interface__phy__lte_1_1mac__grant__ul__t.html" title=" " alt="" coords="30,204,198,369"/>
+<area shape="rect" id="node3" href="$structsrsue_1_1mac__interface__phy__lte_1_1mac__tb__t.html" title=" " alt="" coords="42,5,186,141"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="srsue/src/test/ttcn3/hdr/ttcn3_common.h" name="srsue/src/test/ttcn3/hdr/ttcn3_common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="379,5,525,47"/>
+<area shape="rect" id="node2" href="$ttcn3__port__handler_8h.html" title=" " alt="" coords="369,95,535,136"/>
+<area shape="rect" id="node4" href="$ttcn3__syssim_8h.html" title=" " alt="" coords="275,281,413,322"/>
+<area shape="rect" id="node6" href="$ttcn3__syssim_8cc.html" title=" " alt="" coords="435,377,579,419"/>
+<area shape="rect" id="node3" href="$ttcn3__drb__interface_8h.html" title=" " alt="" coords="5,184,176,225"/>
+<area shape="rect" id="node7" href="$ttcn3__ip__ctrl__interface_8h.html" title=" " alt="" coords="251,184,437,225"/>
+<area shape="rect" id="node9" href="$ttcn3__ip__sock__interface_8h.html" title=" " alt="" coords="461,184,659,225"/>
+<area shape="rect" id="node10" href="$ttcn3__srb__interface_8h.html" title=" " alt="" coords="683,184,853,225"/>
+<area shape="rect" id="node5" href="$ttcn3__dut_8cc.html" title=" " alt="" coords="275,377,410,419"/>
+<area shape="rect" id="node8" href="$ttcn3__if__handler__test_8cc.html" title=" " alt="" coords="544,273,688,329"/>
+</map>

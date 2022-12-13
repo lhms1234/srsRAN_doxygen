@@ -1,0 +1,3 @@
+<map id="srsenb::rrc::ue::rrc_endc::sgnb_rel_req_ev" name="srsenb::rrc::ue::rrc_endc::sgnb_rel_req_ev">
+<area shape="rect" id="node1" title="Called from EUTRA&#45;RRC when EN&#45;DC (for UE) shall be removed/released." alt="" coords="5,5,165,97"/>
+</map>

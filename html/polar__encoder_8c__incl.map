@@ -1,0 +1,13 @@
+<map id="lib/src/phy/fec/polar/polar_encoder.c" name="lib/src/phy/fec/polar/polar_encoder.c">
+<area shape="rect" id="node1" title="Definition of the polar encoder." alt="" coords="555,5,691,47"/>
+<area shape="rect" id="node2" href="$polar__encoder_8h.html" title="Declaration of the polar encoder." alt="" coords="5,95,143,136"/>
+<area shape="rect" id="node5" href="$polar__encoder__avx2_8h.html" title="Declaration of the AVX2 polar encoder." alt="" coords="167,102,317,129"/>
+<area shape="rect" id="node6" href="$polar__encoder__pipelined_8h.html" title="Declaration of the pipelined polar encoder." alt="" coords="341,102,513,129"/>
+<area shape="rect" id="node7" title=" " alt="" coords="537,102,616,129"/>
+<area shape="rect" id="node8" title=" " alt="" coords="641,102,702,129"/>
+<area shape="rect" id="node9" title=" " alt="" coords="726,102,790,129"/>
+<area shape="rect" id="node10" title=" " alt="" coords="815,102,880,129"/>
+<area shape="rect" id="node11" title=" " alt="" coords="905,102,977,129"/>
+<area shape="rect" id="node3" href="$config_8h.html" title=" " alt="" coords="20,184,128,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="209,184,275,211"/>
+</map>

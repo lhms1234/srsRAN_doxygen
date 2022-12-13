@@ -1,0 +1,8 @@
+<map id="asn1::rrc::ul_info_transfer_nb_s::crit_exts_c_" name="asn1::rrc::ul_info_transfer_nb_s::crit_exts_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="107,968,288,1207"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,696,184,905"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,431,138,509"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1ul__info__transfer__nb__r13__ies__s.html" title=" " alt="" coords="209,733,391,869"/>
+<area shape="rect" id="node5" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="211,321,389,619"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="211,5,389,259"/>
+</map>

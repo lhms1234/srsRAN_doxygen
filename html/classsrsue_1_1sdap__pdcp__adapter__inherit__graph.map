@@ -1,0 +1,5 @@
+<map id="srsue::sdap_pdcp_adapter" name="srsue::sdap_pdcp_adapter">
+<area shape="rect" id="node1" title=" " alt="" coords="82,145,257,281"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1pdcp__interface__sdap__nr.html" title=" " alt="" coords="5,5,152,97"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1gw__interface__pdcp.html" title=" " alt="" coords="176,5,347,97"/>
+</map>

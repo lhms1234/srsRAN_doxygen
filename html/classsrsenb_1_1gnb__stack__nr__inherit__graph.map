@@ -1,0 +1,11 @@
+<map id="srsenb::gnb_stack_nr" name="srsenb::gnb_stack_nr">
+<area shape="rect" id="node1" title=" " alt="" coords="573,476,791,905"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1enb__stack__base.html" title=" " alt="" coords="5,277,169,428"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1stack__interface__phy__nr.html" title=" " alt="" coords="193,307,352,399"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1mac__interface__phy__nr.html" title=" " alt="" coords="166,5,379,229"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1stack__interface__mac.html" title=" " alt="" coords="376,314,567,391"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1stack__interface__gw.html" title=" " alt="" coords="591,292,773,413"/>
+<area shape="rect" id="node7" href="$classsrsenb_1_1rrc__nr__interface__rrc.html" title="Set of X2AP inspired interfaces to support 5G NSA." alt="" coords="798,292,979,413"/>
+<area shape="rect" id="node8" href="$classsrsenb_1_1pdcp__interface__gtpu.html" title=" " alt="" coords="1003,307,1190,399"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1214,314,1273,391"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ttcn3_ip_sock_interface" name="ttcn3_ip_sock_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="25,793,213,929"/>
+<area shape="rect" id="node2" href="$classttcn3__port__handler.html" title="This class provides a common function for all TTCN3 ports for SCTP socket creation,..." alt="" coords="41,535,198,744"/>
+<area shape="rect" id="node3" href="$classepoll__handler.html" title="Common helper function for epoll." alt="" coords="5,329,124,406"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="148,263,339,472"/>
+<area shape="rect" id="node5" title=" " alt="" coords="167,64,205,141"/>
+<area shape="rect" id="node6" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="229,5,369,200"/>
+</map>

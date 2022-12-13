@@ -1,0 +1,4 @@
+<map id="lib/src/phy/fec/polar/polar_decoder_vector_avx2.h" name="lib/src/phy/fec/polar/polar_decoder_vector_avx2.h">
+<area shape="rect" id="node1" title="Declaration of the 8&#45;bit AVX2 polar decoder vectorizable functions." alt="" coords="5,5,156,61"/>
+<area shape="rect" id="node2" href="$polar__decoder__ssc__c__avx2_8c.html" title="Definition of the SSC polar decoder inner functions working with 8&#45;bit integer&#45;valued LLRs and AVX2 i..." alt="" coords="6,109,155,165"/>
+</map>

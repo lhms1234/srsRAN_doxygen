@@ -1,0 +1,7 @@
+<map id="asn1::rrc::mimo_ue_bf_cap_r13_s" name="asn1::rrc::mimo_ue_bf_cap_r13_s">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1255,192,1376"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="19,939,178,1192"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1mimo__bf__cap__r13__s.html" title=" " alt="" coords="13,740,185,876"/>
+<area shape="rect" id="node4" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="23,380,174,677"/>
+<area shape="rect" id="node5" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="23,5,175,317"/>
+</map>

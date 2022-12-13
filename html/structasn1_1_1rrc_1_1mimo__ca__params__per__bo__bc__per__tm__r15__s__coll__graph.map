@@ -1,0 +1,8 @@
+<map id="asn1::rrc::mimo_ca_params_per_bo_bc_per_tm_r15_s" name="asn1::rrc::mimo_ca_params_per_bo_bc_per_tm_r15_s">
+<area shape="rect" id="node1" title=" " alt="" coords="57,1255,252,1464"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1mimo__non__precoded__cap__r13__s.html" title=" " alt="" coords="5,983,155,1148"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="179,939,338,1192"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1mimo__bf__cap__r13__s.html" title=" " alt="" coords="173,740,345,876"/>
+<area shape="rect" id="node5" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="183,380,334,677"/>
+<area shape="rect" id="node6" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="183,5,335,317"/>
+</map>

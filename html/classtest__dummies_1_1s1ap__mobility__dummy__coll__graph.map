@@ -1,0 +1,9 @@
+<map id="test_dummies::s1ap_mobility_dummy" name="test_dummies::s1ap_mobility_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="307,681,531,817"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1s1ap__dummy.html" title=" " alt="" coords="5,351,229,619"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1s1ap__interface__rrc.html" title=" " alt="" coords="5,5,229,288"/>
+<area shape="rect" id="node4" href="$structtest__dummies_1_1s1ap__mobility__dummy_1_1enb__status__transfer__info.html" title=" " alt="" coords="253,417,406,553"/>
+<area shape="rect" id="node5" href="$structtest__dummies_1_1s1ap__mobility__dummy_1_1ho__req__ack.html" title=" " alt="" coords="430,409,589,560"/>
+<area shape="rect" id="node6" href="$structtest__dummies_1_1s1ap__mobility__dummy_1_1ho__req__data.html" title=" " alt="" coords="613,417,760,553"/>
+<area shape="rect" id="node7" href="$structsrsran_1_1plmn__id__t.html" title=" " alt="" coords="605,5,768,288"/>
+</map>

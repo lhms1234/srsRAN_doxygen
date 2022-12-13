@@ -1,0 +1,15 @@
+<map id="asn1::rrc_nr::pdcch_serving_cell_cfg_s" name="asn1::rrc_nr::pdcch_serving_cell_cfg_s">
+<area shape="rect" id="node1" title=" " alt="" coords="234,2041,407,2177"/>
+<area shape="rect" id="node2" href="$structasn1_1_1setup__release__c.html" title=" " alt="" coords="247,1725,394,1979"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1slot__format__ind__s.html" title=" " alt="" coords="156,1483,291,1633"/>
+<area shape="rect" id="node4" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="5,1108,148,1376"/>
+<area shape="rect" id="node5" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="172,1108,323,1376"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc__nr_1_1slot__format__combinations__per__cell__s.html" title=" " alt="" coords="162,836,333,1045"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="42,527,245,737"/>
+<area shape="rect" id="node8" title=" " alt="" coords="62,343,225,421"/>
+<area shape="rect" id="node9" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="269,505,439,759"/>
+<area shape="rect" id="node10" href="$structasn1_1_1rrc__nr_1_1slot__format__combination__s.html" title=" " alt="" coords="257,321,451,443"/>
+<area shape="rect" id="node11" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="261,5,447,259"/>
+<area shape="rect" id="node12" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="315,1453,523,1663"/>
+<area shape="rect" id="node13" title=" " alt="" coords="377,1203,461,1281"/>
+</map>

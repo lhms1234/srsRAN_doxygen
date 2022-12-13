@@ -1,0 +1,27 @@
+<map id="asn1::ngap::secondary_rat_data_usage_report_ies_container" name="asn1::ngap::secondary_rat_data_usage_report_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="441,2331,637,2496"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="122,2139,318,2231"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="113,1829,292,2053"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="27,1550,210,1730"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,1249,213,1458"/>
+<area shape="rect" id="node6" title=" " alt="" coords="67,1019,151,1097"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="426,1535,590,1745"/>
+<area shape="rect" id="node10" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="317,1822,515,2061"/>
+<area shape="rect" id="node14" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="539,1815,773,2068"/>
+<area shape="rect" id="node23" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="797,1829,976,2053"/>
+<area shape="rect" id="node8" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="454,1315,562,1392"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="345,2125,527,2246"/>
+<area shape="rect" id="node11" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="235,1535,402,1745"/>
+<area shape="rect" id="node12" href="$classasn1_1_1integer.html" title=" " alt="" coords="238,1241,405,1465"/>
+<area shape="rect" id="node13" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="552,2117,755,2253"/>
+<area shape="rect" id="node15" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="615,1528,817,1752"/>
+<area shape="rect" id="node16" href="$structasn1_1_1dyn__seq__of.html" title=" " alt="" coords="627,1263,805,1443"/>
+<area shape="rect" id="node17" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="614,924,818,1192"/>
+<area shape="rect" id="node18" href="$structasn1_1_1ngap_1_1pdu__session__res__secondary__ratusage__item__s.html" title=" " alt="" coords="631,696,801,861"/>
+<area shape="rect" id="node19" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="525,321,704,619"/>
+<area shape="rect" id="node20" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="525,5,704,259"/>
+<area shape="rect" id="node21" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="728,409,909,531"/>
+<area shape="rect" id="node22" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="787,2139,968,2231"/>
+<area shape="rect" id="node24" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="842,1550,995,1730"/>
+<area shape="rect" id="node25" href="$classasn1_1_1integer.html" title=" " alt="" coords="841,1249,997,1458"/>
+</map>

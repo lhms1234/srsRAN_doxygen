@@ -1,0 +1,10 @@
+<map id="asn1::rrc_nr::codebook_cfg_s::codebook_type_c_::type1_s_::sub_type_c_::type_i_single_panel_s_" name="asn1::rrc_nr::codebook_cfg_s::codebook_type_c_::type1_s_::sub_type_c_::type_i_single_panel_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="363,1131,549,1252"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1codebook__cfg__s_1_1codebook__type__c___1_1type1__s___1_1sub__type__c__68fda2d6952199373f56ed36cbc222f5.html" title=" " alt="" coords="257,697,423,1053"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,374,184,583"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="209,374,471,583"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="240,5,440,273"/>
+<area shape="rect" id="node7" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="493,727,627,1024"/>
+<area shape="rect" id="node8" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="496,323,648,635"/>
+</map>

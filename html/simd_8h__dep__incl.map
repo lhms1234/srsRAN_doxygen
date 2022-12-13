@@ -1,0 +1,12 @@
+<map id="lib/include/srsran/phy/utils/simd.h" name="lib/include/srsran/phy/utils/simd.h">
+<area shape="rect" id="node1" title=" " alt="" coords="480,5,600,47"/>
+<area shape="rect" id="node2" href="$mat_8h.html" title=" " alt="" coords="243,95,363,136"/>
+<area shape="rect" id="node4" href="$precoding_8c.html" title=" " alt="" coords="5,191,195,218"/>
+<area shape="rect" id="node7" href="$ch__awgn_8c.html" title=" " alt="" coords="387,95,517,136"/>
+<area shape="rect" id="node8" href="$pbch__nr_8c.html" title=" " alt="" coords="542,102,717,129"/>
+<area shape="rect" id="node9" href="$vector_8c.html" title=" " alt="" coords="741,102,902,129"/>
+<area shape="rect" id="node10" href="$vector__simd_8c.html" title=" " alt="" coords="926,95,1077,136"/>
+<area shape="rect" id="node3" href="$wiener__dl_8c.html" title=" " alt="" coords="219,184,386,225"/>
+<area shape="rect" id="node5" href="$mat_8c.html" title=" " alt="" coords="411,191,557,218"/>
+<area shape="rect" id="node6" href="$mat__test_8c.html" title=" " alt="" coords="581,184,717,225"/>
+</map>

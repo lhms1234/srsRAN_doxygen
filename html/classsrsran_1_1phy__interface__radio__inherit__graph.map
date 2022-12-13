@@ -1,0 +1,8 @@
+<map id="srsran::phy_interface_radio" name="srsran::phy_interface_radio">
+<area shape="rect" id="node1" title=" " alt="" coords="381,5,525,112"/>
+<area shape="rect" id="node2" href="$classphy__dummy.html" title=" " alt="" coords="5,373,132,479"/>
+<area shape="rect" id="node3" href="$classphy__radio__listener.html" title=" " alt="" coords="157,358,303,494"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1phy.html" title=" " alt="" coords="328,160,577,692"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1phy.html" title=" " alt="" coords="602,160,805,692"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1phy__nr__sa.html" title="NR Standalone PHY." alt="" coords="829,189,996,663"/>
+</map>

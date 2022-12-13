@@ -1,0 +1,9 @@
+<map id="asn1::rrc_nr::uac_barr_info_set_s" name="asn1::rrc_nr::uac_barr_info_set_s">
+<area shape="rect" id="node1" title=" " alt="" coords="225,740,374,861"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,424,183,633"/>
+<area shape="rect" id="node3" title=" " alt="" coords="26,123,162,200"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="207,424,392,633"/>
+<area shape="rect" id="node5" title=" " alt="" coords="227,123,371,200"/>
+<area shape="rect" id="node6" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="416,380,551,677"/>
+<area shape="rect" id="node7" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="407,5,559,317"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="asn1::rrc_nr::band_combination_v1560_s" name="asn1::rrc_nr::band_combination_v1560_s">
+<area shape="rect" id="node1" title=" " alt="" coords="250,1168,430,1363"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1ca__params__nr__v1560__s.html" title=" " alt="" coords="5,529,176,679"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1ca__params__nrdc__s.html" title=" " alt="" coords="241,837,439,1105"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1ca__params__nr__v1550__s.html" title=" " alt="" coords="205,543,368,665"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc__nr_1_1ca__params__nr__v1540__s.html" title=" " alt="" coords="393,463,570,745"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc__nr_1_1ca__params__nr__v1540__s_1_1csi__rs__im__reception__for__feedback__per__band__comb__s__.html" title=" " alt="" coords="384,132,573,371"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc__nr_1_1ca__params__nr__s.html" title=" " alt="" coords="594,448,793,760"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="597,147,800,356"/>
+<area shape="rect" id="node9" title=" " alt="" coords="615,5,783,83"/>
+<area shape="rect" id="node10" href="$structasn1_1_1rrc__nr_1_1ca__params__eutra__v1560__s.html" title=" " alt="" coords="463,889,638,1054"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="asn1::rrc::ue_cap_nb_v1530_ies_s" name="asn1::rrc::ue_cap_nb_v1530_ies_s">
+<area shape="rect" id="node1" title=" " alt="" coords="243,637,434,817"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1mac__params__nb__v1530__s.html" title=" " alt="" coords="5,395,179,516"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1rlc__params__nb__r15__s.html" title=" " alt="" coords="203,395,351,516"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1phy__layer__params__nb__v1530__s.html" title=" " alt="" coords="340,5,519,273"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1tdd__ue__cap__nb__r15__s.html" title=" " alt="" coords="586,336,769,575"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1phy__layer__params__nb__r13__s.html" title=" " alt="" coords="571,71,751,207"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1phy__layer__params__nb__v1430__s.html" title=" " alt="" coords="793,57,948,222"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="asn1::s1ap::erab_to_be_setup_item_ctxt_su_req_ext_ies_container" name="asn1::s1ap::erab_to_be_setup_item_ctxt_su_req_ext_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="205,1192,382,1416"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ext__container__item__s.html" title=" " alt="" coords="108,1008,276,1115"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="103,727,281,951"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__ext__item.html" title=" " alt="" coords="18,463,201,643"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,154,213,363"/>
+<area shape="rect" id="node6" title=" " alt="" coords="67,5,151,83"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="225,448,389,657"/>
+<area shape="rect" id="node10" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="305,720,484,959"/>
+<area shape="rect" id="node8" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="253,220,361,297"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ext__container__item__s.html" title=" " alt="" coords="301,1008,489,1115"/>
+<area shape="rect" id="node11" href="$structasn1_1_1detail_1_1ie__ext__item.html" title=" " alt="" coords="413,455,600,650"/>
+<area shape="rect" id="node12" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="435,132,578,385"/>
+</map>

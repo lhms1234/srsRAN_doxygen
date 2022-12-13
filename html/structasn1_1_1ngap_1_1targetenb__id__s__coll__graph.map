@@ -1,0 +1,13 @@
+<map id="asn1::ngap::targetenb_id_s" name="asn1::ngap::targetenb_id_s">
+<area shape="rect" id="node1" title=" " alt="" coords="341,1109,519,1231"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1eps__tai__s.html" title=" " alt="" coords="148,918,299,1039"/>
+<area shape="rect" id="node3" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="172,595,315,848"/>
+<area shape="rect" id="node6" href="$structasn1_1_1ngap_1_1global__ng__enb__id__s.html" title=" " alt="" coords="509,911,637,1047"/>
+<area shape="rect" id="node4" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="5,595,148,848"/>
+<area shape="rect" id="node5" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="339,661,521,782"/>
+<area shape="rect" id="node7" href="$structasn1_1_1ngap_1_1ng__enb__id__c.html" title=" " alt="" coords="545,602,712,841"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="418,323,597,532"/>
+<area shape="rect" id="node9" title=" " alt="" coords="464,101,551,178"/>
+<area shape="rect" id="node10" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="621,352,812,503"/>
+<area shape="rect" id="node11" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="617,5,817,273"/>
+</map>

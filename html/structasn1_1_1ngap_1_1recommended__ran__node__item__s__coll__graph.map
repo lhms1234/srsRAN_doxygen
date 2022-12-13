@@ -1,0 +1,9 @@
+<map id="asn1::ngap::recommended_ran_node_item_s" name="asn1::ngap::recommended_ran_node_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="79,911,255,1047"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="5,661,187,782"/>
+<area shape="rect" id="node3" href="$structasn1_1_1ngap_1_1amf__paging__target__c.html" title=" " alt="" coords="211,595,381,848"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="84,323,263,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="130,101,217,178"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="287,352,484,503"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="285,5,485,273"/>
+</map>

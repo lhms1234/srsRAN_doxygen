@@ -1,0 +1,7 @@
+<map id="srsran::rlc_config_t" name="srsran::rlc_config_t">
+<area shape="rect" id="node1" title=" " alt="" coords="270,248,457,443"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1rlc__um__config__t.html" title=" " alt="" coords="5,13,164,178"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1rlc__am__config__t.html" title=" " alt="" coords="188,20,347,171"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1rlc__um__nr__config__t.html" title=" " alt="" coords="371,42,547,149"/>
+<area shape="rect" id="node5" href="$structsrsran_1_1rlc__am__nr__config__t.html" title=" " alt="" coords="571,5,747,185"/>
+</map>

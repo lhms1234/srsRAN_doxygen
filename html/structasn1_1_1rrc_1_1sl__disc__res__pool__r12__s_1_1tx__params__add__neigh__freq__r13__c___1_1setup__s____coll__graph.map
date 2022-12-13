@@ -1,0 +1,15 @@
+<map id="asn1::rrc::sl_disc_res_pool_r12_s::tx_params_add_neigh_freq_r13_c_::setup_s_" name="asn1::rrc::sl_disc_res_pool_r12_s::tx_params_add_neigh_freq_r13_c_::setup_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="329,779,516,988"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1tdd__cfg__v1130__s.html" title=" " alt="" coords="82,507,206,657"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,147,192,371"/>
+<area shape="rect" id="node4" title=" " alt="" coords="31,5,166,97"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1tdd__cfg__s.html" title=" " alt="" coords="244,514,383,650"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="217,154,378,363"/>
+<area shape="rect" id="node7" title=" " alt="" coords="242,13,353,90"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="402,154,590,363"/>
+<area shape="rect" id="node9" title=" " alt="" coords="413,13,579,90"/>
+<area shape="rect" id="node10" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="407,448,550,716"/>
+<area shape="rect" id="node11" href="$structasn1_1_1rrc_1_1sl__disc__res__pool__r12__s_1_1tx__params__add__neigh__freq__r13__c___1_1setup__s___1_1freq__info__s__.html" title=" " alt="" coords="597,492,763,672"/>
+<area shape="rect" id="node12" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="614,154,770,363"/>
+<area shape="rect" id="node13" title=" " alt="" coords="648,13,736,90"/>
+</map>

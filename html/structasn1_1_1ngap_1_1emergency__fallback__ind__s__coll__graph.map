@@ -1,0 +1,8 @@
+<map id="asn1::ngap::emergency_fallback_ind_s" name="asn1::ngap::emergency_fallback_ind_s">
+<area shape="rect" id="node1" title=" " alt="" coords="252,463,439,628"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,147,216,385"/>
+<area shape="rect" id="node3" title=" " alt="" coords="41,5,180,97"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="240,147,451,385"/>
+<area shape="rect" id="node5" title=" " alt="" coords="258,5,433,97"/>
+<area shape="rect" id="node6" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="475,205,656,327"/>
+</map>

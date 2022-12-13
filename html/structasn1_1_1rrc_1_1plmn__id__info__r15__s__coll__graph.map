@@ -1,0 +1,12 @@
+<map id="asn1::rrc::plmn_id_info_r15_s" name="asn1::rrc::plmn_id_info_r15_s">
+<area shape="rect" id="node1" title=" " alt="" coords="216,1013,343,1135"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,646,172,885"/>
+<area shape="rect" id="node3" title=" " alt="" coords="12,381,165,473"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="196,646,363,885"/>
+<area shape="rect" id="node5" title=" " alt="" coords="203,381,356,473"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1plmn__id__info__r15__s_1_1plmn__id__minus5__gc__r15__c__.html" title=" " alt="" coords="387,595,590,936"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="390,323,569,532"/>
+<area shape="rect" id="node8" title=" " alt="" coords="436,101,523,178"/>
+<area shape="rect" id="node9" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="593,374,728,481"/>
+<area shape="rect" id="node10" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="561,5,761,273"/>
+</map>

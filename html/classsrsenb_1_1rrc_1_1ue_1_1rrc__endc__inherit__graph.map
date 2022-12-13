@@ -1,0 +1,5 @@
+<map id="srsenb::rrc::ue::rrc_endc" name="srsenb::rrc::ue::rrc_endc">
+<area shape="rect" id="node1" title="This procedure handles the secondary node (SgNB) addition for EUTRA&#45;NR Dual connectivity (ENDC)" alt="" coords="5,564,197,993"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1fsm__t.html" title=" " alt="" coords="8,263,195,516"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1base__fsm__t.html" title=" " alt="" coords="23,5,180,215"/>
+</map>

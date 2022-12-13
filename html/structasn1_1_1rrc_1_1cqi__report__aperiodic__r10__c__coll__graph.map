@@ -1,0 +1,11 @@
+<map id="asn1::rrc::cqi_report_aperiodic_r10_c" name="asn1::rrc::cqi_report_aperiodic_r10_c">
+<area shape="rect" id="node1" title=" " alt="" coords="345,1328,496,1596"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1cqi__report__aperiodic__r10__c_1_1setup__s__.html" title=" " alt="" coords="222,1107,403,1214"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="29,755,191,993"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,490,215,567"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1cqi__report__aperiodic__r10__c_1_1setup__s___1_1aperiodic__csi__trigger__r10__s__.html" title=" " alt="" coords="226,821,442,927"/>
+<area shape="rect" id="node6" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="267,380,401,677"/>
+<area shape="rect" id="node7" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="258,5,410,317"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="427,1056,635,1265"/>
+<area shape="rect" id="node9" title=" " alt="" coords="489,835,573,913"/>
+</map>

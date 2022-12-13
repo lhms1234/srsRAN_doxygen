@@ -1,0 +1,22 @@
+<map id="lib/include/srsran/interfaces/enb_gtpu_interfaces.h" name="lib/include/srsran/interfaces/enb_gtpu_interfaces.h">
+<area shape="rect" id="node1" title=" " alt="" coords="369,5,509,61"/>
+<area shape="rect" id="node2" href="$expected_8h.html" title=" " alt="" coords="281,117,429,143"/>
+<area shape="rect" id="node7" href="$byte__buffer_8h.html" title=" " alt="" coords="533,109,674,151"/>
+<area shape="rect" id="node3" href="$srsran__assert_8h.html" title=" " alt="" coords="5,199,151,240"/>
+<area shape="rect" id="node5" title=" " alt="" coords="562,288,631,315"/>
+<area shape="rect" id="node6" title=" " alt="" coords="219,206,318,233"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,288,88,315"/>
+<area shape="rect" id="node8" href="$common_2common_8h.html" title=" " alt="" coords="730,206,813,233"/>
+<area shape="rect" id="node9" title=" " alt="" coords="655,288,717,315"/>
+<area shape="rect" id="node14" href="$span_8h.html" title=" " alt="" coords="342,206,465,233"/>
+<area shape="rect" id="node20" title=" " alt="" coords="573,206,634,233"/>
+<area shape="rect" id="node10" title=" " alt="" coords="741,288,802,315"/>
+<area shape="rect" id="node11" title=" " alt="" coords="827,288,892,315"/>
+<area shape="rect" id="node12" title=" " alt="" coords="916,288,971,315"/>
+<area shape="rect" id="node13" title=" " alt="" coords="995,288,1078,315"/>
+<area shape="rect" id="node15" title=" " alt="" coords="389,288,463,315"/>
+<area shape="rect" id="node16" title=" " alt="" coords="487,288,538,315"/>
+<area shape="rect" id="node17" title=" " alt="" coords="112,288,175,315"/>
+<area shape="rect" id="node18" title=" " alt="" coords="199,288,282,315"/>
+<area shape="rect" id="node19" title=" " alt="" coords="306,288,365,315"/>
+</map>

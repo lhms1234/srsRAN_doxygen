@@ -1,0 +1,10 @@
+<map id="asn1::ngap::son_info_reply_s" name="asn1::ngap::son_info_reply_s">
+<area shape="rect" id="node1" title=" " alt="" coords="188,1857,360,2008"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1xn__tnl__cfg__info__s.html" title=" " alt="" coords="119,1659,248,1795"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="5,755,148,1037"/>
+<area shape="rect" id="node8" href="$structasn1_1_1ngap_1_1xn__ext__tla__item__s.html" title=" " alt="" coords="137,1100,273,1251"/>
+<area shape="rect" id="node4" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="73,380,200,692"/>
+<area shape="rect" id="node5" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="61,5,213,317"/>
+<area shape="rect" id="node6" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="286,835,467,957"/>
+<area shape="rect" id="node7" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="121,1328,262,1581"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ttcn3_ut_interface" name="ttcn3_ut_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="5,403,164,553"/>
+<area shape="rect" id="node2" href="$classttcn3__port__handler.html" title="This class provides a common function for all TTCN3 ports for SCTP socket creation,..." alt="" coords="6,131,163,355"/>
+<area shape="rect" id="node3" href="$classepoll__handler.html" title="Common helper function for epoll." alt="" coords="25,5,144,83"/>
+</map>

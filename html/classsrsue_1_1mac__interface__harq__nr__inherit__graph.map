@@ -1,0 +1,4 @@
+<map id="srsue::mac_interface_harq_nr" name="srsue::mac_interface_harq_nr">
+<area shape="rect" id="node1" title="Interface from MAC NR parent class to HARQ subclass." alt="" coords="5,5,180,141"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1mac__nr.html" title=" " alt="" coords="11,189,175,721"/>
+</map>

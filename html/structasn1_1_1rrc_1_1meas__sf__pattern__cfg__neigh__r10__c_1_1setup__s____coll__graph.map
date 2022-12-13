@@ -1,0 +1,12 @@
+<map id="asn1::rrc::meas_sf_pattern_cfg_neigh_r10_c::setup_s_" name="asn1::rrc::meas_sf_pattern_cfg_neigh_r10_c::setup_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="325,1051,485,1172"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1meas__sf__pattern__r10__c.html" title=" " alt="" coords="211,735,397,988"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,463,184,672"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,227,138,305"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,499,400,635"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="200,132,400,400"/>
+<area shape="rect" id="node7" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="437,735,581,988"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc__nr_1_1pci__range__s.html" title=" " alt="" coords="426,507,595,628"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="424,161,603,371"/>
+<area shape="rect" id="node10" title=" " alt="" coords="470,5,557,83"/>
+</map>

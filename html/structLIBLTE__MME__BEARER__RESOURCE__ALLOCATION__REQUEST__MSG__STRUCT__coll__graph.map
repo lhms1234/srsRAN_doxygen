@@ -1,0 +1,9 @@
+<map id="LIBLTE_MME_BEARER_RESOURCE_ALLOCATION_REQUEST_MSG_STRUCT" name="LIBLTE_MME_BEARER_RESOURCE_ALLOCATION_REQUEST_MSG_STRUCT">
+<area shape="rect" id="node1" title=" " alt="" coords="200,520,483,700"/>
+<area shape="rect" id="node2" href="$structLIBLTE__MME__PROTOCOL__CONFIG__OPTIONS__STRUCT.html" title=" " alt="" coords="5,292,216,384"/>
+<area shape="rect" id="node3" href="$structLIBLTE__MME__PROTOCOL__CONFIG__STRUCT.html" title=" " alt="" coords="19,20,203,141"/>
+<area shape="rect" id="node4" href="$structLIBLTE__MME__EPS__QUALITY__OF__SERVICE__STRUCT.html" title=" " alt="" coords="241,219,442,457"/>
+<area shape="rect" id="node5" href="$structLIBLTE__MME__TRAFFIC__FLOW__TEMPLATE__STRUCT.html" title=" " alt="" coords="467,277,672,399"/>
+<area shape="rect" id="node6" href="$structLIBLTE__MME__PACKET__FILTER__STRUCT.html" title=" " alt="" coords="347,5,562,156"/>
+<area shape="rect" id="node7" href="$structLIBLTE__MME__PARAMETER__STRUCT.html" title=" " alt="" coords="586,20,779,141"/>
+</map>

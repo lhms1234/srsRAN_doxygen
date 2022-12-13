@@ -1,0 +1,6 @@
+<map id="srsran::rlc_am_pdu_segment_pool&lt; HeaderType &gt;::segment_resource" name="srsran::rlc_am_pdu_segment_pool&lt; HeaderType &gt;::segment_resource">
+<area shape="rect" id="node1" title=" " alt="" coords="217,160,409,399"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1intrusive__forward__list__element.html" title=" " alt="" coords="5,13,192,105"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1intrusive__forward__list__element.html" title=" " alt="" coords="216,13,411,105"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1intrusive__double__linked__list__element.html" title=" " alt="" coords="435,5,595,112"/>
+</map>

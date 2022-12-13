@@ -1,0 +1,9 @@
+<map id="lib/src/phy/fec/polar/polar_decoder_vector_avx2.c" name="lib/src/phy/fec/polar/polar_decoder_vector_avx2.c">
+<area shape="rect" id="node1" title="Definition of the polar decoder vectorizable functions using AVX2 instructions." alt="" coords="222,5,373,61"/>
+<area shape="rect" id="node2" href="$utils__avx2_8h.html" title="Declarations of AVX2&#45;related quantities and functions." alt="" coords="5,109,109,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="134,109,197,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="221,109,286,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="311,109,372,136"/>
+<area shape="rect" id="node6" title=" " alt="" coords="396,109,460,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="485,109,550,136"/>
+</map>

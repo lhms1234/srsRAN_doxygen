@@ -1,0 +1,11 @@
+<map id="asn1::ngap::source_ran_node_id_s" name="asn1::ngap::source_ran_node_id_s">
+<area shape="rect" id="node1" title=" " alt="" coords="476,969,609,1105"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1global__ran__node__id__c.html" title=" " alt="" coords="266,653,441,907"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,367,240,532"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="23,5,223,273"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="264,345,443,554"/>
+<area shape="rect" id="node6" title=" " alt="" coords="310,101,397,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="467,389,648,510"/>
+<area shape="rect" id="node8" href="$structasn1_1_1ngap_1_1tai__s.html" title=" " alt="" coords="622,719,749,841"/>
+<area shape="rect" id="node9" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="673,323,815,576"/>
+</map>

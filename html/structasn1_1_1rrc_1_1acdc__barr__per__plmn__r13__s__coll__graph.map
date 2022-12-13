@@ -1,0 +1,10 @@
+<map id="asn1::rrc::acdc_barr_per_plmn_r13_s" name="asn1::rrc::acdc_barr_per_plmn_r13_s">
+<area shape="rect" id="node1" title=" " alt="" coords="87,1117,270,1253"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="83,787,274,1040"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1barr__per__acdc__category__r13__s.html" title=" " alt="" coords="83,588,274,724"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1barr__per__acdc__category__r13__s_1_1acdc__barr__cfg__r13__s__.html" title=" " alt="" coords="99,419,258,525"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="7,132,167,356"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,5,168,83"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="191,132,351,356"/>
+<area shape="rect" id="node8" title=" " alt="" coords="193,5,348,83"/>
+</map>

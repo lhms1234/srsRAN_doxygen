@@ -1,0 +1,4 @@
+<map id="srslog::detail::scoped_lock" name="srslog::detail::scoped_lock">
+<area shape="rect" id="node1" title="RAII style object for automatically locking and unlocking a mutex." alt="" coords="5,263,183,384"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="24,5,164,200"/>
+</map>

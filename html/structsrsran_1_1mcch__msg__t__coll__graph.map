@@ -1,0 +1,9 @@
+<map id="srsran::mcch_msg_t" name="srsran::mcch_msg_t">
+<area shape="rect" id="node1" title=" " alt="" coords="102,1028,281,1135"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1pmch__info__t.html" title=" " alt="" coords="5,829,180,965"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1pmch__info__t_1_1mbms__session__info__t.html" title=" " alt="" coords="14,645,171,767"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1tmgi__t.html" title=" " alt="" coords="37,491,148,583"/>
+<area shape="rect" id="node5" href="$unionsrsran_1_1tmgi__t_1_1choice.html" title=" " alt="" coords="19,351,167,428"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1plmn__id__t.html" title=" " alt="" coords="11,5,174,288"/>
+<area shape="rect" id="node7" href="$structsrsran_1_1mbsfn__sf__cfg__t.html" title=" " alt="" coords="205,837,375,958"/>
+</map>

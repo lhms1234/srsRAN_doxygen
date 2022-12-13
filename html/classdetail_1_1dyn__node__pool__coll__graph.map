@@ -1,0 +1,4 @@
+<map id="detail::dyn_node_pool" name="detail::dyn_node_pool">
+<area shape="rect" id="node1" title=" " alt="" coords="5,145,153,325"/>
+<area shape="rect" id="node2" title="This special mutex has priority inheritance to improve latency." alt="" coords="25,5,133,83"/>
+</map>

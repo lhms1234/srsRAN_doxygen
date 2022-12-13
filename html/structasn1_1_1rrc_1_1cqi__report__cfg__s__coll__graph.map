@@ -1,0 +1,13 @@
+<map id="asn1::rrc::cqi_report_cfg_s" name="asn1::rrc::cqi_report_cfg_s">
+<area shape="rect" id="node1" title=" " alt="" coords="435,1279,626,1459"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1cqi__report__periodic__c.html" title=" " alt="" coords="332,985,497,1209"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1cqi__report__periodic__c_1_1setup__s__.html" title=" " alt="" coords="106,735,286,885"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1cqi__report__periodic__c_1_1setup__s___1_1cqi__format__ind__periodic__c__.html" title=" " alt="" coords="96,404,296,643"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,184,341"/>
+<area shape="rect" id="node6" title=" " alt="" coords="51,5,138,83"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1cqi__report__periodic__c_1_1setup__s___1_1cqi__format__ind__periodic__c___1_1subband__cqi__s__.html" title=" " alt="" coords="209,176,383,297"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="311,705,519,915"/>
+<area shape="rect" id="node9" title=" " alt="" coords="373,485,457,562"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="556,977,719,1216"/>
+<area shape="rect" id="node11" title=" " alt="" coords="543,771,753,849"/>
+</map>

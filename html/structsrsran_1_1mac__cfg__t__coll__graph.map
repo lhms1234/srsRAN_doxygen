@@ -1,0 +1,8 @@
+<map id="srsran::mac_cfg_t" name="srsran::mac_cfg_t">
+<area shape="rect" id="node1" title=" " alt="" coords="292,307,491,413"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1ul__harq__cfg__t.html" title=" " alt="" coords="5,71,153,178"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1sr__cfg__t.html" title=" " alt="" coords="177,71,291,178"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1phr__cfg__t.html" title=" " alt="" coords="315,49,468,200"/>
+<area shape="rect" id="node5" href="$structsrsran_1_1rach__cfg__t.html" title=" " alt="" coords="493,5,695,244"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1bsr__cfg__t.html" title=" " alt="" coords="719,71,839,178"/>
+</map>

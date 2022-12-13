@@ -1,0 +1,9 @@
+<map id="srsenb::metrics_json" name="srsenb::metrics_json">
+<area shape="rect" id="node1" title=" " alt="" coords="187,623,329,729"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1metrics__listener.html" title=" " alt="" coords="5,336,164,443"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1enb__metrics__interface.html" title=" " alt="" coords="188,343,328,435"/>
+<area shape="rect" id="node4" href="$classsrsran_1_1metrics__interface.html" title=" " alt="" coords="175,35,341,127"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1log__channel.html" title=" " alt="" coords="352,219,543,560"/>
+<area shape="rect" id="node6" href="$classsrslog_1_1detail_1_1log__backend.html" title=" " alt="" coords="374,5,505,156"/>
+<area shape="rect" id="node7" href="$classsrslog_1_1sink.html" title=" " alt="" coords="529,5,648,156"/>
+</map>

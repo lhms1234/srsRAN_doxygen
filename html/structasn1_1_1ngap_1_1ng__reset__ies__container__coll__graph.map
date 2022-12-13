@@ -1,0 +1,18 @@
+<map id="asn1::ngap::ng_reset_ies_container" name="asn1::ngap::ng_reset_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="213,1611,389,1747"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="322,1441,503,1548"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="310,1168,515,1392"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="416,903,583,1098"/>
+<area shape="rect" id="node5" href="$structasn1_1_1ngap_1_1reset__type__c.html" title=" " alt="" coords="415,595,584,833"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="6,323,185,532"/>
+<area shape="rect" id="node15" href="$structasn1_1_1ngap_1_1cause__c.html" title=" " alt="" coords="33,595,176,833"/>
+<area shape="rect" id="node7" title=" " alt="" coords="52,101,139,178"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="415,359,592,495"/>
+<area shape="rect" id="node9" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="302,5,502,273"/>
+<area shape="rect" id="node16" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="209,367,390,488"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="228,896,392,1105"/>
+<area shape="rect" id="node13" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="102,1168,281,1392"/>
+<area shape="rect" id="node11" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="256,675,364,753"/>
+<area shape="rect" id="node12" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="85,1449,298,1541"/>
+<area shape="rect" id="node14" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="5,911,204,1091"/>
+</map>

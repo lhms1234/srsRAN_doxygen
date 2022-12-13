@@ -1,0 +1,11 @@
+<map id="LIBLTE_MME_ACTIVATE_DEFAULT_EPS_BEARER_CONTEXT_REQUEST_MSG_STRUCT" name="LIBLTE_MME_ACTIVATE_DEFAULT_EPS_BEARER_CONTEXT_REQUEST_MSG_STRUCT">
+<area shape="rect" id="node1" title=" " alt="" coords="692,491,895,759"/>
+<area shape="rect" id="node2" href="$structLIBLTE__MME__PROTOCOL__CONFIG__OPTIONS__STRUCT.html" title=" " alt="" coords="5,263,216,355"/>
+<area shape="rect" id="node3" href="$structLIBLTE__MME__PROTOCOL__CONFIG__STRUCT.html" title=" " alt="" coords="19,5,203,127"/>
+<area shape="rect" id="node4" href="$structLIBLTE__MME__TRANSACTION__IDENTIFIER__STRUCT.html" title=" " alt="" coords="241,248,447,369"/>
+<area shape="rect" id="node5" href="$structLIBLTE__MME__QUALITY__OF__SERVICE__STRUCT.html" title=" " alt="" coords="472,189,661,428"/>
+<area shape="rect" id="node6" href="$structLIBLTE__MME__ACCESS__POINT__NAME__STRUCT.html" title=" " alt="" coords="686,263,901,355"/>
+<area shape="rect" id="node7" href="$structLIBLTE__MME__APN__AGGREGATE__MAXIMUM__BIT__RATE__STRUCT.html" title=" " alt="" coords="925,211,1153,406"/>
+<area shape="rect" id="node8" href="$structLIBLTE__MME__PDN__ADDRESS__STRUCT.html" title=" " alt="" coords="1177,255,1389,362"/>
+<area shape="rect" id="node9" href="$structLIBLTE__MME__EPS__QUALITY__OF__SERVICE__STRUCT.html" title=" " alt="" coords="1413,189,1614,428"/>
+</map>

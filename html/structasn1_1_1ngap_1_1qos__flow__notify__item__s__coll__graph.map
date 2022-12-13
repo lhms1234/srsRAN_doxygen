@@ -1,0 +1,6 @@
+<map id="asn1::ngap::qos_flow_notify_item_s" name="asn1::ngap::qos_flow_notify_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="161,404,308,555"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,176,341"/>
+<area shape="rect" id="node3" title=" " alt="" coords="30,5,151,83"/>
+<area shape="rect" id="node4" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="200,176,381,297"/>
+</map>

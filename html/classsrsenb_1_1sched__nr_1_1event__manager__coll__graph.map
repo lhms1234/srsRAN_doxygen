@@ -1,0 +1,6 @@
+<map id="srsenb::sched_nr::event_manager" name="srsenb::sched_nr::event_manager">
+<area shape="rect" id="node1" title="Class that stores events that are not specific to a CC (e.g. SRs, removal of UEs, buffer state update..." alt="" coords="5,535,199,773"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="7,263,197,472"/>
+<area shape="rect" id="node3" title=" " alt="" coords="27,64,65,141"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="89,5,229,200"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="srsue/hdr/phy/nr/sync_sa.h" name="srsue/hdr/phy/nr/sync_sa.h">
+<area shape="rect" id="node1" title=" " alt="" coords="346,5,526,32"/>
+<area shape="rect" id="node2" href="$phy__nr__sa_8h.html" title=" " alt="" coords="259,87,435,114"/>
+<area shape="rect" id="node8" href="$sync__sa_8cc.html" title=" " alt="" coords="459,80,592,121"/>
+<area shape="rect" id="node3" href="$phy__nr__sa_8cc.html" title=" " alt="" coords="5,169,149,211"/>
+<area shape="rect" id="node4" href="$nr__sa__cell__search__test_8cc.html" title=" " alt="" coords="173,169,352,211"/>
+<area shape="rect" id="node5" href="$srsue_2src_2ue_8cc.html" title=" " alt="" coords="376,177,488,203"/>
+<area shape="rect" id="node6" href="$test__bench_8h.html" title=" " alt="" coords="511,177,659,203"/>
+<area shape="rect" id="node7" href="$nr__phy__test_8cc.html" title=" " alt="" coords="506,259,665,285"/>
+</map>

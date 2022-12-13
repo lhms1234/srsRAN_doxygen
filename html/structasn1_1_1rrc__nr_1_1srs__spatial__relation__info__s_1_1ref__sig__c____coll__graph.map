@@ -1,0 +1,7 @@
+<map id="asn1::rrc_nr::srs_spatial_relation_info_s::ref_sig_c_" name="asn1::rrc_nr::srs_spatial_relation_info_s::ref_sig_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="111,595,292,848"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="24,367,187,488"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="211,323,389,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="257,101,343,178"/>
+</map>

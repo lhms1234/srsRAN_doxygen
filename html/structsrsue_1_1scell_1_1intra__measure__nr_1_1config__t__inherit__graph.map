@@ -1,0 +1,4 @@
+<map id="srsue::scell::intra_measure_nr::config_t" name="srsue::scell::intra_measure_nr::config_t">
+<area shape="rect" id="node1" title="Describes the required configuration arguments to start measurements." alt="" coords="9,219,160,369"/>
+<area shape="rect" id="node2" href="$structsrsue_1_1scell_1_1intra__measure__base_1_1args__t.html" title="Describes the default generic configuration arguments." alt="" coords="5,5,164,171"/>
+</map>

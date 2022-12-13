@@ -1,0 +1,22 @@
+<map id="asn1::s1ap::erab_level_qos_params_s" name="asn1::s1ap::erab_level_qos_params_s">
+<area shape="rect" id="node1" title=" " alt="" coords="614,1907,773,2072"/>
+<area shape="rect" id="node2" href="$structasn1_1_1s1ap_1_1alloc__and__retention__prio__s.html" title=" " alt="" coords="313,1671,463,1822"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="211,1161,375,1399"/>
+<area shape="rect" id="node4" title=" " alt="" coords="193,889,394,966"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="400,1175,597,1385"/>
+<area shape="rect" id="node6" title=" " alt="" coords="422,889,575,966"/>
+<area shape="rect" id="node7" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="5,1219,187,1341"/>
+<area shape="rect" id="node8" href="$structasn1_1_1s1ap_1_1erab__qos__params__ext__ies__container.html" title=" " alt="" coords="603,1431,784,1625"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ext__container__item__s.html" title=" " alt="" coords="604,867,772,988"/>
+<area shape="rect" id="node10" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="588,571,775,810"/>
+<area shape="rect" id="node11" href="$structasn1_1_1detail_1_1ie__ext__item.html" title=" " alt="" coords="537,292,708,501"/>
+<area shape="rect" id="node12" href="$classasn1_1_1integer.html" title=" " alt="" coords="541,13,704,222"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="733,292,897,501"/>
+<area shape="rect" id="node18" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="799,564,1020,817"/>
+<area shape="rect" id="node14" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="761,79,869,156"/>
+<area shape="rect" id="node15" href="$structasn1_1_1s1ap_1_1gbr__qos__info__s.html" title=" " alt="" coords="778,1649,969,1844"/>
+<area shape="rect" id="node16" href="$structasn1_1_1s1ap_1_1gbr__qos__info__ext__ies__container.html" title=" " alt="" coords="809,1153,999,1407"/>
+<area shape="rect" id="node17" href="$structasn1_1_1protocol__ext__container__item__s.html" title=" " alt="" coords="799,867,1015,988"/>
+<area shape="rect" id="node19" href="$structasn1_1_1detail_1_1ie__ext__item.html" title=" " alt="" coords="921,292,1122,501"/>
+<area shape="rect" id="node20" href="$classasn1_1_1integer.html" title=" " alt="" coords="911,5,1132,229"/>
+</map>

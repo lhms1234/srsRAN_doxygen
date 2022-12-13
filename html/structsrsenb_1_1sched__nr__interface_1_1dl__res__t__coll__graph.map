@@ -1,0 +1,12 @@
+<map id="srsenb::sched_nr_interface::dl_res_t" name="srsenb::sched_nr_interface::dl_res_t">
+<area shape="rect" id="node1" title=" " alt="" coords="573,784,751,876"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1bounded__vector.html" title=" " alt="" coords="231,409,423,721"/>
+<area shape="rect" id="node3" href="$structsrsenb_1_1mac__interface__phy__nr_1_1dl__sched__t.html" title=" " alt="" coords="448,519,599,611"/>
+<area shape="rect" id="node4" href="$classsrsran_1_1bounded__vector.html" title=" " alt="" coords="5,13,196,339"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1bounded__vector.html" title=" " alt="" coords="220,13,411,339"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1bounded__vector.html" title=" " alt="" coords="435,5,611,347"/>
+<area shape="rect" id="node7" href="$classsrsran_1_1bounded__vector.html" title=" " alt="" coords="635,13,870,339"/>
+<area shape="rect" id="node8" href="$classsrsran_1_1bounded__vector.html" title=" " alt="" coords="894,5,1070,347"/>
+<area shape="rect" id="node9" href="$classsrsran_1_1bounded__vector.html" title=" " alt="" coords="623,409,795,721"/>
+<area shape="rect" id="node10" href="$classsrsran_1_1bounded__vector.html" title=" " alt="" coords="819,409,1014,721"/>
+</map>

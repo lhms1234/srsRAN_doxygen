@@ -1,0 +1,5 @@
+<map id="lib/src/phy/fec/polar/polar_decoder_ssc_s.h" name="lib/src/phy/fec/polar/polar_decoder_ssc_s.h">
+<area shape="rect" id="node1" title="Definition of the SSC polar decoder inner functions working with 16&#45;bit integer&#45;valued LLRs." alt="" coords="79,5,239,47"/>
+<area shape="rect" id="node2" href="$polar__decoder_8c.html" title="Definition of the polar decoder." alt="" coords="5,95,141,136"/>
+<area shape="rect" id="node3" href="$polar__decoder__ssc__s_8c.html" title="Definition of the SSC polar decoder inner functions working with 16&#45;bit integer&#45;valued LLRs." alt="" coords="165,95,325,136"/>
+</map>

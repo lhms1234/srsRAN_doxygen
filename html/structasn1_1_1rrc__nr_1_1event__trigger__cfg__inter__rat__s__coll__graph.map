@@ -1,0 +1,15 @@
+<map id="asn1::rrc_nr::event_trigger_cfg_inter_rat_s" name="asn1::rrc_nr::event_trigger_cfg_inter_rat_s">
+<area shape="rect" id="node1" title=" " alt="" coords="373,984,531,1120"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1meas__report__quant__s.html" title=" " alt="" coords="5,683,136,833"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="160,653,339,863"/>
+<area shape="rect" id="node4" title=" " alt="" coords="181,389,318,466"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="363,653,541,863"/>
+<area shape="rect" id="node6" title=" " alt="" coords="389,389,515,466"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="566,653,733,863"/>
+<area shape="rect" id="node8" title=" " alt="" coords="592,389,707,466"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc__nr_1_1event__trigger__cfg__inter__rat__s_1_1event__id__c__.html" title=" " alt="" coords="757,595,901,921"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="735,323,913,532"/>
+<area shape="rect" id="node11" title=" " alt="" coords="781,101,867,178"/>
+<area shape="rect" id="node12" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="937,345,1140,510"/>
+<area shape="rect" id="node13" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="939,5,1139,273"/>
+</map>

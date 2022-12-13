@@ -1,0 +1,12 @@
+<map id="asn1::rrc::band_combination_params_v1250_s" name="asn1::rrc::band_combination_params_v1250_s">
+<area shape="rect" id="node1" title=" " alt="" coords="161,1359,347,1553"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="5,969,132,1281"/>
+<area shape="rect" id="node3" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="107,595,259,907"/>
+<area shape="rect" id="node10" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="156,977,307,1274"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1band__combination__params__v1250__s_1_1dc__support__r12__s__.html" title=" " alt="" coords="331,1065,577,1186"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1band__combination__params__v1250__s_1_1dc__support__r12__s___1_1supported__cell__grouping__r12__c__.html" title=" " alt="" coords="323,595,585,907"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="261,323,439,532"/>
+<area shape="rect" id="node7" title=" " alt="" coords="307,101,393,178"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="464,374,599,481"/>
+<area shape="rect" id="node9" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="431,5,631,273"/>
+</map>

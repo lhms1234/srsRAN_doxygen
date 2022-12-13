@@ -1,0 +1,13 @@
+<map id="srsue::phy" name="srsue::phy">
+<area shape="rect" id="node1" title=" " alt="" coords="392,777,595,1309"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1ue__phy__base.html" title=" " alt="" coords="77,549,216,729"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1phy__interface__stack__lte.html" title=" " alt="" coords="241,593,381,685"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1phy__interface__mac__lte.html" title=" " alt="" coords="18,299,185,450"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1phy__interface__mac__common.html" title=" " alt="" coords="5,5,197,200"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1phy__interface__rrc__lte.html" title=" " alt="" coords="209,248,393,501"/>
+<area shape="rect" id="node7" href="$classsrsue_1_1phy__interface__stack__nr.html" title=" " alt="" coords="423,593,563,685"/>
+<area shape="rect" id="node8" href="$classsrsue_1_1phy__interface__mac__nr.html" title=" " alt="" coords="418,292,590,457"/>
+<area shape="rect" id="node9" href="$classsrsue_1_1phy__interface__rrc__nr.html" title=" " alt="" coords="615,299,756,450"/>
+<area shape="rect" id="node10" href="$classsrsran_1_1phy__interface__radio.html" title=" " alt="" coords="588,586,732,693"/>
+<area shape="rect" id="node11" title=" " alt="" coords="756,601,815,678"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="srslog::syslog_sink" name="srslog::syslog_sink">
+<area shape="rect" id="node1" title="This sink implementation writes to syslog." alt="" coords="5,204,140,369"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1sink.html" title=" " alt="" coords="13,5,132,156"/>
+</map>

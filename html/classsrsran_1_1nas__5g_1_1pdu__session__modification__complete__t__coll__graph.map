@@ -1,0 +1,5 @@
+<map id="srsran::nas_5g::pdu_session_modification_complete_t" name="srsran::nas_5g::pdu_session_modification_complete_t">
+<area shape="rect" id="node1" title=" " alt="" coords="86,219,307,443"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1nas__5g_1_1extended__protocol__configuration__options__t.html" title=" " alt="" coords="5,13,175,134"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1nas__5g_1_1port__management__information__container__t.html" title=" " alt="" coords="199,5,408,141"/>
+</map>

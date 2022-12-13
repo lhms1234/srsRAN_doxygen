@@ -1,0 +1,9 @@
+<map id="asn1::rrc_nr::inter_rat_params_s" name="asn1::rrc_nr::inter_rat_params_s">
+<area shape="rect" id="node1" title=" " alt="" coords="214,1328,338,1464"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1eutra__params__s.html" title=" " alt="" coords="191,1085,361,1265"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1eutra__params__common__s.html" title=" " alt="" coords="5,762,173,1001"/>
+<area shape="rect" id="node4" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="18,380,161,677"/>
+<area shape="rect" id="node5" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="13,5,165,317"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc__nr_1_1eutra__params__xdd__diff__s.html" title=" " alt="" coords="197,806,355,957"/>
+<area shape="rect" id="node7" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="379,755,565,1008"/>
+</map>

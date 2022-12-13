@@ -1,0 +1,13 @@
+<map id="asn1::ngap::qos_flow_per_tnl_info_s" name="asn1::ngap::qos_flow_per_tnl_info_s">
+<area shape="rect" id="node1" title=" " alt="" coords="259,1153,406,1289"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="59,786,249,1039"/>
+<area shape="rect" id="node3" href="$structasn1_1_1ngap_1_1associated__qos__flow__item__s.html" title=" " alt="" coords="58,485,250,650"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,154,188,378"/>
+<area shape="rect" id="node5" title=" " alt="" coords="15,5,178,83"/>
+<area shape="rect" id="node6" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="213,205,394,327"/>
+<area shape="rect" id="node7" href="$structasn1_1_1ngap_1_1up__transport__layer__info__c.html" title=" " alt="" coords="377,735,544,1091"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="371,463,550,672"/>
+<area shape="rect" id="node9" title=" " alt="" coords="419,227,505,305"/>
+<area shape="rect" id="node10" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="574,499,787,635"/>
+<area shape="rect" id="node11" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="581,132,781,400"/>
+</map>

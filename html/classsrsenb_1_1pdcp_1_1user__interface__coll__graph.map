@@ -1,0 +1,12 @@
+<map id="srsenb::pdcp::user_interface" name="srsenb::pdcp::user_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="497,505,628,597"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1pdcp_1_1user__interface__rlc.html" title=" " alt="" coords="212,270,359,421"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1rlc__interface__pdcp.html" title=" " alt="" coords="5,27,173,163"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1rlc__interface__pdcp.html" title=" " alt="" coords="198,27,373,163"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1pdcp_1_1user__interface__rrc.html" title=" " alt="" coords="477,248,648,443"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1rrc__interface__pdcp.html" title=" " alt="" coords="397,5,568,185"/>
+<area shape="rect" id="node7" href="$classsrsenb_1_1rrc__interface__pdcp.html" title="RRC interface for PDCP." alt="" coords="592,42,768,149"/>
+<area shape="rect" id="node8" href="$classsrsenb_1_1pdcp_1_1user__interface__gtpu.html" title=" " alt="" coords="812,292,943,399"/>
+<area shape="rect" id="node9" href="$classsrsue_1_1gw__interface__pdcp.html" title=" " alt="" coords="792,49,963,141"/>
+<area shape="rect" id="node10" href="$classsrsenb_1_1gtpu__interface__pdcp.html" title=" " alt="" coords="987,57,1173,134"/>
+</map>

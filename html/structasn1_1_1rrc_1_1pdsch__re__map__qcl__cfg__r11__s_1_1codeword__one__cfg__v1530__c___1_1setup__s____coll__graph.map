@@ -1,0 +1,20 @@
+<map id="asn1::rrc::pdsch_re_map_qcl_cfg_r11_s::codeword_one_cfg_v1530_c_::setup_s_" name="asn1::rrc::pdsch_re_map_qcl_cfg_r11_s::codeword_one_cfg_v1530_c_::setup_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="304,1469,483,1723"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="11,1153,194,1377"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,962,195,1039"/>
+<area shape="rect" id="node4" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="220,1139,383,1392"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1mbsfn__sf__cfg__s.html" title=" " alt="" coords="219,925,387,1076"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="18,624,225,833"/>
+<area shape="rect" id="node7" title=" " alt="" coords="13,389,203,466"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc_1_1mbsfn__sf__cfg__s_1_1sf__alloc__c__.html" title=" " alt="" coords="250,602,385,855"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="228,323,407,532"/>
+<area shape="rect" id="node15" href="$structasn1_1_1rrc_1_1mbsfn__sf__cfg__v1430__s_1_1sf__alloc__v1430__c__.html" title=" " alt="" coords="409,595,567,863"/>
+<area shape="rect" id="node10" title=" " alt="" coords="274,101,361,178"/>
+<area shape="rect" id="node11" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="431,374,566,481"/>
+<area shape="rect" id="node12" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="477,5,677,273"/>
+<area shape="rect" id="node16" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="590,374,725,481"/>
+<area shape="rect" id="node13" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="407,1139,569,1392"/>
+<area shape="rect" id="node14" href="$structasn1_1_1rrc_1_1mbsfn__sf__cfg__v1430__s.html" title=" " alt="" coords="421,925,555,1076"/>
+<area shape="rect" id="node17" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="594,1161,785,1370"/>
+<area shape="rect" id="node18" title=" " alt="" coords="607,962,771,1039"/>
+</map>

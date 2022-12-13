@@ -1,0 +1,5 @@
+<map id="srsue::scell::intra_measure_base::meas_itf" name="srsue::scell::intra_measure_base::meas_itf">
+<area shape="rect" id="node1" title="Describes an interface for reporting new cell measurements." alt="" coords="79,5,251,112"/>
+<area shape="rect" id="node2" href="$classmeas__itf__listener.html" title=" " alt="" coords="5,365,147,589"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1sync.html" title=" " alt="" coords="171,160,341,795"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="asn1::rrc::pcch_msg_type_nb_c::c1_c_" name="asn1::rrc::pcch_msg_type_nb_c::c1_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="128,1639,269,1804"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1paging__nb__s.html" title=" " alt="" coords="103,1396,294,1576"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="116,1080,281,1333"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1paging__record__nb__r13__s.html" title=" " alt="" coords="117,896,280,1017"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1paging__ue__id__c.html" title=" " alt="" coords="113,595,284,833"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node7" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,367,397,488"/>
+<area shape="rect" id="node9" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="203,5,403,273"/>
+</map>

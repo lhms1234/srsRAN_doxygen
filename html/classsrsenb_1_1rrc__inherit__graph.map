@@ -1,0 +1,8 @@
+<map id="srsenb::rrc" name="srsenb::rrc">
+<area shape="rect" id="node1" title=" " alt="" coords="387,277,581,971"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1rrc__interface__pdcp.html" title="RRC interface for PDCP." alt="" coords="5,64,181,171"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1rrc__interface__mac.html" title="RRC interface for MAC." alt="" coords="205,27,379,207"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1rrc__interface__rlc.html" title="RRC interface for RLC." alt="" coords="403,64,565,171"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1rrc__interface__s1ap.html" title=" " alt="" coords="590,5,789,229"/>
+<area shape="rect" id="node6" href="$classsrsenb_1_1rrc__eutra__interface__rrc__nr.html" title="X2AP inspired interface for response from NR RRC to EUTRA RRC." alt="" coords="813,35,995,200"/>
+</map>

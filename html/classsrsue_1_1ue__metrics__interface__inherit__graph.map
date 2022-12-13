@@ -1,0 +1,8 @@
+<map id="srsue::ue_metrics_interface" name="srsue::ue_metrics_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="265,145,447,223"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1eutra__ue__dummy.html" title=" " alt="" coords="5,410,168,487"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1nsa__ue__dummy.html" title=" " alt="" coords="192,410,347,487"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1sa__ue__dummy.html" title=" " alt="" coords="371,410,517,487"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1ue.html" title=" " alt="" coords="542,271,671,627"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1metrics__interface.html" title=" " alt="" coords="273,5,439,97"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="asn1::rrc_nr::registered_amf_s" name="asn1::rrc_nr::registered_amf_s">
+<area shape="rect" id="node1" title=" " alt="" coords="90,740,246,861"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="10,380,153,677"/>
+<area shape="rect" id="node3" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="5,5,157,317"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1plmn__id__s.html" title=" " alt="" coords="177,468,335,589"/>
+<area shape="rect" id="node5" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="185,27,327,295"/>
+</map>

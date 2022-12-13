@@ -1,0 +1,10 @@
+<map id="asn1::s1ap::recommended_enbs_for_paging_s" name="asn1::s1ap::recommended_enbs_for_paging_s">
+<area shape="rect" id="node1" title=" " alt="" coords="131,1392,307,1528"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="19,1047,209,1329"/>
+<area shape="rect" id="node3" href="$structasn1_1_1protocol__ie__single__container__s.html" title=" " alt="" coords="19,877,209,984"/>
+<area shape="rect" id="node4" href="$structasn1_1_1protocol__ie__field__s.html" title=" " alt="" coords="19,721,209,828"/>
+<area shape="rect" id="node5" href="$structasn1_1_1detail_1_1base__ie__field.html" title=" " alt="" coords="5,389,223,672"/>
+<area shape="rect" id="node6" href="$structasn1_1_1detail_1_1ie__field__value__item.html" title=" " alt="" coords="21,219,207,340"/>
+<area shape="rect" id="node7" href="$structasn1_1_1s1ap_1_1recommended__enb__item__ies__o.html" title=" " alt="" coords="26,5,202,156"/>
+<area shape="rect" id="node8" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="234,1127,415,1249"/>
+</map>

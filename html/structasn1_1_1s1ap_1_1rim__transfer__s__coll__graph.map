@@ -1,0 +1,11 @@
+<map id="asn1::s1ap::rim_transfer_s" name="asn1::s1ap::rim_transfer_s">
+<area shape="rect" id="node1" title=" " alt="" coords="210,999,387,1149"/>
+<area shape="rect" id="node2" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="5,639,184,936"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,323,184,576"/>
+<area shape="rect" id="node4" href="$structasn1_1_1s1ap_1_1rim__routing__address__c.html" title=" " alt="" coords="208,661,389,914"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="208,345,387,554"/>
+<area shape="rect" id="node6" title=" " alt="" coords="254,101,341,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="411,381,578,517"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="395,5,595,273"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="413,727,595,848"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="srsue::phy" name="srsue::phy">
+<area shape="rect" id="node1" title=" " alt="" coords="1265,2693,1467,3123"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1ue__phy__base.html" title=" " alt="" coords="117,2209,255,2389"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1phy__interface__stack__lte.html" title=" " alt="" coords="280,2253,420,2345"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1phy__interface__mac__lte.html" title=" " alt="" coords="5,1592,172,1743"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1phy__interface__rrc__lte.html" title=" " alt="" coords="197,1541,381,1794"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1phy__interface__stack__nr.html" title=" " alt="" coords="507,2253,647,2345"/>
+<area shape="rect" id="node7" href="$classsrsue_1_1phy__interface__mac__nr.html" title=" " alt="" coords="405,1585,577,1750"/>
+<area shape="rect" id="node8" href="$classsrsue_1_1phy__interface__rrc__nr.html" title=" " alt="" coords="602,1592,743,1743"/>
+<area shape="rect" id="node9" href="$classsrsran_1_1phy__interface__radio.html" title=" " alt="" coords="671,2245,815,2352"/>
+<area shape="rect" id="node10" title=" " alt="" coords="767,1629,826,1706"/>
+<area shape="rect" id="node44" href="$classsrsue_1_1phy__cmd__proc.html" title=" " alt="" coords="890,2231,1037,2367"/>
+<area shape="rect" id="node50" href="$classsrsue_1_1sync.html" title=" " alt="" coords="2012,1981,2181,2616"/>
+<area shape="rect" id="node11" href="$classsrsue_1_1stack__interface__phy__nr.html" title=" " alt="" coords="1304,1129,1455,1221"/>
+<area shape="rect" id="node12" href="$classsrsue_1_1mac__interface__phy__nr.html" title=" " alt="" coords="1657,711,1819,891"/>
+<area shape="rect" id="node21" href="$classsrsue_1_1nr_1_1state.html" title=" " alt="" coords="1693,1005,1876,1346"/>
+<area shape="rect" id="node13" href="$classsrsue_1_1rrc__interface__phy__nr.html" title=" " alt="" coords="945,725,1136,876"/>
+<area shape="rect" id="node14" href="$classsrsue_1_1stack__interface__phy__lte.html" title=" " alt="" coords="2500,1129,2651,1221"/>
+<area shape="rect" id="node48" href="$classsrsue_1_1phy__common.html" title=" " alt="" coords="2619,1431,2785,1904"/>
+<area shape="rect" id="node15" href="$classsrsue_1_1mac__interface__phy__lte.html" title=" " alt="" coords="2673,703,2819,898"/>
+<area shape="rect" id="node16" href="$classsrsue_1_1rrc__interface__phy__lte.html" title=" " alt="" coords="2481,711,2649,891"/>
+<area shape="rect" id="node17" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="2285,1071,2476,1280"/>
+<area shape="rect" id="node20" href="$classsrsue_1_1nr_1_1worker__pool.html" title=" " alt="" coords="1597,1482,1769,1853"/>
+<area shape="rect" id="node49" href="$classsrsue_1_1prach.html" title=" " alt="" coords="1794,1475,1938,1860"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2405,762,2444,839"/>
+<area shape="rect" id="node19" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="2241,703,2381,898"/>
+<area shape="rect" id="node22" href="$structSRSRAN__API.html" title="CFR module configuration arguments." alt="" coords="1370,292,1583,560"/>
+<area shape="rect" id="node32" href="$structsrsran__cqi__value__t.html" title=" " alt="" coords="1161,755,1291,847"/>
+<area shape="rect" id="node34" href="$structsrsran__uci__nr__t.html" title=" " alt="" coords="1315,725,1475,876"/>
+<area shape="rect" id="node38" href="$structsrsran_1_1phy__cfg__nr__t.html" title=" " alt="" coords="1479,1063,1669,1287"/>
+<area shape="rect" id="node39" href="$structsrsran_1_1phy__cfg__nr__t_1_1ssb__cfg__t.html" title=" " alt="" coords="1500,747,1632,854"/>
+<area shape="rect" id="node40" href="$structsrsran__prach__cfg__t.html" title=" " alt="" coords="699,696,921,905"/>
+<area shape="rect" id="node43" href="$structsrsran_1_1phy__cfg__t.html" title=" " alt="" coords="722,1115,898,1236"/>
+<area shape="rect" id="node23" href="$structsrsran__pusch__hopping__cfg__t.html" title=" " alt="" coords="398,27,550,193"/>
+<area shape="rect" id="node24" href="$structsrsran__mib__nb__t.html" title=" " alt="" coords="574,35,702,185"/>
+<area shape="rect" id="node25" href="$structsrsran__dci__cfg__t.html" title=" " alt="" coords="726,27,881,193"/>
+<area shape="rect" id="node26" href="$structsrsran__ra__nbits__t.html" title="Structure that gives the number of encoded bits and RE for a UL/DL grant." alt="" coords="905,49,1027,171"/>
+<area shape="rect" id="node27" href="$structsrsran__pdcch__nr__args__t.html" title="PDCCH configuration initialization arguments." alt="" coords="1052,57,1213,163"/>
+<area shape="rect" id="node28" href="$structsrsran__refsignal__ul__dmrs__pregen__t.html" title=" " alt="" coords="1238,57,1369,163"/>
+<area shape="rect" id="node29" href="$structsrsran__ue__ul__powerctrl__t.html" title=" " alt="" coords="1393,5,1560,215"/>
+<area shape="rect" id="node30" href="$structsrsran__cqi__report__cfg__t.html" title=" " alt="" coords="1584,13,1761,207"/>
+<area shape="rect" id="node31" href="$structsrsran__evm__buffer__t.html" title=" " alt="" coords="1785,57,1925,163"/>
+<area shape="rect" id="node33" href="$structsrsran__interp__linsrsran__vec__t.html" title=" " alt="" coords="1949,49,2103,171"/>
+<area shape="rect" id="node35" href="$structsrsran__beta__offsets__t.html" title="Beta offset configuration provided from upper layers." alt="" coords="2127,5,2274,215"/>
+<area shape="rect" id="node36" href="$structsrsran__refsignal__srs__pregen__t.html" title=" " alt="" coords="2298,64,2437,156"/>
+<area shape="rect" id="node37" href="$structsrsran__uci__bit__t.html" title=" " alt="" coords="2461,64,2575,156"/>
+<area shape="rect" id="node41" href="$classsrsran_1_1thread__pool.html" title=" " alt="" coords="1901,997,2058,1353"/>
+<area shape="rect" id="node42" href="$classsrsue_1_1lte_1_1worker__pool.html" title=" " alt="" coords="1962,1563,2117,1772"/>
+<area shape="rect" id="node45" href="$classsrsran_1_1block__queue.html" title=" " alt="" coords="850,1467,1053,1867"/>
+<area shape="rect" id="node46" href="$classsrsran_1_1radio__interface__phy.html" title=" " alt="" coords="2675,1063,2854,1287"/>
+<area shape="rect" id="node47" href="$structsrsue_1_1phy__args__t.html" title=" " alt="" coords="2929,1063,3056,1287"/>
+</map>

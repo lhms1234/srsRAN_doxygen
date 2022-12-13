@@ -1,0 +1,4 @@
+<map id="srslog::detail::work_queue&lt; T, capacity &gt;" name="srslog::detail::work_queue&lt; T, capacity &gt;">
+<area shape="rect" id="node1" title="Thread safe generic data type work queue." alt="" coords="5,263,156,472"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="11,5,151,200"/>
+</map>

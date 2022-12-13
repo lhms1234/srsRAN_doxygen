@@ -1,0 +1,8 @@
+<map id="asn1::rrc::bcch_dl_sch_msg_type_br_r13_c" name="asn1::rrc::bcch_dl_sch_msg_type_br_r13_c">
+<area shape="rect" id="node1" title=" " alt="" coords="31,984,201,1223"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1bcch__dl__sch__msg__type__br__r13__c_1_1c1__c__.html" title=" " alt="" coords="161,595,327,921"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,374,387,481"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="197,5,397,273"/>
+</map>

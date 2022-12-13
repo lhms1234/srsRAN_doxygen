@@ -1,0 +1,8 @@
+<map id="lib/src/phy/fec/ldpc/ldpc_enc_all.h" name="lib/src/phy/fec/ldpc/ldpc_enc_all.h">
+<area shape="rect" id="node1" title="Declaration of the LDPC encoder inner functions." alt="" coords="337,5,469,47"/>
+<area shape="rect" id="node2" href="$ldpc__enc__avx2_8c.html" title="Definition of the LDPC encoder inner functions (AVX2 version, small lifting size)." alt="" coords="5,95,137,136"/>
+<area shape="rect" id="node3" href="$ldpc__enc__avx2long_8c.html" title="Definition of the LDPC encoder inner functions (AVX2 version, large lifting size)." alt="" coords="161,95,309,136"/>
+<area shape="rect" id="node4" href="$ldpc__enc__avx512_8c.html" title="Definition of the LDPC encoder inner functions (AVX512 version, small (&lt;64) lifting size)." alt="" coords="334,95,473,136"/>
+<area shape="rect" id="node5" href="$ldpc__enc__avx512long_8c.html" title="Definition of the LDPC encoder inner functions (AVX512 version, large (&gt;64) lifting size)." alt="" coords="497,95,659,136"/>
+<area shape="rect" id="node6" href="$ldpc__encoder_8c.html" title="Definition of the LDPC encoder." alt="" coords="684,95,816,136"/>
+</map>

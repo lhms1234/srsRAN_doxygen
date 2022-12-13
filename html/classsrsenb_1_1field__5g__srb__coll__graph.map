@@ -1,0 +1,10 @@
+<map id="srsenb::field_5g_srb" name="srsenb::field_5g_srb">
+<area shape="rect" id="node1" title=" " alt="" coords="67,1065,205,1172"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1parser_1_1field__itf.html" title=" " alt="" coords="5,896,160,1003"/>
+<area shape="rect" id="node3" href="$structsrsenb_1_1srb__5g__cfg__t.html" title=" " alt="" coords="184,911,328,988"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1rlc__cfg__c.html" title=" " alt="" coords="180,595,332,833"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="65,323,244,532"/>
+<area shape="rect" id="node6" title=" " alt="" coords="111,101,198,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="268,337,449,517"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="259,5,459,273"/>
+</map>

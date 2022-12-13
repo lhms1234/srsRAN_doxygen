@@ -1,0 +1,11 @@
+<map id="asn1::s1ap::assist_data_for_ce_capable_ues_s" name="asn1::s1ap::assist_data_for_ce_capable_ues_s">
+<area shape="rect" id="node1" title=" " alt="" coords="497,1343,687,1479"/>
+<area shape="rect" id="node2" href="$structasn1_1_1s1ap_1_1cell__id__and__ce__level__for__ce__capable__ues__s.html" title=" " alt="" coords="422,1115,570,1265"/>
+<area shape="rect" id="node3" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="89,755,268,1052"/>
+<area shape="rect" id="node4" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,409,184,663"/>
+<area shape="rect" id="node5" href="$structasn1_1_1s1ap_1_1eutran__cgi__s.html" title=" " alt="" coords="399,835,529,971"/>
+<area shape="rect" id="node6" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="209,380,343,692"/>
+<area shape="rect" id="node7" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="200,5,352,317"/>
+<area shape="rect" id="node8" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="367,409,510,663"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="535,475,716,597"/>
+</map>

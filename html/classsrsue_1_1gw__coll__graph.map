@@ -1,0 +1,15 @@
+<map id="srsue::gw" name="srsue::gw">
+<area shape="rect" id="node1" title=" " alt="" coords="497,792,671,1324"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1gw__interface__stack.html" title=" " alt="" coords="240,586,376,678"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1gw__interface__nas.html" title=" " alt="" coords="5,299,179,435"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1gw__interface__rrc.html" title=" " alt="" coords="203,321,362,413"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1gw__interface__pdcp.html" title=" " alt="" coords="387,321,557,413"/>
+<area shape="rect" id="node6" title=" " alt="" coords="428,593,487,671"/>
+<area shape="rect" id="node7" href="$classsrsue_1_1tft__pdu__matcher.html" title=" " alt="" coords="603,535,773,729"/>
+<area shape="rect" id="node8" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="582,263,773,472"/>
+<area shape="rect" id="node9" title=" " alt="" coords="601,64,639,141"/>
+<area shape="rect" id="node10" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="663,5,803,200"/>
+<area shape="rect" id="node11" href="$structsrsue_1_1gw__args__t.html" title=" " alt="" coords="798,579,935,685"/>
+<area shape="rect" id="node12" href="$structsrsue_1_1gw__args__t_1_1log__args__t.html" title=" " alt="" coords="797,314,944,421"/>
+<area shape="rect" id="node13" href="$classsrsue_1_1stack__interface__gw.html" title=" " alt="" coords="959,571,1142,693"/>
+</map>

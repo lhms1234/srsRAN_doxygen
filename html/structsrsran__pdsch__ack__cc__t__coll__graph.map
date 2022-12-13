@@ -1,0 +1,5 @@
+<map id="srsran_pdsch_ack_cc_t" name="srsran_pdsch_ack_cc_t">
+<area shape="rect" id="node1" title=" " alt="" coords="23,359,183,436"/>
+<area shape="rect" id="node2" href="$structsrsran__pdsch__ack__m__t.html" title=" " alt="" coords="25,189,182,296"/>
+<area shape="rect" id="node3" href="$structsrsran__pdsch__ack__resource__t.html" title=" " alt="" coords="5,5,201,127"/>
+</map>

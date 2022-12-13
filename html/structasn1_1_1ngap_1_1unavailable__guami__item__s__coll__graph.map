@@ -1,0 +1,13 @@
+<map id="asn1::ngap::unavailable_guami_item_s" name="asn1::ngap::unavailable_guami_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="248,1071,443,1251"/>
+<area shape="rect" id="node2" href="$classasn1_1_1asn__string.html" title=" " alt="" coords="5,777,147,971"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="171,755,370,993"/>
+<area shape="rect" id="node4" title=" " alt="" coords="153,490,303,582"/>
+<area shape="rect" id="node5" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="327,475,508,597"/>
+<area shape="rect" id="node6" href="$structasn1_1_1ngap_1_1guami__s.html" title=" " alt="" coords="597,813,739,935"/>
+<area shape="rect" id="node7" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="533,380,659,692"/>
+<area shape="rect" id="node8" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="675,5,827,317"/>
+<area shape="rect" id="node10" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="683,380,818,692"/>
+<area shape="rect" id="node11" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="842,380,969,692"/>
+<area shape="rect" id="node9" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="993,409,1135,663"/>
+</map>

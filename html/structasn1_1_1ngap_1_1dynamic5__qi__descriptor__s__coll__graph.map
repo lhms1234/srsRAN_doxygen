@@ -1,0 +1,7 @@
+<map id="asn1::ngap::dynamic5_qi_descriptor_s" name="asn1::ngap::dynamic5_qi_descriptor_s">
+<area shape="rect" id="node1" title=" " alt="" coords="148,461,315,759"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,189,183,399"/>
+<area shape="rect" id="node3" title=" " alt="" coords="39,27,149,105"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1packet__error__rate__s.html" title=" " alt="" coords="310,211,443,377"/>
+<area shape="rect" id="node5" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="205,5,386,127"/>
+</map>

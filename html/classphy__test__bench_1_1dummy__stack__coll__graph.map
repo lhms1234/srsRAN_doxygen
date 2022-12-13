@@ -1,0 +1,10 @@
+<map id="phy_test_bench::dummy_stack" name="phy_test_bench::dummy_stack">
+<area shape="rect" id="node1" title=" " alt="" coords="355,535,521,861"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1stack__interface__phy__lte.html" title=" " alt="" coords="168,321,319,413"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1mac__interface__phy__lte.html" title=" " alt="" coords="5,5,151,200"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1rrc__interface__phy__lte.html" title=" " alt="" coords="175,13,343,193"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="343,263,533,472"/>
+<area shape="rect" id="node6" title=" " alt="" coords="401,64,440,141"/>
+<area shape="rect" id="node7" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="464,5,604,200"/>
+<area shape="rect" id="node8" href="$structsrsue_1_1phy__cell__t.html" title=" " alt="" coords="557,314,679,421"/>
+</map>

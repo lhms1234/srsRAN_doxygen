@@ -1,0 +1,8 @@
+<map id="asn1::s1ap::time_synchronisation_info_s" name="asn1::s1ap::time_synchronisation_info_s">
+<area shape="rect" id="node1" title=" " alt="" coords="124,808,341,959"/>
+<area shape="rect" id="node2" href="$structasn1_1_1dyn__seq__of.html" title=" " alt="" coords="19,558,209,723"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="19,219,209,487"/>
+<area shape="rect" id="node4" href="$structasn1_1_1s1ap_1_1time__synchronisation__info__ext__ies__o.html" title=" " alt="" coords="5,5,223,156"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="233,536,470,745"/>
+<area shape="rect" id="node6" title=" " alt="" coords="257,314,445,391"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lib/src/phy/fec/utils_avx512.h" name="lib/src/phy/fec/utils_avx512.h">
+<area shape="rect" id="node1" title="Declarations of AVX512&#45;related quantities and functions." alt="" coords="665,5,797,47"/>
+<area shape="rect" id="node2" href="$ldpc__avx512__consts_8h.html" title="Declaration of constants and masks for the AVX512&#45;based implementation of the LDPC encoder and decode..." alt="" coords="5,102,161,143"/>
+<area shape="rect" id="node3" href="$ldpc__dec__c__avx512_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (AVX512 version,..." alt="" coords="186,102,338,143"/>
+<area shape="rect" id="node4" href="$ldpc__dec__c__avx512long_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (AVX512 version,..." alt="" coords="362,102,538,143"/>
+<area shape="rect" id="node5" href="$ldpc__dec__c__avx512long__flood_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (flooded scheduling,..." alt="" coords="562,95,727,151"/>
+<area shape="rect" id="node6" href="$ldpc__decoder_8c.html" title="Definition of the LDPC decoder." alt="" coords="752,102,884,143"/>
+<area shape="rect" id="node7" href="$ldpc__enc__avx512_8c.html" title="Definition of the LDPC encoder inner functions (AVX512 version, small (&lt;64) lifting size)." alt="" coords="909,102,1047,143"/>
+<area shape="rect" id="node8" href="$ldpc__enc__avx512long_8c.html" title="Definition of the LDPC encoder inner functions (AVX512 version, large (&gt;64) lifting size)." alt="" coords="1071,102,1234,143"/>
+<area shape="rect" id="node9" href="$ldpc__encoder_8c.html" title="Definition of the LDPC encoder." alt="" coords="1259,102,1391,143"/>
+</map>

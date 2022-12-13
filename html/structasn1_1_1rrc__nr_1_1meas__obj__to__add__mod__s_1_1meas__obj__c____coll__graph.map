@@ -1,0 +1,7 @@
+<map id="asn1::rrc_nr::meas_obj_to_add_mod_s::meas_obj_c_" name="asn1::rrc_nr::meas_obj_to_add_mod_s::meas_obj_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="111,595,289,921"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="28,367,183,488"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="207,323,385,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="253,101,339,178"/>
+</map>

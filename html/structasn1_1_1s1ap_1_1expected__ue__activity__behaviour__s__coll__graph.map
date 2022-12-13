@@ -1,0 +1,6 @@
+<map id="asn1::s1ap::expected_ue_activity_behaviour_s" name="asn1::s1ap::expected_ue_activity_behaviour_s">
+<area shape="rect" id="node1" title=" " alt="" coords="113,463,291,716"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,147,191,385"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,5,173,97"/>
+<area shape="rect" id="node4" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="215,205,397,327"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="srsue::rrc_nr_interface_nas_5g" name="srsue::rrc_nr_interface_nas_5g">
+<area shape="rect" id="node1" title=" " alt="" coords="89,5,279,171"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1rrc__nr__dummy.html" title=" " alt="" coords="5,387,160,582"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1rrc__nr.html" title=" " alt="" coords="185,219,386,751"/>
+</map>

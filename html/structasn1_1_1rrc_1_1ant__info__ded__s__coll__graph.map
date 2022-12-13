@@ -1,0 +1,15 @@
+<map id="asn1::rrc::ant_info_ded_s" name="asn1::rrc::ant_info_ded_s">
+<area shape="rect" id="node1" title=" " alt="" coords="253,925,435,1061"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,624,163,833"/>
+<area shape="rect" id="node3" title=" " alt="" coords="8,389,112,466"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1ant__info__ded__s_1_1codebook__subset__restrict__c__.html" title=" " alt="" coords="234,595,454,863"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="137,374,271,481"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="104,5,304,273"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="296,323,475,532"/>
+<area shape="rect" id="node8" title=" " alt="" coords="342,101,429,178"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc_1_1ant__info__ded__s_1_1ue__tx__ant__sel__c__.html" title=" " alt="" coords="501,617,675,841"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="499,323,677,532"/>
+<area shape="rect" id="node11" title=" " alt="" coords="545,101,631,178"/>
+<area shape="rect" id="node12" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="701,323,909,532"/>
+<area shape="rect" id="node13" title=" " alt="" coords="763,101,847,178"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="asn1::ngap::expected_ue_behaviour_s" name="asn1::ngap::expected_ue_behaviour_s">
+<area shape="rect" id="node1" title=" " alt="" coords="436,1543,627,1752"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="27,1234,225,1443"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,977,172,1054"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1expected__ue__activity__behaviour__s.html" title=" " alt="" coords="286,1212,465,1465"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="196,896,381,1135"/>
+<area shape="rect" id="node6" title=" " alt="" coords="214,668,363,760"/>
+<area shape="rect" id="node7" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="414,653,595,775"/>
+<area shape="rect" id="node9" href="$structasn1_1_1ngap_1_1expected__ue__moving__trajectory__item__s.html" title=" " alt="" coords="597,918,751,1113"/>
+<area shape="rect" id="node8" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="569,1212,779,1465"/>
+<area shape="rect" id="node10" href="$structasn1_1_1ngap_1_1ngran__cgi__c.html" title=" " alt="" coords="620,595,784,833"/>
+<area shape="rect" id="node11" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="465,352,678,503"/>
+<area shape="rect" id="node12" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="471,5,671,273"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="702,323,881,532"/>
+<area shape="rect" id="node14" title=" " alt="" coords="748,101,835,178"/>
+<area shape="rect" id="node15" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="803,1234,1001,1443"/>
+<area shape="rect" id="node16" title=" " alt="" coords="822,977,982,1054"/>
+</map>

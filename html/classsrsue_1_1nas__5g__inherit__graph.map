@@ -1,0 +1,6 @@
+<map id="srsue::nas_5g" name="srsue::nas_5g">
+<area shape="rect" id="node1" title="This class implements the NAS layer of a 5G UE." alt="" coords="207,336,433,971"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1nas__base.html" title=" " alt="" coords="5,5,216,288"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1nas__5g__interface__rrc__nr.html" title=" " alt="" coords="239,86,401,207"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1nas__5g__interface__procedures.html" title=" " alt="" coords="425,64,655,229"/>
+</map>

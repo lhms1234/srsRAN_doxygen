@@ -1,0 +1,5 @@
+<map id="srsenb::ue" name="srsenb::ue">
+<area shape="rect" id="node1" title=" " alt="" coords="133,131,261,560"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1read__pdu__interface.html" title=" " alt="" coords="5,5,181,83"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1mac__ta__ue__interface.html" title=" " alt="" coords="206,5,397,83"/>
+</map>

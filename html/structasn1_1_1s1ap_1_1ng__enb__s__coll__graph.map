@@ -1,0 +1,11 @@
+<map id="asn1::s1ap::ng_enb_s" name="asn1::s1ap::ng_enb_s">
+<area shape="rect" id="node1" title=" " alt="" coords="381,1109,531,1231"/>
+<area shape="rect" id="node2" href="$structasn1_1_1s1ap_1_1global__enb__id__s.html" title=" " alt="" coords="313,911,441,1047"/>
+<area shape="rect" id="node3" href="$structasn1_1_1s1ap_1_1enb__id__c.html" title=" " alt="" coords="112,602,259,841"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,374,347,481"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="177,5,377,273"/>
+<area shape="rect" id="node8" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="283,595,426,848"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="451,661,632,782"/>
+</map>

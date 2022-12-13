@@ -1,0 +1,52 @@
+<map id="lib/include/srsran/phy/fec/ldpc/base_graph.h" name="lib/include/srsran/phy/fec/ldpc/base_graph.h">
+<area shape="rect" id="node1" title="Declaration of the two LDPC base graphs employed in the 5G NR standard." alt="" coords="3572,5,3751,47"/>
+<area shape="rect" id="node2" href="$ldpc__decoder_8h.html" title="Declaration of the LDPC decoder." alt="" coords="812,95,1001,136"/>
+<area shape="rect" id="node15" href="$ldpc__decoder_8c.html" title="Definition of the LDPC decoder." alt="" coords="1099,191,1231,233"/>
+<area shape="rect" id="node23" href="$ldpc__encoder_8h.html" title="Declaration of the LDPC encoder." alt="" coords="2349,95,2539,136"/>
+<area shape="rect" id="node25" href="$ldpc__enc__avx2_8c.html" title="Definition of the LDPC encoder inner functions (AVX2 version, small lifting size)." alt="" coords="2033,288,2165,329"/>
+<area shape="rect" id="node26" href="$ldpc__enc__avx2long_8c.html" title="Definition of the LDPC encoder inner functions (AVX2 version, large lifting size)." alt="" coords="2243,288,2391,329"/>
+<area shape="rect" id="node27" href="$ldpc__enc__avx512_8c.html" title="Definition of the LDPC encoder inner functions (AVX512 version, small (&lt;64) lifting size)." alt="" coords="2605,288,2744,329"/>
+<area shape="rect" id="node28" href="$ldpc__enc__avx512long_8c.html" title="Definition of the LDPC encoder inner functions (AVX512 version, large (&gt;64) lifting size)." alt="" coords="2821,288,2984,329"/>
+<area shape="rect" id="node29" href="$ldpc__encoder_8c.html" title="Definition of the LDPC encoder." alt="" coords="3009,288,3141,329"/>
+<area shape="rect" id="node30" href="$ldpc__enc__c_8c.html" title="Definition of the LDPC encoder inner functions (not optimized)." alt="" coords="3045,191,3177,233"/>
+<area shape="rect" id="node35" href="$ldpc__rm_8h.html" title="Declaration of the LDPC RateMatcher and RateDematcher." alt="" coords="1653,95,1811,136"/>
+<area shape="rect" id="node37" href="$cbsegm_8c.html" title=" " alt="" coords="3353,102,3519,129"/>
+<area shape="rect" id="node38" href="$base__graph_8c.html" title="Definition of the two LDPC base graphs employed in the 5G NR standard." alt="" coords="3543,95,3675,136"/>
+<area shape="rect" id="node39" href="$ldpc__dec__all_8h.html" title="Declaration of the LDPC decoder inner functions." alt="" coords="4067,95,4199,136"/>
+<area shape="rect" id="node40" href="$ldpc__dec__c_8c.html" title="Definition of the LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs." alt="" coords="3354,191,3486,233"/>
+<area shape="rect" id="node41" href="$ldpc__dec__c__avx2_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (AVX2 version)." alt="" coords="3511,191,3649,233"/>
+<area shape="rect" id="node42" href="$ldpc__dec__c__avx2__flood_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (AVX2 version,..." alt="" coords="3673,191,3847,233"/>
+<area shape="rect" id="node43" href="$ldpc__dec__c__avx2long_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (AVX2 version,..." alt="" coords="3871,191,4033,233"/>
+<area shape="rect" id="node44" href="$ldpc__dec__c__avx2long__flood_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (flooded scheduling,..." alt="" coords="4058,184,4209,240"/>
+<area shape="rect" id="node45" href="$ldpc__dec__c__avx512_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (AVX512 version,..." alt="" coords="4233,191,4385,233"/>
+<area shape="rect" id="node46" href="$ldpc__dec__c__avx512long_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (AVX512 version,..." alt="" coords="4409,191,4585,233"/>
+<area shape="rect" id="node47" href="$ldpc__dec__c__avx512long__flood_8c.html" title="Definition LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs (flooded scheduling,..." alt="" coords="4609,184,4775,240"/>
+<area shape="rect" id="node48" href="$ldpc__dec__c__flood_8c.html" title="Definition of the LDPC decoder inner functions working with 8&#45;bit integer&#45;valued LLRs...." alt="" coords="4799,191,4937,233"/>
+<area shape="rect" id="node49" href="$ldpc__dec__f_8c.html" title="Definition of the LDPC decoder inner functions working with float&#45;valued LLRs." alt="" coords="4962,191,5094,233"/>
+<area shape="rect" id="node50" href="$ldpc__dec__s_8c.html" title="Definition of the LDPC decoder inner functions working with 16&#45;bit integer&#45;valued LLRs." alt="" coords="5118,191,5250,233"/>
+<area shape="rect" id="node3" href="$sch__nr_8h.html" title=" " alt="" coords="1613,191,1747,233"/>
+<area shape="rect" id="node16" href="$ldpc__chain__test_8c.html" title="End&#45;to&#45;end test for LDPC encoder and decoder." alt="" coords="920,191,1075,233"/>
+<area shape="rect" id="node17" href="$ldpc__dec__avx2__test_8c.html" title="Unit test for the LDPC decoder working with 8&#45;bit integer&#45;valued LLRs (AVX2 implementation)." alt="" coords="173,191,352,233"/>
+<area shape="rect" id="node18" href="$ldpc__dec__avx512__test_8c.html" title="Unit test for the LDPC decoder working with 8&#45;bit integer&#45;valued LLRs (AVX512 implementation)." alt="" coords="377,184,530,240"/>
+<area shape="rect" id="node19" href="$ldpc__dec__c__test_8c.html" title="Unit test for the LDPC decoder working with 8&#45;bit integer&#45;valued LLRs." alt="" coords="554,191,713,233"/>
+<area shape="rect" id="node20" href="$ldpc__dec__s__test_8c.html" title="Unit test for the LDPC decoder working with 16&#45;bit integer&#45;valued LLRs." alt="" coords="737,191,895,233"/>
+<area shape="rect" id="node21" href="$ldpc__dec__test_8c.html" title="Unit test for the LDPC decoder working with float&#45;valued LLRs." alt="" coords="5,191,149,233"/>
+<area shape="rect" id="node22" href="$ldpc__rm__chain__test_8c.html" title="End&#45;to&#45;end test for LDPC encoder, rate&#45;matcher, rate&#45;dematcher and decoder." alt="" coords="1256,191,1432,233"/>
+<area shape="rect" id="node4" href="$pdsch__nr_8h.html" title=" " alt="" coords="1025,288,1172,329"/>
+<area shape="rect" id="node10" href="$pusch__nr_8h.html" title=" " alt="" coords="1301,288,1448,329"/>
+<area shape="rect" id="node12" href="$sch__nr_8c.html" title=" " alt="" coords="1809,295,1977,322"/>
+<area shape="rect" id="node13" href="$sch__nr__test_8c.html" title=" " alt="" coords="1473,288,1613,329"/>
+<area shape="rect" id="node14" href="$harq__softbuffer_8h.html" title=" " alt="" coords="1637,288,1785,329"/>
+<area shape="rect" id="node5" href="$gnb__dl_8h.html" title=" " alt="" coords="1115,377,1240,419"/>
+<area shape="rect" id="node6" href="$ue__dl__nr_8h.html" title=" " alt="" coords="1265,377,1394,419"/>
+<area shape="rect" id="node7" href="$pdsch__nr_8c.html" title=" " alt="" coords="561,385,743,411"/>
+<area shape="rect" id="node8" href="$ra__nr_8c.html" title=" " alt="" coords="767,385,926,411"/>
+<area shape="rect" id="node9" href="$pdsch__nr__test_8c.html" title=" " alt="" coords="950,377,1090,419"/>
+<area shape="rect" id="node11" href="$gnb__ul_8h.html" title=" " alt="" coords="1419,377,1544,419"/>
+<area shape="rect" id="node24" href="$ldpc__enc__all_8h.html" title="Declaration of the LDPC encoder inner functions." alt="" coords="2609,191,2741,233"/>
+<area shape="rect" id="node31" href="$ldpc__enc__avx2__test_8c.html" title="Unit test for the LDPC encoder (SIMD&#45;optimized version)." alt="" coords="2355,191,2533,233"/>
+<area shape="rect" id="node32" href="$ldpc__enc__avx512__test_8c.html" title="Unit test for the LDPC encoder (SIMD&#45;optimized version)." alt="" coords="2765,184,2918,240"/>
+<area shape="rect" id="node33" href="$ldpc__enc__test_8c.html" title="Unit test for the LDPC encoder." alt="" coords="2136,191,2280,233"/>
+<area shape="rect" id="node34" href="$ldpc__rm__test_8c.html" title="Unit test for the LDPC RateMatcher and RateDematcher." alt="" coords="1821,191,1960,233"/>
+<area shape="rect" id="node36" href="$ldpc__rm_8c.html" title="Definition of the LDPC Rate Matcher and Rate Demacher (float&#45;valued, int16_t and int8_t)" alt="" coords="1457,191,1589,233"/>
+</map>

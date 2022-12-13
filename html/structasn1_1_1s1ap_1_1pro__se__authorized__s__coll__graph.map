@@ -1,0 +1,10 @@
+<map id="asn1::s1ap::pro_se_authorized_s" name="asn1::s1ap::pro_se_authorized_s">
+<area shape="rect" id="node1" title=" " alt="" coords="250,837,457,1032"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="39,536,217,775"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,314,232,391"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="271,536,435,775"/>
+<area shape="rect" id="node5" title=" " alt="" coords="256,314,451,391"/>
+<area shape="rect" id="node6" href="$structasn1_1_1dyn__seq__of.html" title=" " alt="" coords="467,573,639,738"/>
+<area shape="rect" id="node7" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="475,219,647,487"/>
+<area shape="rect" id="node8" href="$structasn1_1_1s1ap_1_1pro__se__authorized__ext__ies__o.html" title=" " alt="" coords="485,5,637,156"/>
+</map>

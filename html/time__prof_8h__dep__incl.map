@@ -1,0 +1,14 @@
+<map id="lib/include/srsran/common/time_prof.h" name="lib/include/srsran/common/time_prof.h">
+<area shape="rect" id="node1" title=" " alt="" coords="256,5,401,47"/>
+<area shape="rect" id="node2" href="$time__prof_8cc.html" title=" " alt="" coords="5,95,145,136"/>
+<area shape="rect" id="node3" href="$srsenb_2src_2stack_2mac_2mac_8cc.html" title=" " alt="" coords="169,95,317,136"/>
+<area shape="rect" id="node4" href="$srsgnb_2src_2stack_2mac_2mac__nr_8cc.html" title=" " alt="" coords="341,95,489,136"/>
+<area shape="rect" id="node5" href="$ue__stack__lte_8h.html" title=" " alt="" coords="514,95,645,136"/>
+<area shape="rect" id="node6" href="$ue__stack__lte_8cc.html" title=" " alt="" coords="305,184,435,225"/>
+<area shape="rect" id="node7" href="$ttcn3__ue_8h.html" title=" " alt="" coords="460,184,595,225"/>
+<area shape="rect" id="node11" href="$ttcn3__ue_8cc.html" title=" " alt="" coords="565,273,700,315"/>
+<area shape="rect" id="node12" href="$srsue_2src_2ue_8cc.html" title=" " alt="" coords="670,191,782,218"/>
+<area shape="rect" id="node8" href="$ttcn3__syssim_8h.html" title=" " alt="" coords="352,273,489,315"/>
+<area shape="rect" id="node10" href="$ttcn3__syssim_8cc.html" title=" " alt="" coords="455,363,599,404"/>
+<area shape="rect" id="node9" href="$ttcn3__dut_8cc.html" title=" " alt="" coords="296,363,431,404"/>
+</map>

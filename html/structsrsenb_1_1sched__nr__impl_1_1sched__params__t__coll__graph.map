@@ -1,0 +1,4 @@
+<map id="srsenb::sched_nr_impl::sched_params_t" name="srsenb::sched_nr_impl::sched_params_t">
+<area shape="rect" id="node1" title="Structure packing both the sched args and all gNB NR cell configurations." alt="" coords="18,233,171,340"/>
+<area shape="rect" id="node2" href="$structsrsenb_1_1sched__nr__interface_1_1sched__args__t.html" title=" " alt="" coords="5,5,184,171"/>
+</map>

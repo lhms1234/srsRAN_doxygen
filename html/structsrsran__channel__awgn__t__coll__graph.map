@@ -1,0 +1,3 @@
+<map id="srsran_channel_awgn_t" name="srsran_channel_awgn_t">
+<area shape="rect" id="node1" title="srsRAN channel AWGN implements an efficient Box&#45;Muller Method accelerated with SIMD." alt="" coords="5,5,164,127"/>
+</map>

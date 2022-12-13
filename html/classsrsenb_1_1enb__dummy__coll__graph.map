@@ -1,0 +1,14 @@
+<map id="srsenb::enb_dummy" name="srsenb::enb_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="313,572,453,664"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1enb__metrics__interface.html" title=" " alt="" coords="229,417,369,509"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1metrics__interface.html" title=" " alt="" coords="163,204,329,296"/>
+<area shape="rect" id="node4" href="$structsrsenb_1_1enb__metrics__t.html" title=" " alt="" coords="500,417,651,509"/>
+<area shape="rect" id="node5" href="$structsrsenb_1_1stack__metrics__t.html" title=" " alt="" coords="354,211,517,289"/>
+<area shape="rect" id="node6" href="$structsrsenb_1_1s1ap__metrics__t.html" title=" " alt="" coords="5,13,164,90"/>
+<area shape="rect" id="node7" href="$structsrsenb_1_1rrc__metrics__t.html" title=" " alt="" coords="188,13,333,90"/>
+<area shape="rect" id="node8" href="$structsrsenb_1_1mac__metrics__t.html" title="Main MAC metrics." alt="" coords="358,5,513,97"/>
+<area shape="rect" id="node9" href="$structsrsenb_1_1rlc__metrics__t.html" title=" " alt="" coords="537,13,681,90"/>
+<area shape="rect" id="node10" href="$structsrsenb_1_1pdcp__metrics__t.html" title=" " alt="" coords="705,13,864,90"/>
+<area shape="rect" id="node11" href="$structsrsran_1_1sys__metrics__t.html" title="Metrics of cpu usage, memory consumption and number of thread used by the process." alt="" coords="541,160,716,340"/>
+<area shape="rect" id="node12" href="$structsrsran_1_1rf__metrics__t.html" title=" " alt="" coords="740,189,875,311"/>
+</map>

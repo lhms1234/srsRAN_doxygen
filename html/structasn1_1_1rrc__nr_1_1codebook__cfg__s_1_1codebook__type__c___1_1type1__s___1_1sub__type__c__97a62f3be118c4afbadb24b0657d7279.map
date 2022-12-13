@@ -1,0 +1,10 @@
+<map id="asn1::rrc_nr::codebook_cfg_s::codebook_type_c_::type1_s_::sub_type_c_::type_i_single_panel_s_::nr_of_ant_ports_c_::more_than_two_s_" name="asn1::rrc_nr::codebook_cfg_s::codebook_type_c_::type1_s_::sub_type_c_::type_i_single_panel_s_::nr_of_ant_ports_c_::more_than_two_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="93,1101,272,1281"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="10,712,153,1009"/>
+<area shape="rect" id="node3" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="5,323,157,635"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1codebook__cfg__s_1_1codebook__type__c___1_1type1__s___1_1sub__type__c__71b76954fc4a52b98bfd60074f4bed86.html" title=" " alt="" coords="187,697,383,1024"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="188,374,367,583"/>
+<area shape="rect" id="node6" title=" " alt="" coords="234,101,321,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="391,425,526,532"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="359,5,559,273"/>
+</map>

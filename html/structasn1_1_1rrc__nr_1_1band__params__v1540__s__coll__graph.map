@@ -1,0 +1,11 @@
+<map id="asn1::rrc_nr::band_params_v1540_s" name="asn1::rrc_nr::band_params_v1540_s">
+<area shape="rect" id="node1" title=" " alt="" coords="345,1013,511,1164"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1band__params__v1540__s_1_1srs__carrier__switch__c__.html" title=" " alt="" coords="231,624,409,951"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,330,184,539"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="209,359,431,510"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="220,5,420,273"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc__nr_1_1band__params__v1540__s_1_1srs__tx__switch__s__.html" title=" " alt="" coords="443,697,650,877"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="456,323,659,547"/>
+<area shape="rect" id="node9" title=" " alt="" coords="482,93,633,185"/>
+</map>

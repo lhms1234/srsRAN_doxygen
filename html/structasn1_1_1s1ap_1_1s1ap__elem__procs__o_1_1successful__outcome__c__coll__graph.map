@@ -1,0 +1,7 @@
+<map id="asn1::s1ap::s1ap_elem_procs_o::successful_outcome_c" name="asn1::s1ap::s1ap_elem_procs_o::successful_outcome_c">
+<area shape="rect" id="node1" title=" " alt="" coords="145,683,329,951"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,367,184,576"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,323,555,620"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="281,5,481,273"/>
+</map>

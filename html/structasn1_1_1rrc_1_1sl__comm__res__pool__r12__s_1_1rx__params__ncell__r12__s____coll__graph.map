@@ -1,0 +1,8 @@
+<map id="asn1::rrc::sl_comm_res_pool_r12_s::rx_params_ncell_r12_s_" name="asn1::rrc::sl_comm_res_pool_r12_s::rx_params_ncell_r12_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="109,603,261,724"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1tdd__cfg__s.html" title=" " alt="" coords="115,404,254,540"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,167,341"/>
+<area shape="rect" id="node4" title=" " alt="" coords="31,5,141,83"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="191,132,379,341"/>
+<area shape="rect" id="node6" title=" " alt="" coords="201,5,368,83"/>
+</map>

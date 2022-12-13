@@ -1,0 +1,52 @@
+<map id="srsue::sr_proc" name="srsue::sr_proc">
+<area shape="rect" id="node1" title=" " alt="" coords="973,2649,1084,2859"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1sr__cfg__t.html" title=" " alt="" coords="5,2245,119,2352"/>
+<area shape="rect" id="node3" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="1879,747,2069,957"/>
+<area shape="rect" id="node9" href="$classsrsue_1_1ra__proc.html" title=" " alt="" coords="925,2011,1132,2587"/>
+<area shape="rect" id="node12" href="$classsrsran_1_1pdu.html" title=" " alt="" coords="1809,1056,1971,1397"/>
+<area shape="rect" id="node15" href="$classsrsue_1_1mux.html" title=" " alt="" coords="1149,1526,1346,1867"/>
+<area shape="rect" id="node19" href="$classsrsue_1_1phr__proc.html" title=" " alt="" coords="524,1093,680,1361"/>
+<area shape="rect" id="node27" href="$classsrsran_1_1mac__pcap__base.html" title=" " alt="" coords="2046,1063,2209,1390"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1897,453,1936,531"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="1960,395,2100,589"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1phy__interface__mac__lte.html" title=" " alt="" coords="57,777,224,927"/>
+<area shape="rect" id="node7" href="$classsrsue_1_1phy__interface__mac__common.html" title=" " alt="" coords="45,395,237,589"/>
+<area shape="rect" id="node8" href="$classsrsue_1_1rrc__interface__mac.html" title=" " alt="" coords="2197,1643,2364,1750"/>
+<area shape="rect" id="node10" href="$classsrsran_1_1timer__callback.html" title=" " alt="" coords="452,813,603,891"/>
+<area shape="rect" id="node11" href="$classsrsran_1_1rar__pdu.html" title=" " alt="" coords="1564,1614,1720,1779"/>
+<area shape="rect" id="node13" href="$classsrsran_1_1byte__buffer__t.html" title=" " alt="" coords="1579,725,1721,979"/>
+<area shape="rect" id="node14" href="$classsrsue_1_1ue__rnti.html" title=" " alt="" coords="523,1519,670,1875"/>
+<area shape="rect" id="node16" href="$classsrsue_1_1mux__base.html" title="Common base class for UE MUX unit for 4G and 5G RAT." alt="" coords="1227,1159,1385,1295"/>
+<area shape="rect" id="node17" href="$classsrsue_1_1bsr__interface__mux.html" title=" " alt="" coords="1409,1166,1579,1287"/>
+<area shape="rect" id="node18" href="$classsrsran_1_1sch__pdu.html" title=" " alt="" coords="845,1100,996,1353"/>
+<area shape="rect" id="node20" href="$classsrsran_1_1timer__handler_1_1unique__timer.html" title=" " alt="" coords="627,733,771,971"/>
+<area shape="rect" id="node21" href="$structsrsran_1_1timer__handler_1_1timer__impl.html" title=" " alt="" coords="627,321,771,663"/>
+<area shape="rect" id="node22" href="$classsrsran_1_1ext__task__sched__handle.html" title="Task scheduler handle given to classes/functions running outside of main control thread." alt="" coords="249,769,427,935"/>
+<area shape="rect" id="node23" href="$classsrsran_1_1task__scheduler.html" title=" " alt="" coords="351,373,515,611"/>
+<area shape="rect" id="node24" href="$classsrsran_1_1multiqueue__handler_1_1queue__handle.html" title=" " alt="" coords="534,5,707,259"/>
+<area shape="rect" id="node25" href="$classsrsue_1_1rlc__interface__mac.html" title=" " alt="" coords="1021,1137,1202,1317"/>
+<area shape="rect" id="node26" href="$classsrsran_1_1mac__pcap.html" title=" " alt="" coords="2047,1614,2173,1779"/>
+<area shape="rect" id="node28" href="$structsrsran_1_1rach__cfg__t.html" title=" " alt="" coords="694,1577,897,1816"/>
+<area shape="rect" id="node29" href="$structSRSRAN__API.html" title="CFR module configuration arguments." alt="" coords="3578,1563,3791,1831"/>
+<area shape="rect" id="node39" href="$structsrsran__cqi__value__t.html" title=" " alt="" coords="4429,2253,4559,2345"/>
+<area shape="rect" id="node41" href="$structsrsran__uci__nr__t.html" title=" " alt="" coords="3247,2223,3407,2374"/>
+<area shape="rect" id="node45" href="$structsrsran__csi__rs__zp__resource__t.html" title="Contains TS 38.331 ZP&#45;CSI&#45;RS&#45;Resource flattened configuration." alt="" coords="3451,2260,3641,2337"/>
+<area shape="rect" id="node46" href="$structsrsran__pmch__seq__t.html" title=" " alt="" coords="3675,2260,3811,2337"/>
+<area shape="rect" id="node47" href="$structsrsran__uci__nr__pusch__cfg__t.html" title="Uplink Control Information bits configuration for PUSCH transmission." alt="" coords="3845,2165,4004,2433"/>
+<area shape="rect" id="node49" href="$structsrsran__dmrs__sch__t.html" title="PDSCH DMRS estimator object." alt="" coords="4050,2231,4183,2367"/>
+<area shape="rect" id="node30" href="$structsrsran__pusch__hopping__cfg__t.html" title=" " alt="" coords="4405,1144,4557,1309"/>
+<area shape="rect" id="node31" href="$structsrsran__mib__nb__t.html" title=" " alt="" coords="2233,1151,2361,1302"/>
+<area shape="rect" id="node32" href="$structsrsran__dci__cfg__t.html" title=" " alt="" coords="2385,1144,2539,1309"/>
+<area shape="rect" id="node33" href="$structsrsran__ra__nbits__t.html" title="Structure that gives the number of encoded bits and RE for a UL/DL grant." alt="" coords="2563,1166,2686,1287"/>
+<area shape="rect" id="node34" href="$structsrsran__pdcch__nr__args__t.html" title="PDCCH configuration initialization arguments." alt="" coords="2711,1173,2872,1280"/>
+<area shape="rect" id="node35" href="$structsrsran__refsignal__ul__dmrs__pregen__t.html" title=" " alt="" coords="2897,1173,3027,1280"/>
+<area shape="rect" id="node36" href="$structsrsran__ue__ul__powerctrl__t.html" title=" " alt="" coords="3052,1122,3219,1331"/>
+<area shape="rect" id="node37" href="$structsrsran__cqi__report__cfg__t.html" title=" " alt="" coords="3243,1129,3420,1324"/>
+<area shape="rect" id="node38" href="$structsrsran__evm__buffer__t.html" title=" " alt="" coords="3444,1173,3584,1280"/>
+<area shape="rect" id="node40" href="$structsrsran__interp__linsrsran__vec__t.html" title=" " alt="" coords="3608,1166,3761,1287"/>
+<area shape="rect" id="node42" href="$structsrsran__beta__offsets__t.html" title="Beta offset configuration provided from upper layers." alt="" coords="3786,1122,3933,1331"/>
+<area shape="rect" id="node43" href="$structsrsran__refsignal__srs__pregen__t.html" title=" " alt="" coords="3957,1181,4095,1273"/>
+<area shape="rect" id="node44" href="$structsrsran__uci__bit__t.html" title=" " alt="" coords="4119,1181,4234,1273"/>
+<area shape="rect" id="node48" href="$structqam16__packed__t.html" title=" " alt="" coords="4259,1188,4380,1265"/>
+<area shape="rect" id="node50" href="$structsrsran__interp__lin__t.html" title=" " alt="" coords="4581,1144,4709,1309"/>
+</map>

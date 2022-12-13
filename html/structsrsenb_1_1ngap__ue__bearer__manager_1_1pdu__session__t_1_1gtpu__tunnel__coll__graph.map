@@ -1,0 +1,5 @@
+<map id="srsenb::ngap_ue_bearer_manager::pdu_session_t::gtpu_tunnel" name="srsenb::ngap_ue_bearer_manager::pdu_session_t::gtpu_tunnel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,769,167,891"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="23,380,149,692"/>
+<area shape="rect" id="node3" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="10,5,162,317"/>
+</map>

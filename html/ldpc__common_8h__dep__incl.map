@@ -1,0 +1,16 @@
+<map id="lib/include/srsran/phy/fec/ldpc/ldpc_common.h" name="lib/include/srsran/phy/fec/ldpc/ldpc_common.h">
+<area shape="rect" id="node1" title="Declaration of elements common to both the LDPC encoder and the LDPC decoder." alt="" coords="1063,5,1256,47"/>
+<area shape="rect" id="node2" href="$ldpc__rm_8c.html" title="Definition of the LDPC Rate Matcher and Rate Demacher (float&#45;valued, int16_t and int8_t)" alt="" coords="5,102,137,143"/>
+<area shape="rect" id="node3" href="$ldpc__chain__test_8c.html" title="End&#45;to&#45;end test for LDPC encoder and decoder." alt="" coords="162,102,317,143"/>
+<area shape="rect" id="node4" href="$ldpc__dec__avx2__test_8c.html" title="Unit test for the LDPC decoder working with 8&#45;bit integer&#45;valued LLRs (AVX2 implementation)." alt="" coords="341,102,519,143"/>
+<area shape="rect" id="node5" href="$ldpc__dec__avx512__test_8c.html" title="Unit test for the LDPC decoder working with 8&#45;bit integer&#45;valued LLRs (AVX512 implementation)." alt="" coords="544,95,697,151"/>
+<area shape="rect" id="node6" href="$ldpc__dec__c__test_8c.html" title="Unit test for the LDPC decoder working with 8&#45;bit integer&#45;valued LLRs." alt="" coords="721,102,880,143"/>
+<area shape="rect" id="node7" href="$ldpc__dec__s__test_8c.html" title="Unit test for the LDPC decoder working with 16&#45;bit integer&#45;valued LLRs." alt="" coords="904,102,1063,143"/>
+<area shape="rect" id="node8" href="$ldpc__dec__test_8c.html" title="Unit test for the LDPC decoder working with float&#45;valued LLRs." alt="" coords="1087,102,1231,143"/>
+<area shape="rect" id="node9" href="$ldpc__enc__avx2__test_8c.html" title="Unit test for the LDPC encoder (SIMD&#45;optimized version)." alt="" coords="1255,102,1434,143"/>
+<area shape="rect" id="node10" href="$ldpc__enc__avx512__test_8c.html" title="Unit test for the LDPC encoder (SIMD&#45;optimized version)." alt="" coords="1459,95,1612,151"/>
+<area shape="rect" id="node11" href="$ldpc__enc__test_8c.html" title="Unit test for the LDPC encoder." alt="" coords="1637,102,1781,143"/>
+<area shape="rect" id="node12" href="$ldpc__rm__chain__test_8c.html" title="End&#45;to&#45;end test for LDPC encoder, rate&#45;matcher, rate&#45;dematcher and decoder." alt="" coords="1805,102,1981,143"/>
+<area shape="rect" id="node13" href="$ldpc__rm__test_8c.html" title="Unit test for the LDPC RateMatcher and RateDematcher." alt="" coords="2005,102,2143,143"/>
+<area shape="rect" id="node14" href="$sch__nr_8c.html" title=" " alt="" coords="2167,109,2335,136"/>
+</map>

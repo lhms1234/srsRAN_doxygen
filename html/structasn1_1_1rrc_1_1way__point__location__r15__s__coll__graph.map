@@ -1,0 +1,16 @@
+<map id="asn1::rrc::way_point_location_r15_s" name="asn1::rrc::way_point_location_r15_s">
+<area shape="rect" id="node1" title=" " alt="" coords="497,1836,674,1957"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1location__info__r10__s.html" title=" " alt="" coords="387,1542,589,1707"/>
+<area shape="rect" id="node3" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="191,1087,353,1369"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1location__info__r10__s_1_1vertical__velocity__info__r15__c__.html" title=" " alt="" coords="127,595,313,1009"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node6" title=" " alt="" coords="154,101,241,178"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="208,323,387,532"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="411,374,576,481"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc_1_1location__info__r10__s_1_1location__coordinates__r10__c__.html" title=" " alt="" coords="338,646,499,958"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="393,5,593,273"/>
+<area shape="rect" id="node11" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="591,1079,769,1377"/>
+<area shape="rect" id="node12" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="591,675,769,929"/>
+<area shape="rect" id="node13" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="705,1476,847,1773"/>
+<area shape="rect" id="node14" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="793,1072,945,1384"/>
+</map>

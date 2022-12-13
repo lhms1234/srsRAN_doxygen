@@ -1,0 +1,10 @@
+<map id="asn1::rrc_nr::ctrl_res_set_s::cce_reg_map_type_c_" name="asn1::rrc_nr::ctrl_res_set_s::cce_reg_map_type_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="115,676,288,915"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,404,184,613"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,198,138,275"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1ctrl__res__set__s_1_1cce__reg__map__type__c___1_1interleaved__s__.html" title=" " alt="" coords="209,448,407,569"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="183,132,390,341"/>
+<area shape="rect" id="node6" title=" " alt="" coords="214,5,359,83"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="415,132,607,341"/>
+<area shape="rect" id="node8" title=" " alt="" coords="437,5,585,83"/>
+</map>

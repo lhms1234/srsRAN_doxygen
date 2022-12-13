@@ -1,0 +1,10 @@
+<map id="asn1::rrc::pdcp_cfg_nb_r13_s" name="asn1::rrc::pdcp_cfg_nb_r13_s">
+<area shape="rect" id="node1" title=" " alt="" coords="292,836,479,972"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1pdcp__cfg__nb__r13__s_1_1hdr__compress__r13__c__.html" title=" " alt="" coords="198,535,370,773"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,263,184,472"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,64,138,141"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1pdcp__cfg__nb__r13__s_1_1hdr__compress__r13__c___1_1rohc__s__.html" title=" " alt="" coords="209,299,381,435"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1pdcp__cfg__nb__r13__s_1_1hdr__compress__r13__c___1_1rohc__s___1_1profiles__r13__s__.html" title=" " alt="" coords="185,5,404,200"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="394,549,582,759"/>
+<area shape="rect" id="node8" title=" " alt="" coords="409,329,567,406"/>
+</map>

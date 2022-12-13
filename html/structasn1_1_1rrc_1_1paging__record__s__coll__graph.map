@@ -1,0 +1,10 @@
+<map id="asn1::rrc::paging_record_s" name="asn1::rrc::paging_record_s">
+<area shape="rect" id="node1" title=" " alt="" coords="96,896,272,1003"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,609,171,819"/>
+<area shape="rect" id="node3" title=" " alt="" coords="29,389,147,466"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1paging__ue__id__c.html" title=" " alt="" coords="195,595,365,833"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="180,323,359,532"/>
+<area shape="rect" id="node6" title=" " alt="" coords="226,101,313,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="383,367,572,488"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="377,5,577,273"/>
+</map>

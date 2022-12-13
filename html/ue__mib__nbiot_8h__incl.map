@@ -1,0 +1,52 @@
+<map id="lib/include/srsran/phy/ue/ue_mib_nbiot.h" name="lib/include/srsran/phy/ue/ue_mib_nbiot.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2017,5,2174,47"/>
+<area shape="rect" id="node2" href="$config_8h.html" title=" " alt="" coords="1564,720,1672,747"/>
+<area shape="rect" id="node3" href="$chest__dl__nbiot_8h.html" title=" " alt="" coords="1018,273,1186,315"/>
+<area shape="rect" id="node20" href="$ofdm_8h.html" title=" " alt="" coords="2905,459,3051,486"/>
+<area shape="rect" id="node23" href="$npbch_8h.html" title=" " alt="" coords="1722,370,1887,397"/>
+<area shape="rect" id="node35" href="$cfo_8h.html" title=" " alt="" coords="3784,459,3932,486"/>
+<area shape="rect" id="node38" href="$ue__sync__nbiot_8h.html" title=" " alt="" coords="2822,95,2977,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="373,720,434,747"/>
+<area shape="rect" id="node5" href="$chest__common_8h.html" title=" " alt="" coords="835,452,1003,493"/>
+<area shape="rect" id="node7" href="$chest__dl_8h.html" title=" " alt="" coords="2317,363,2485,404"/>
+<area shape="rect" id="node9" href="$lib_2include_2srsran_2phy_2common_2phy__common_8h.html" title=" " alt="" coords="3173,631,3335,672"/>
+<area shape="rect" id="node12" href="$interp_8h.html" title=" " alt="" coords="2060,631,2211,672"/>
+<area shape="rect" id="node19" href="$refsignal__dl__nbiot_8h.html" title=" " alt="" coords="593,541,761,583"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3356,720,3421,747"/>
+<area shape="rect" id="node8" href="$refsignal__dl_8h.html" title=" " alt="" coords="2001,541,2169,583"/>
+<area shape="rect" id="node13" href="$pss_8h.html" title=" " alt="" coords="3356,459,3507,486"/>
+<area shape="rect" id="node17" href="$wiener__dl_8h.html" title=" " alt="" coords="3291,549,3379,575"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5020,720,5083,747"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3710,720,3785,747"/>
+<area shape="rect" id="node14" href="$convolution_8h.html" title=" " alt="" coords="3555,549,3747,575"/>
+<area shape="rect" id="node16" href="$filter_8h.html" title=" " alt="" coords="1783,638,1933,665"/>
+<area shape="rect" id="node15" href="$dft_8h.html" title=" " alt="" coords="3553,638,3685,665"/>
+<area shape="rect" id="node18" href="$random_8h.html" title=" " alt="" coords="3360,638,3529,665"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2835,549,2907,575"/>
+<area shape="rect" id="node22" href="$cfr_8h.html" title=" " alt="" coords="3135,549,3267,575"/>
+<area shape="rect" id="node24" href="$convcoder_8h.html" title=" " alt="" coords="2703,631,2888,672"/>
+<area shape="rect" id="node25" href="$rm__conv_8h.html" title=" " alt="" coords="391,452,576,493"/>
+<area shape="rect" id="node26" href="$viterbi_8h.html" title=" " alt="" coords="2912,631,3097,672"/>
+<area shape="rect" id="node27" href="$crc_8h.html" title=" " alt="" coords="2539,638,2678,665"/>
+<area shape="rect" id="node28" href="$layermap_8h.html" title=" " alt="" coords="1587,549,1774,575"/>
+<area shape="rect" id="node29" href="$precoding_8h.html" title=" " alt="" coords="988,549,1179,575"/>
+<area shape="rect" id="node30" href="$demod__soft_8h.html" title=" " alt="" coords="1718,452,1891,493"/>
+<area shape="rect" id="node32" href="$mod_8h.html" title=" " alt="" coords="1915,459,2086,486"/>
+<area shape="rect" id="node33" href="$scrambling_8h.html" title=" " alt="" coords="1437,452,1588,493"/>
+<area shape="rect" id="node31" href="$modem__table_8h.html" title=" " alt="" coords="2396,549,2507,575"/>
+<area shape="rect" id="node34" href="$sequence_8h.html" title=" " alt="" coords="1355,549,1563,575"/>
+<area shape="rect" id="node36" title=" " alt="" coords="4351,720,4434,747"/>
+<area shape="rect" id="node37" href="$cexptab_8h.html" title=" " alt="" coords="3913,638,4085,665"/>
+<area shape="rect" id="node39" href="$agc_8h.html" title=" " alt="" coords="4481,638,4625,665"/>
+<area shape="rect" id="node40" href="$timestamp_8h.html" title=" " alt="" coords="4699,638,4913,665"/>
+<area shape="rect" id="node42" href="$filesource_8h.html" title=" " alt="" coords="46,638,214,665"/>
+<area shape="rect" id="node44" href="$sync__nbiot_8h.html" title=" " alt="" coords="3862,184,4009,225"/>
+<area shape="rect" id="node41" title=" " alt="" coords="4777,720,4835,747"/>
+<area shape="rect" id="node43" href="$phy_2io_2format_8h.html" title=" " alt="" coords="55,720,205,747"/>
+<area shape="rect" id="node45" href="$npss_8h.html" title=" " alt="" coords="3539,459,3697,486"/>
+<area shape="rect" id="node46" href="$nsss_8h.html" title=" " alt="" coords="3972,459,4131,486"/>
+<area shape="rect" id="node48" href="$lib_2include_2srsran_2phy_2sync_2sync_8h.html" title=" " alt="" coords="3881,370,4040,397"/>
+<area shape="rect" id="node50" href="$ue__sync_8h.html" title=" " alt="" coords="3793,281,3958,307"/>
+<area shape="rect" id="node47" title=" " alt="" coords="4279,549,4344,575"/>
+<area shape="rect" id="node49" href="$cp_8h.html" title=" " alt="" coords="4161,638,4305,665"/>
+</map>

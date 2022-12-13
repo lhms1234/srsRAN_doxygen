@@ -1,0 +1,12 @@
+<map id="asn1::rrc::ul_pwr_ctrl_ded_scell_v1310_s" name="asn1::rrc::ul_pwr_ctrl_ded_scell_v1310_s">
+<area shape="rect" id="node1" title=" " alt="" coords="355,691,513,871"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1delta__tx__d__offset__list__pucch__r10__s.html" title=" " alt="" coords="344,463,524,613"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,147,212,385"/>
+<area shape="rect" id="node4" title=" " alt="" coords="27,5,190,97"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="237,147,423,385"/>
+<area shape="rect" id="node6" title=" " alt="" coords="249,5,411,97"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="447,147,634,385"/>
+<area shape="rect" id="node8" title=" " alt="" coords="459,5,622,97"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="659,147,873,385"/>
+<area shape="rect" id="node10" title=" " alt="" coords="685,5,847,97"/>
+</map>

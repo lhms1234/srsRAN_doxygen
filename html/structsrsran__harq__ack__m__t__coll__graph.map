@@ -1,0 +1,4 @@
+<map id="srsran_harq_ack_m_t" name="srsran_harq_ack_m_t">
+<area shape="rect" id="node1" title="Describes a single PDSCH transmission HARQ ACK feedback." alt="" coords="25,248,172,384"/>
+<area shape="rect" id="node2" href="$structsrsran__harq__ack__resource__t.html" title="Describes a HARQ ACK resource configuration." alt="" coords="5,5,192,185"/>
+</map>

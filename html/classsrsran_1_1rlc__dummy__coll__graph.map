@@ -1,0 +1,9 @@
+<map id="srsran::rlc_dummy" name="srsran::rlc_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="123,661,278,944"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1rlc__dummy__interface.html" title=" " alt="" coords="5,404,188,584"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1rlc__interface__mac.html" title=" " alt="" coords="6,139,187,319"/>
+<area shape="rect" id="node4" href="$classsrsran_1_1read__pdu__interface.html" title=" " alt="" coords="9,5,185,83"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="212,389,403,599"/>
+<area shape="rect" id="node6" title=" " alt="" coords="249,191,288,268"/>
+<area shape="rect" id="node7" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="312,132,452,327"/>
+</map>

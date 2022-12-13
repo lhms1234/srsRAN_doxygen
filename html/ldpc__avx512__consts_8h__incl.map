@@ -1,0 +1,5 @@
+<map id="lib/src/phy/fec/ldpc/ldpc_avx512_consts.h" name="lib/src/phy/fec/ldpc/ldpc_avx512_consts.h">
+<area shape="rect" id="node1" title="Declaration of constants and masks for the AVX512&#45;based implementation of the LDPC encoder and decode..." alt="" coords="33,5,189,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,92,121"/>
+<area shape="rect" id="node3" href="$utils__avx512_8h.html" title="Declarations of AVX512&#45;related quantities and functions." alt="" coords="116,95,235,121"/>
+</map>

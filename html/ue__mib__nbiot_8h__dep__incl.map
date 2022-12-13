@@ -1,0 +1,11 @@
+<map id="lib/include/srsran/phy/ue/ue_mib_nbiot.h" name="lib/include/srsran/phy/ue/ue_mib_nbiot.h">
+<area shape="rect" id="node1" title=" " alt="" coords="401,5,559,47"/>
+<area shape="rect" id="node2" href="$npdsch__ue_8c.html" title=" " alt="" coords="5,109,179,136"/>
+<area shape="rect" id="node3" href="$usrp__capture__sync__nbiot_8c.html" title=" " alt="" coords="203,102,378,143"/>
+<area shape="rect" id="node4" href="$ue__cell__search__nbiot_8h.html" title=" " alt="" coords="402,95,558,151"/>
+<area shape="rect" id="node8" href="$ue__mib__sync__test__nbiot__usrp_8c.html" title=" " alt="" coords="582,95,749,151"/>
+<area shape="rect" id="node9" href="$ue__mib__nbiot_8c.html" title=" " alt="" coords="773,102,920,143"/>
+<area shape="rect" id="node5" href="$cell__search__nbiot_8c.html" title=" " alt="" coords="216,199,381,240"/>
+<area shape="rect" id="node6" href="$rf__utils_8c.html" title=" " alt="" coords="406,206,554,233"/>
+<area shape="rect" id="node7" href="$ue__cell__search__nbiot_8c.html" title=" " alt="" coords="578,199,723,240"/>
+</map>

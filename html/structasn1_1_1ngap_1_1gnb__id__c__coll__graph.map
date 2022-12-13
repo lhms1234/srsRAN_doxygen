@@ -1,0 +1,7 @@
+<map id="asn1::ngap::gnb_id_c" name="asn1::ngap::gnb_id_c">
+<area shape="rect" id="node1" title=" " alt="" coords="133,595,280,892"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="15,352,196,503"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="220,323,399,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="266,101,353,178"/>
+</map>

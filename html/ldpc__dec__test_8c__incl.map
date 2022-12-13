@@ -1,0 +1,21 @@
+<map id="lib/src/phy/fec/ldpc/test/ldpc_dec_test.c" name="lib/src/phy/fec/ldpc/test/ldpc_dec_test.c">
+<area shape="rect" id="node1" title="Unit test for the LDPC decoder working with float&#45;valued LLRs." alt="" coords="255,5,399,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="371,273,432,300"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,273,69,300"/>
+<area shape="rect" id="node4" title=" " alt="" coords="94,273,159,300"/>
+<area shape="rect" id="node5" title=" " alt="" coords="230,102,298,129"/>
+<area shape="rect" id="node6" href="$ldpc__common_8h.html" title="Declaration of elements common to both the LDPC encoder and the LDPC decoder." alt="" coords="323,95,456,136"/>
+<area shape="rect" id="node7" href="$ldpc__decoder_8h.html" title="Declaration of the LDPC decoder." alt="" coords="732,95,865,136"/>
+<area shape="rect" id="node13" href="$debug_8h.html" title=" " alt="" coords="481,102,642,129"/>
+<area shape="rect" id="node18" href="$vector_8h.html" title=" " alt="" coords="492,191,655,218"/>
+<area shape="rect" id="node8" href="$crc_8h.html" title=" " alt="" coords="729,191,868,218"/>
+<area shape="rect" id="node12" href="$base__graph_8h.html" title="Declaration of the two LDPC base graphs employed in the 5G NR standard." alt="" coords="892,184,1025,225"/>
+<area shape="rect" id="node9" href="$config_8h.html" title=" " alt="" coords="643,273,751,300"/>
+<area shape="rect" id="node10" title=" " alt="" coords="544,273,619,300"/>
+<area shape="rect" id="node11" title=" " alt="" coords="775,273,841,300"/>
+<area shape="rect" id="node14" href="$phy__logger_8h.html" title=" " alt="" coords="164,191,260,218"/>
+<area shape="rect" id="node17" title=" " alt="" coords="335,191,417,218"/>
+<area shape="rect" id="node15" title=" " alt="" coords="183,273,246,300"/>
+<area shape="rect" id="node16" title=" " alt="" coords="270,273,346,300"/>
+<area shape="rect" id="node19" title=" " alt="" coords="457,273,519,300"/>
+</map>

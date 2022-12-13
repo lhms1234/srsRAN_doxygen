@@ -1,0 +1,8 @@
+<map id="asn1::rrc::ue_eutra_cap_add_xdd_mode_v1510_s" name="asn1::rrc::ue_eutra_cap_add_xdd_mode_v1510_s">
+<area shape="rect" id="node1" title=" " alt="" coords="157,779,359,915"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1pdcp__params__nr__r15__s.html" title=" " alt="" coords="158,448,358,716"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1rohc__profile__support__list__r15__s.html" title=" " alt="" coords="5,147,153,385"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1pdcp__params__nr__r15__s_1_1rohc__profiles__ul__only__r15__s__.html" title=" " alt="" coords="177,213,339,319"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="363,147,534,385"/>
+<area shape="rect" id="node6" title=" " alt="" coords="355,5,543,97"/>
+</map>

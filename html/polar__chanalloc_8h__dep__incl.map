@@ -1,0 +1,8 @@
+<map id="lib/include/srsran/phy/fec/polar/polar_chanalloc.h" name="lib/include/srsran/phy/fec/polar/polar_chanalloc.h">
+<area shape="rect" id="node1" title="Declaration of the subchannel allocation block." alt="" coords="369,5,503,61"/>
+<area shape="rect" id="node2" href="$polar__chanalloc_8c.html" title="Definition of the subchannel allocation block." alt="" coords="5,109,141,151"/>
+<area shape="rect" id="node3" href="$polar__chain__test_8c.html" title="Ent&#45;to&#45;end test for the Polar coding chain including: subchannel allocator, encoder,..." alt="" coords="166,109,325,151"/>
+<area shape="rect" id="node4" href="$pbch__nr_8c.html" title=" " alt="" coords="349,117,523,143"/>
+<area shape="rect" id="node5" href="$pdcch__nr_8c.html" title=" " alt="" coords="547,117,730,143"/>
+<area shape="rect" id="node6" href="$uci__nr_8c.html" title=" " alt="" coords="754,117,918,143"/>
+</map>

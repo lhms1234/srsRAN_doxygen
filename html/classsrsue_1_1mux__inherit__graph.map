@@ -1,0 +1,4 @@
+<map id="srsue::mux" name="srsue::mux">
+<area shape="rect" id="node1" title=" " alt="" coords="5,189,203,633"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1mux__base.html" title="Common base class for UE MUX unit for 4G and 5G RAT." alt="" coords="25,5,183,141"/>
+</map>

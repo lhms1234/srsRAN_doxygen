@@ -1,0 +1,13 @@
+<map id="asn1::rrc::tpc_pdcch_cfg_c" name="asn1::rrc::tpc_pdcch_cfg_c">
+<area shape="rect" id="node1" title=" " alt="" coords="251,1329,392,1583"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1tpc__pdcch__cfg__c_1_1setup__s__.html" title=" " alt="" coords="152,1116,293,1208"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="23,697,166,995"/>
+<area shape="rect" id="node4" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="5,323,157,635"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1tpc__idx__c.html" title=" " alt="" coords="202,727,339,965"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="181,374,360,583"/>
+<area shape="rect" id="node7" title=" " alt="" coords="227,101,314,178"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="384,440,547,517"/>
+<area shape="rect" id="node9" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="365,5,565,273"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="317,1057,525,1267"/>
+<area shape="rect" id="node11" title=" " alt="" coords="379,807,463,885"/>
+</map>

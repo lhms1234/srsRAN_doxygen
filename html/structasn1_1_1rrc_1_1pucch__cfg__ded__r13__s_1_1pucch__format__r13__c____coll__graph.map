@@ -1,0 +1,7 @@
+<map id="asn1::rrc::pucch_cfg_ded_r13_s::pucch_format_r13_c_" name="asn1::rrc::pucch_cfg_ded_r13_s::pucch_format_r13_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="129,609,305,877"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,330,184,539"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,323,475,547"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="241,5,441,273"/>
+</map>

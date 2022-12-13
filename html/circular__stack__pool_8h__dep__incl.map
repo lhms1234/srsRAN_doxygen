@@ -1,0 +1,15 @@
+<map id="lib/include/srsran/adt/pool/circular_stack_pool.h" name="lib/include/srsran/adt/pool/circular_stack_pool.h">
+<area shape="rect" id="node1" title=" " alt="" coords="174,5,331,61"/>
+<area shape="rect" id="node2" href="$rnti__pool_8cc.html" title=" " alt="" coords="85,109,244,151"/>
+<area shape="rect" id="node3" href="$sched__nr_8h.html" title=" " alt="" coords="268,109,416,151"/>
+<area shape="rect" id="node4" href="$srsgnb_2src_2stack_2mac_2mac__nr_8cc.html" title=" " alt="" coords="5,199,153,240"/>
+<area shape="rect" id="node5" href="$sched__nr_8cc.html" title=" " alt="" coords="177,199,325,240"/>
+<area shape="rect" id="node6" href="$sched__nr__sim__ue_8h.html" title=" " alt="" coords="350,199,515,240"/>
+<area shape="rect" id="node12" href="$dummy__gnb__stack_8h.html" title=" " alt="" coords="629,199,773,240"/>
+<area shape="rect" id="node7" href="$sched__nr__parallel__test_8cc.html" title=" " alt="" coords="127,288,280,344"/>
+<area shape="rect" id="node8" href="$sched__nr__sim__ue_8cc.html" title=" " alt="" coords="232,399,404,441"/>
+<area shape="rect" id="node9" href="$sched__nr__ue__ded__test__suite_8h.html" title=" " alt="" coords="355,288,510,344"/>
+<area shape="rect" id="node11" href="$sched__nr__test_8cc.html" title=" " alt="" coords="534,295,686,337"/>
+<area shape="rect" id="node10" href="$sched__nr__ue__ded__test__suite_8cc.html" title=" " alt="" coords="429,392,583,448"/>
+<area shape="rect" id="node13" href="$nr__phy__test_8cc.html" title=" " alt="" coords="711,303,869,329"/>
+</map>

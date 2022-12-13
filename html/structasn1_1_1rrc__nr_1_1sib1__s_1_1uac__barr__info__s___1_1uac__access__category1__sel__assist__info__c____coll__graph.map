@@ -1,0 +1,7 @@
+<map id="asn1::rrc_nr::sib1_s::uac_barr_info_s_::uac_access_category1_sel_assist_info_c_" name="asn1::rrc_nr::sib1_s::uac_barr_info_s_::uac_access_category1_sel_assist_info_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="115,595,295,980"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="16,381,195,473"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="219,323,397,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="265,101,351,178"/>
+</map>

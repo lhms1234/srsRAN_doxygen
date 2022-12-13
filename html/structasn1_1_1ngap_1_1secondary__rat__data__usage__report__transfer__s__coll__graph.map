@@ -1,0 +1,13 @@
+<map id="asn1::ngap::secondary_rat_data_usage_report_transfer_s" name="asn1::ngap::secondary_rat_data_usage_report_transfer_s">
+<area shape="rect" id="node1" title=" " alt="" coords="728,1667,887,1847"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1secondary__ratusage__info__s.html" title=" " alt="" coords="610,1439,799,1604"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="343,1108,493,1376"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1qo__sflows__usage__report__item__s.html" title=" " alt="" coords="189,895,343,1045"/>
+<area shape="rect" id="node5" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="291,564,460,817"/>
+<area shape="rect" id="node11" href="$structasn1_1_1ngap_1_1pdu__session__usage__report__s.html" title=" " alt="" coords="613,902,780,1038"/>
+<area shape="rect" id="node6" href="$structasn1_1_1ngap_1_1volume__timed__report__item__s.html" title=" " alt="" coords="302,336,449,501"/>
+<area shape="rect" id="node7" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="5,5,148,259"/>
+<area shape="rect" id="node8" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="691,71,873,193"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="556,586,717,795"/>
+<area shape="rect" id="node10" title=" " alt="" coords="586,380,687,457"/>
+</map>

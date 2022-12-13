@@ -1,0 +1,15 @@
+<map id="asn1::rrc::rrc_inactive_cfg_r15_s" name="asn1::rrc::rrc_inactive_cfg_r15_s">
+<area shape="rect" id="node1" title=" " alt="" coords="379,1116,586,1369"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1ran__notif__area__info__r15__c.html" title=" " alt="" coords="30,697,221,1053"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,374,184,583"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,425,349,532"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="179,5,379,273"/>
+<area shape="rect" id="node7" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="245,727,387,1024"/>
+<area shape="rect" id="node8" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="391,323,543,635"/>
+<area shape="rect" id="node13" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="411,727,554,1024"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="578,763,753,987"/>
+<area shape="rect" id="node10" title=" " alt="" coords="575,440,755,517"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="777,771,986,980"/>
+<area shape="rect" id="node12" title=" " alt="" coords="814,433,949,525"/>
+</map>

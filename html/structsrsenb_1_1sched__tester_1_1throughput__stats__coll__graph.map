@@ -1,0 +1,5 @@
+<map id="srsenb::sched_tester::throughput_stats" name="srsenb::sched_tester::throughput_stats">
+<area shape="rect" id="node1" title=" " alt="" coords="98,263,242,355"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1rolling__average.html" title=" " alt="" coords="5,5,159,156"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1rolling__average.html" title=" " alt="" coords="183,5,336,156"/>
+</map>

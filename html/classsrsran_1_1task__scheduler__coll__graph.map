@@ -1,0 +1,13 @@
+<map id="srsran::task_scheduler" name="srsran::task_scheduler">
+<area shape="rect" id="node1" title=" " alt="" coords="392,1725,556,1964"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1dyn__blocking__queue.html" title=" " alt="" coords="107,1336,267,1472"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1detail_1_1base__blocking__queue.html" title=" " alt="" coords="94,668,281,1083"/>
+<area shape="rect" id="node4" href="$classsrsran_1_1dyn__circular__buffer.html" title=" " alt="" coords="13,396,164,591"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1detail_1_1base__circular__buffer.html" title=" " alt="" coords="5,5,172,347"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1detail_1_1noop__operator.html" title=" " alt="" coords="189,447,322,539"/>
+<area shape="rect" id="node7" href="$classsrsran_1_1multiqueue__handler.html" title=" " alt="" coords="291,1255,462,1553"/>
+<area shape="rect" id="node8" href="$classsrsran_1_1multiqueue__handler_1_1queue__handle.html" title=" " alt="" coords="486,1277,659,1531"/>
+<area shape="rect" id="node9" href="$classsrsran_1_1timer__handler.html" title=" " alt="" coords="684,1145,869,1663"/>
+<area shape="rect" id="node10" href="$classsrsran_1_1intrusive__forward__list.html" title=" " alt="" coords="687,727,867,1024"/>
+<area shape="rect" id="node11" href="$structsrsran_1_1intrusive__forward__list__element.html" title="Base class of T, where T is a node of intrusive_forward_list&lt;T&gt;" alt="" coords="694,447,859,539"/>
+</map>

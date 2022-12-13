@@ -1,0 +1,7 @@
+<map id="srsenb::sched_nr_impl::ue_buffer_manager" name="srsenb::sched_nr_impl::ue_buffer_manager">
+<area shape="rect" id="node1" title=" " alt="" coords="26,999,179,1091"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1base__ue__buffer__manager.html" title=" " alt="" coords="5,535,200,949"/>
+<area shape="rect" id="node3" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="7,263,198,472"/>
+<area shape="rect" id="node4" title=" " alt="" coords="27,64,66,141"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="90,5,230,200"/>
+</map>

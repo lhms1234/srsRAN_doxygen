@@ -1,0 +1,7 @@
+<map id="srsran::phy_common_interface" name="srsran::phy_common_interface">
+<area shape="rect" id="node1" title="Describes a physical layer common interface." alt="" coords="342,5,486,171"/>
+<area shape="rect" id="node2" href="$classphy__common.html" title=" " alt="" coords="5,343,217,685"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1phy__common.html" title=" " alt="" coords="241,226,397,802"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1nr_1_1sync__sa.html" title="NR Standalone synchronization class." alt="" coords="421,241,596,787"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1phy__common.html" title=" " alt="" coords="621,219,786,809"/>
+</map>

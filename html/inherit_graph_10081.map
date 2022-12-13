@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsrsran_1_1base__observable.html" title=" " alt="" coords="5,39,169,80"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1event__dispatcher.html" title="Special case of observable for event types." alt="" coords="217,5,383,47"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1event__queue.html" title="Event Subject that enqueues events and only signals observers when ::process() is called." alt="" coords="230,71,370,112"/>
+</map>

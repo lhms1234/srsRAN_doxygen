@@ -1,0 +1,7 @@
+<map id="srsenb::x2_interface" name="srsenb::x2_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="337,219,477,296"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1rrc__nr__interface__rrc.html" title="Set of X2AP inspired interfaces to support 5G NSA." alt="" coords="5,27,187,149"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1rrc__eutra__interface__rrc__nr.html" title="X2AP inspired interface for response from NR RRC to EUTRA RRC." alt="" coords="211,5,394,171"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1pdcp__interface__gtpu.html" title=" " alt="" coords="419,42,605,134"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1gtpu__interface__pdcp.html" title=" " alt="" coords="629,49,816,127"/>
+</map>

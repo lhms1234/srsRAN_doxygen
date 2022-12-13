@@ -1,0 +1,7 @@
+<map id="asn1::s1ap::multi_cell_load_report_resp_item_c" name="asn1::s1ap::multi_cell_load_report_resp_item_c">
+<area shape="rect" id="node1" title=" " alt="" coords="140,595,311,892"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,352,224,503"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="15,5,215,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="248,323,427,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="294,101,381,178"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="srsran::rlc_am_pdu_segment_pool&lt; HeaderType &gt;" name="srsran::rlc_am_pdu_segment_pool&lt; HeaderType &gt;">
+<area shape="rect" id="node1" title="Pool that manages the allocation of RLC AM PDU Segments to RLC PDUs and tracking of segments ACK stat..." alt="" coords="11,579,215,773"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1intrusive__forward__list.html" title=" " alt="" coords="5,160,220,516"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1intrusive__forward__list__element.html" title="Base class of T, where T is a node of intrusive_forward_list&lt;T&gt;" alt="" coords="30,5,195,97"/>
+</map>

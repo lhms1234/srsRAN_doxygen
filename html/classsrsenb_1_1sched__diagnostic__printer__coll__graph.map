@@ -1,0 +1,3 @@
+<map id="srsenb::sched_diagnostic_printer" name="srsenb::sched_diagnostic_printer">
+<area shape="rect" id="node1" title="RAII style class that prints the test diagnostic info on destruction." alt="" coords="5,5,200,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="srsran::nas_5g::notification_t" name="srsran::nas_5g::notification_t">
+<area shape="rect" id="node1" title=" " alt="" coords="124,559,315,651"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1nas__5g_1_1access__type__t.html" title=" " alt="" coords="23,389,181,496"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1nas__5g_1_1nas__enumerated.html" title=" " alt="" coords="5,132,199,327"/>
+<area shape="rect" id="node4" title=" " alt="" coords="15,5,189,83"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1nas__5g_1_1spare__half__octet__t.html" title=" " alt="" coords="205,389,353,496"/>
+</map>

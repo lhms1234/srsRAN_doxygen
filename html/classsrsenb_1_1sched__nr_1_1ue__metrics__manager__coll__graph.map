@@ -1,0 +1,5 @@
+<map id="srsenb::sched_nr::ue_metrics_manager" name="srsenb::sched_nr::ue_metrics_manager">
+<area shape="rect" id="node1" title=" " alt="" coords="96,365,259,545"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1static__circular__map.html" title=" " alt="" coords="5,5,168,303"/>
+<area shape="rect" id="node3" href="$structsrsenb_1_1mac__metrics__t.html" title="Main MAC metrics." alt="" coords="192,108,347,200"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="asn1::ngap::ul_non_ueassociated_nrp_pa_transport_ies_container" name="asn1::ngap::ul_non_ueassociated_nrp_pa_transport_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="106,1425,270,1605"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="97,1241,279,1348"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="93,953,283,1192"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="12,689,177,883"/>
+<area shape="rect" id="node5" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="5,321,184,619"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,5,184,259"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="202,681,366,891"/>
+<area shape="rect" id="node8" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="230,431,338,509"/>
+</map>

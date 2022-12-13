@@ -1,0 +1,3 @@
+<map id="srsenb::event_logger" name="srsenb::event_logger">
+<area shape="rect" id="node1" title="Singleton class to provide global access to the event_logger_interface interface." alt="" coords="5,5,148,112"/>
+</map>

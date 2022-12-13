@@ -1,0 +1,7 @@
+<map id="LIBLTE_MME_DETACH_REQUEST_MSG_STRUCT" name="LIBLTE_MME_DETACH_REQUEST_MSG_STRUCT">
+<area shape="rect" id="node1" title=" " alt="" coords="215,403,453,495"/>
+<area shape="rect" id="node2" href="$structLIBLTE__MME__DETACH__TYPE__STRUCT.html" title=" " alt="" coords="5,226,212,333"/>
+<area shape="rect" id="node3" href="$structLIBLTE__MME__EPS__MOBILE__ID__STRUCT.html" title=" " alt="" coords="237,219,431,340"/>
+<area shape="rect" id="node4" href="$structLIBLTE__MME__EPS__MOBILE__ID__GUTI__STRUCT.html" title=" " alt="" coords="237,5,431,156"/>
+<area shape="rect" id="node5" href="$structLIBLTE__MME__NAS__KEY__SET__ID__STRUCT.html" title=" " alt="" coords="456,226,628,333"/>
+</map>

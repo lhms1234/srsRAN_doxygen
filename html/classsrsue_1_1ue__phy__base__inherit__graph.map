@@ -1,0 +1,7 @@
+<map id="srsue::ue_phy_base" name="srsue::ue_phy_base">
+<area shape="rect" id="node1" title=" " alt="" coords="269,5,408,185"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1dummy__phy.html" title=" " alt="" coords="5,387,139,611"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1lte__ttcn3__phy.html" title=" " alt="" coords="163,314,314,685"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1phy.html" title=" " alt="" coords="339,233,541,765"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1phy__nr__sa.html" title="NR Standalone PHY." alt="" coords="566,263,733,736"/>
+</map>

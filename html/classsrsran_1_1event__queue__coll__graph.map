@@ -1,0 +1,4 @@
+<map id="srsran::event_queue&lt; Event &gt;" name="srsran::event_queue&lt; Event &gt;">
+<area shape="rect" id="node1" title="Event Subject that enqueues events and only signals observers when ::process() is called." alt="" coords="17,219,157,325"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1base__observable.html" title=" " alt="" coords="5,5,169,171"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="srsran::sys_metrics_t" name="srsran::sys_metrics_t">
+<area shape="rect" id="node1" title="Metrics of cpu usage, memory consumption and number of thread used by the process." alt="" coords="5,5,180,185"/>
+</map>

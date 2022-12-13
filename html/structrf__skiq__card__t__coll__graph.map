@@ -1,0 +1,7 @@
+<map id="rf_skiq_card_t" name="rf_skiq_card_t">
+<area shape="rect" id="node1" title=" " alt="" coords="92,593,235,817"/>
+<area shape="rect" id="node2" href="$structrf__skiq__tx__port__t.html" title=" " alt="" coords="5,263,156,531"/>
+<area shape="rect" id="node3" href="$structsrsran__ringbuffer__t.html" title=" " alt="" coords="12,5,141,200"/>
+<area shape="rect" id="node5" href="$structrf__skiq__rx__port__t.html" title=" " alt="" coords="180,307,315,487"/>
+<area shape="rect" id="node4" href="$structsrsran__rf__error__t.html" title=" " alt="" coords="193,49,310,156"/>
+</map>

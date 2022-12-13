@@ -1,0 +1,8 @@
+<map id="srsenb::stack_metrics_t" name="srsenb::stack_metrics_t">
+<area shape="rect" id="node1" title=" " alt="" coords="354,160,517,237"/>
+<area shape="rect" id="node2" href="$structsrsenb_1_1s1ap__metrics__t.html" title=" " alt="" coords="5,13,164,90"/>
+<area shape="rect" id="node3" href="$structsrsenb_1_1rrc__metrics__t.html" title=" " alt="" coords="188,13,333,90"/>
+<area shape="rect" id="node4" href="$structsrsenb_1_1mac__metrics__t.html" title="Main MAC metrics." alt="" coords="358,5,513,97"/>
+<area shape="rect" id="node5" href="$structsrsenb_1_1rlc__metrics__t.html" title=" " alt="" coords="537,13,681,90"/>
+<area shape="rect" id="node6" href="$structsrsenb_1_1pdcp__metrics__t.html" title=" " alt="" coords="705,13,864,90"/>
+</map>

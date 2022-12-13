@@ -1,0 +1,5 @@
+<map id="asn1::rrc::cqi_report_aperiodic_v1310_c::setup_s_::aperiodic_csi_trigger_v1310_s_" name="asn1::rrc::cqi_report_aperiodic_v1310_c::setup_s_::aperiodic_csi_trigger_v1310_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="5,813,183,935"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="23,380,165,677"/>
+<area shape="rect" id="node3" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="18,5,170,317"/>
+</map>

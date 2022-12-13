@@ -1,0 +1,4 @@
+<map id="srsran::detail::ue_bearer_manager_impl" name="srsran::detail::ue_bearer_manager_impl">
+<area shape="rect" id="node1" title="Implementation of UE bearer manager internal functionality that is common to both srsue and srsenb ap..." alt="" coords="5,219,203,413"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1detail_1_1ue__bearer__manager__impl_1_1radio__bearer__t.html" title=" " alt="" coords="27,5,181,156"/>
+</map>

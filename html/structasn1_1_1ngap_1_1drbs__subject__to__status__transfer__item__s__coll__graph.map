@@ -1,0 +1,11 @@
+<map id="asn1::ngap::drbs_subject_to_status_transfer_item_s" name="asn1::ngap::drbs_subject_to_status_transfer_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="353,896,533,1047"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1drb__status__ul__c.html" title=" " alt="" coords="139,595,326,833"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,345,196,510"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="109,5,309,273"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="220,345,411,510"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="435,323,614,532"/>
+<area shape="rect" id="node7" href="$structasn1_1_1ngap_1_1drb__status__dl__c.html" title=" " alt="" coords="350,595,537,833"/>
+<area shape="rect" id="node6" title=" " alt="" coords="481,101,568,178"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="561,653,742,775"/>
+</map>

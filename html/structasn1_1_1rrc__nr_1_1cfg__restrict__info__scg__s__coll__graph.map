@@ -1,0 +1,10 @@
+<map id="asn1::rrc_nr::cfg_restrict_info_scg_s" name="asn1::rrc_nr::cfg_restrict_info_scg_s">
+<area shape="rect" id="node1" title=" " alt="" coords="270,953,461,1427"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="20,637,175,891"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1band__combination__info__s.html" title=" " alt="" coords="13,387,176,509"/>
+<area shape="rect" id="node4" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,5,184,259"/>
+<area shape="rect" id="node5" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="199,637,347,891"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="200,321,347,575"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc__nr_1_1cfg__restrict__info__scg__s_1_1serv__cell__idx__range__scg__s__.html" title=" " alt="" coords="373,703,549,825"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc__nr_1_1cfg__restrict__info__scg__s_1_1pwr__coordination__fr1__s__.html" title=" " alt="" coords="574,681,815,847"/>
+</map>

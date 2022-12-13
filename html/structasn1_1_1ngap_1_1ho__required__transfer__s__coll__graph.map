@@ -1,0 +1,6 @@
+<map id="asn1::ngap::ho_required_transfer_s" name="asn1::ngap::ho_required_transfer_s">
+<area shape="rect" id="node1" title=" " alt="" coords="87,463,252,628"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="5,205,187,327"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="211,147,400,385"/>
+<area shape="rect" id="node4" title=" " alt="" coords="229,5,382,97"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="asn1::s1ap::en_dcso_neng_nb_identif_s" name="asn1::s1ap::en_dcso_neng_nb_identif_s">
+<area shape="rect" id="node1" title=" " alt="" coords="359,953,501,1089"/>
+<area shape="rect" id="node2" href="$structasn1_1_1s1ap_1_1tai__s.html" title=" " alt="" coords="160,762,287,883"/>
+<area shape="rect" id="node3" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="172,409,315,663"/>
+<area shape="rect" id="node6" href="$structasn1_1_1s1ap_1_1global__en__g__nb__id__s.html" title=" " alt="" coords="509,755,637,891"/>
+<area shape="rect" id="node4" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="5,409,148,663"/>
+<area shape="rect" id="node5" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="339,475,521,597"/>
+<area shape="rect" id="node7" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="545,380,680,692"/>
+<area shape="rect" id="node8" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="537,5,689,317"/>
+</map>

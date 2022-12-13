@@ -1,0 +1,10 @@
+<map id="asn1::rrc::carrier_freqs_geran_s" name="asn1::rrc::carrier_freqs_geran_s">
+<area shape="rect" id="node1" title=" " alt="" coords="135,925,252,1076"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,624,184,833"/>
+<area shape="rect" id="node3" title=" " alt="" coords="22,389,167,466"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1carrier__freqs__geran__s_1_1following__arfcns__c__.html" title=" " alt="" coords="208,595,379,863"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="197,323,376,532"/>
+<area shape="rect" id="node6" title=" " alt="" coords="243,101,330,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="400,352,613,503"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="407,5,607,273"/>
+</map>

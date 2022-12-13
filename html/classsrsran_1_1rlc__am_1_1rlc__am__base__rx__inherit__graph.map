@@ -1,0 +1,5 @@
+<map id="srsran::rlc_am::rlc_am_base_rx" name="srsran::rlc_am::rlc_am_base_rx">
+<area shape="rect" id="node1" title=" " alt="" coords="116,5,296,273"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1rlc__am__lte__rx.html" title=" " alt="" coords="5,321,199,839"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1rlc__am__nr__rx.html" title=" " alt="" coords="223,387,397,773"/>
+</map>

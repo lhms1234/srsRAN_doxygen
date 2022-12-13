@@ -1,0 +1,9 @@
+<map id="asn1::rrc::meas_result_serv_freq_r10_s" name="asn1::rrc::meas_result_serv_freq_r10_s">
+<area shape="rect" id="node1" title=" " alt="" coords="289,549,471,847"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1meas__result__serv__freq__r10__s_1_1meas__result__scell__r10__s__.html" title=" " alt="" coords="5,270,168,391"/>
+<area shape="rect" id="node3" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="193,189,362,472"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1meas__result__serv__freq__r10__s_1_1meas__result__scell__v1310__s__.html" title=" " alt="" coords="196,13,359,119"/>
+<area shape="rect" id="node5" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="387,189,581,472"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1meas__result__serv__freq__r10__s_1_1meas__result__best__neigh__cell__v1310__s__.html" title=" " alt="" coords="403,5,565,127"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1meas__result__serv__freq__r10__s_1_1meas__result__best__neigh__cell__r10__s__.html" title=" " alt="" coords="606,263,810,399"/>
+</map>

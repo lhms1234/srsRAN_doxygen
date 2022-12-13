@@ -1,0 +1,19 @@
+<map id="asn1::rrc::cqi_report_cfg_v1250_s" name="asn1::rrc::cqi_report_cfg_v1250_s">
+<area shape="rect" id="node1" title=" " alt="" coords="318,2019,501,2257"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="16,1688,176,1912"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,1401,157,1479"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1cqi__report__both__v1250__s.html" title=" " alt="" coords="207,1688,382,1912"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1csi__im__cfg__ext__r12__s.html" title=" " alt="" coords="181,1299,395,1581"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1cqi__report__aperiodic__v1250__c.html" title=" " alt="" coords="443,1666,594,1934"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1cqi__report__aperiodic__v1250__c_1_1setup__s__.html" title=" " alt="" coords="419,1394,618,1486"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc_1_1cqi__report__aperiodic__v1250__c_1_1setup__s___1_1aperiodic__csi__trigger__v1250__s__.html" title=" " alt="" coords="434,1023,611,1144"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="431,417,614,641"/>
+<area shape="rect" id="node10" title=" " alt="" coords="460,115,585,207"/>
+<area shape="rect" id="node11" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="681,380,815,677"/>
+<area shape="rect" id="node12" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="747,5,899,317"/>
+<area shape="rect" id="node17" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="826,701,969,999"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="643,1335,851,1545"/>
+<area shape="rect" id="node15" href="$structasn1_1_1rrc_1_1cqi__report__cfg__v1250__s_1_1csi__sf__pattern__cfg__r12__c__.html" title=" " alt="" coords="673,1659,820,1941"/>
+<area shape="rect" id="node14" title=" " alt="" coords="705,1045,789,1122"/>
+<area shape="rect" id="node16" href="$structasn1_1_1rrc_1_1cqi__report__cfg__v1250__s_1_1csi__sf__pattern__cfg__r12__c___1_1setup__s__.html" title=" " alt="" coords="797,1168,998,1275"/>
+</map>

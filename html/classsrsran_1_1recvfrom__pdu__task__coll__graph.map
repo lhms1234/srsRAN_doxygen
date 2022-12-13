@@ -1,0 +1,8 @@
+<map id="srsran::recvfrom_pdu_task" name="srsran::recvfrom_pdu_task">
+<area shape="rect" id="node1" title=" " alt="" coords="219,579,396,671"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="5,285,196,494"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,64,64,141"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="88,5,228,200"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1multiqueue__handler_1_1queue__handle.html" title=" " alt="" coords="221,263,394,516"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1move__callback.html" title=" " alt="" coords="419,336,572,443"/>
+</map>

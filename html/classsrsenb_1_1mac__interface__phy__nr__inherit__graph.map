@@ -1,0 +1,7 @@
+<map id="srsenb::mac_interface_phy_nr" name="srsenb::mac_interface_phy_nr">
+<area shape="rect" id="node1" title=" " alt="" coords="71,5,284,229"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1mac__nr.html" title=" " alt="" coords="5,277,165,780"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1stack__interface__phy__nr.html" title=" " alt="" coords="190,483,349,575"/>
+<area shape="rect" id="node4" href="$classgnb__dummy__stack.html" title=" " alt="" coords="83,828,243,1331"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1gnb__stack__nr.html" title=" " alt="" coords="267,865,485,1294"/>
+</map>

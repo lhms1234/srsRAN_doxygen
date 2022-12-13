@@ -1,0 +1,20 @@
+<map id="asn1::rrc_nr::carrier_freq_eutra_s" name="asn1::rrc_nr::carrier_freq_eutra_s">
+<area shape="rect" id="node1" title=" " alt="" coords="465,1137,632,1420"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1carrier__freq__eutra__s_1_1thresh__x__q__s__.html" title=" " alt="" coords="5,887,151,1009"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="175,836,355,1060"/>
+<area shape="rect" id="node4" title=" " alt="" coords="194,608,335,700"/>
+<area shape="rect" id="node5" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="379,821,535,1075"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc__nr_1_1eutra__pci__range__s.html" title=" " alt="" coords="393,586,521,722"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="367,255,546,465"/>
+<area shape="rect" id="node8" title=" " alt="" coords="413,49,500,127"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="559,836,725,1060"/>
+<area shape="rect" id="node10" title=" " alt="" coords="557,615,722,693"/>
+<area shape="rect" id="node11" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="750,821,921,1075"/>
+<area shape="rect" id="node12" href="$structasn1_1_1rrc__nr_1_1eutra__freq__neigh__cell__info__s.html" title=" " alt="" coords="747,549,924,759"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="743,248,917,472"/>
+<area shape="rect" id="node14" title=" " alt="" coords="737,49,912,127"/>
+<area shape="rect" id="node15" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="945,821,1101,1075"/>
+<area shape="rect" id="node16" href="$structasn1_1_1rrc__nr_1_1eutra__multi__band__info__s.html" title=" " alt="" coords="953,593,1104,715"/>
+<area shape="rect" id="node17" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="952,233,1108,487"/>
+<area shape="rect" id="node18" href="$structasn1_1_1rrc__nr_1_1eutra__ns__pmax__value__s.html" title=" " alt="" coords="936,5,1135,171"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="asn1::ngap::cell_id_list_for_restart_c" name="asn1::ngap::cell_id_list_for_restart_c">
+<area shape="rect" id="node1" title=" " alt="" coords="142,595,333,848"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,359,240,495"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="23,5,223,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="264,323,443,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="310,101,397,178"/>
+</map>

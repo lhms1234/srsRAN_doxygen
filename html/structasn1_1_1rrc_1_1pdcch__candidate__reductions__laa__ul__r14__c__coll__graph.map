@@ -1,0 +1,10 @@
+<map id="asn1::rrc::pdcch_candidate_reductions_laa_ul_r14_c" name="asn1::rrc::pdcch_candidate_reductions_laa_ul_r14_c">
+<area shape="rect" id="node1" title=" " alt="" coords="297,793,496,1061"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1pdcch__candidate__reductions__laa__ul__r14__c_1_1setup__s__.html" title=" " alt="" coords="199,573,378,679"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,147,188,385"/>
+<area shape="rect" id="node4" title=" " alt="" coords="7,5,187,97"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="212,147,395,385"/>
+<area shape="rect" id="node6" title=" " alt="" coords="213,5,393,97"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="402,521,610,731"/>
+<area shape="rect" id="node8" title=" " alt="" coords="464,227,548,305"/>
+</map>

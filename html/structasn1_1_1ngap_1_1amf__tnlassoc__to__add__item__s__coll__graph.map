@@ -1,0 +1,11 @@
+<map id="asn1::ngap::amf_tnlassoc_to_add_item_s" name="asn1::ngap::amf_tnlassoc_to_add_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="415,1013,590,1193"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1cp__transport__layer__info__c.html" title=" " alt="" coords="195,595,381,951"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="15,352,196,503"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="220,323,399,532"/>
+<area shape="rect" id="node6" title=" " alt="" coords="266,101,353,178"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="405,668,600,877"/>
+<area shape="rect" id="node8" title=" " alt="" coords="430,389,575,466"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="624,712,805,833"/>
+</map>

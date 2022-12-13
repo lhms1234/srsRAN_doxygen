@@ -1,0 +1,7 @@
+<map id="asn1::ngap::warning_area_list_c" name="asn1::ngap::warning_area_list_c">
+<area shape="rect" id="node1" title=" " alt="" coords="128,595,293,863"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="6,337,205,517"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="229,323,408,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="275,101,362,178"/>
+</map>

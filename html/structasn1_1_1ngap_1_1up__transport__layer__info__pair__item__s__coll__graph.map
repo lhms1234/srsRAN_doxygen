@@ -1,0 +1,9 @@
+<map id="asn1::ngap::up_transport_layer_info_pair_item_s" name="asn1::ngap::up_transport_layer_info_pair_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="221,1028,387,1164"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1up__transport__layer__info__c.html" title=" " alt="" coords="121,595,287,951"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,359,421,495"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="215,5,415,273"/>
+<area shape="rect" id="node7" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="312,712,493,833"/>
+</map>

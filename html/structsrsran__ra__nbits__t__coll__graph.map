@@ -1,0 +1,3 @@
+<map id="srsran_ra_nbits_t" name="srsran_ra_nbits_t">
+<area shape="rect" id="node1" title="Structure that gives the number of encoded bits and RE for a UL/DL grant." alt="" coords="5,5,128,127"/>
+</map>

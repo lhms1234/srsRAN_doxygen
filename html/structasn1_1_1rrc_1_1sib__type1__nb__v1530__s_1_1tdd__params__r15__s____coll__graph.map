@@ -1,0 +1,15 @@
+<map id="asn1::rrc::sib_type1_nb_v1530_s::tdd_params_r15_s_" name="asn1::rrc::sib_type1_nb_v1530_s::tdd_params_r15_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="503,984,678,1105"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1dl__bitmap__nb__r13__c.html" title=" " alt="" coords="193,609,359,921"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,330,184,539"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="209,381,343,488"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="173,5,373,273"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1tdd__cfg__nb__r15__s.html" title=" " alt="" coords="529,705,653,826"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="371,330,557,539"/>
+<area shape="rect" id="node9" title=" " alt="" coords="398,101,533,178"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="581,323,768,547"/>
+<area shape="rect" id="node11" title=" " alt="" coords="607,93,742,185"/>
+<area shape="rect" id="node12" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="735,646,899,885"/>
+<area shape="rect" id="node13" title=" " alt="" coords="792,389,920,481"/>
+</map>

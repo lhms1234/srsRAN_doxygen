@@ -1,0 +1,14 @@
+<map id="lib/src/phy/fec/polar/polar_decoder_ssc_all.c" name="lib/src/phy/fec/polar/polar_decoder_ssc_all.c">
+<area shape="rect" id="node1" title="Definition of the SSC polar decoder functions common to all implementations." alt="" coords="424,5,591,47"/>
+<area shape="rect" id="node2" href="$polar__decoder__ssc__all_8h.html" title="Declaration of the SSC polar decoder functions common to all implementations." alt="" coords="239,95,402,121"/>
+<area shape="rect" id="node9" href="$utils__avx2_8h.html" title="Declarations of AVX2&#45;related quantities and functions." alt="" coords="613,95,717,121"/>
+<area shape="rect" id="node10" href="$vector_8h.html" title=" " alt="" coords="426,95,589,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,84,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="287,169,362,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="387,169,452,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="477,169,538,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="109,169,173,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="197,169,263,196"/>
+<area shape="rect" id="node11" href="$config_8h.html" title=" " alt="" coords="563,169,671,196"/>
+<area shape="rect" id="node12" title=" " alt="" coords="695,169,757,196"/>
+</map>

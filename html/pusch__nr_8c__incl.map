@@ -1,0 +1,52 @@
+<map id="lib/src/phy/phch/pusch_nr.c" name="lib/src/phy/phch/pusch_nr.c">
+<area shape="rect" id="node1" title=" " alt="" coords="2072,5,2254,32"/>
+<area shape="rect" id="node2" href="$pusch__nr_8h.html" title=" " alt="" coords="1974,87,2157,114"/>
+<area shape="rect" id="node13" href="$phy__common__nr_8h.html" title=" " alt="" coords="2162,527,2324,568"/>
+<area shape="rect" id="node42" href="$layermap_8h.html" title=" " alt="" coords="3391,534,3578,561"/>
+<area shape="rect" id="node43" href="$precoding_8h.html" title=" " alt="" coords="3653,534,3844,561"/>
+<area shape="rect" id="node44" href="$demod__soft_8h.html" title=" " alt="" coords="1156,437,1330,479"/>
+<area shape="rect" id="node45" href="$csi_8h.html" title=" " alt="" coords="746,87,892,114"/>
+<area shape="rect" id="node46" href="$ra__nr_8h.html" title=" " alt="" coords="2181,87,2340,114"/>
+<area shape="rect" id="node49" href="$uci__cfg_8h.html" title=" " alt="" coords="1532,80,1668,121"/>
+<area shape="rect" id="node3" href="$config_8h.html" title=" " alt="" coords="2550,705,2658,732"/>
+<area shape="rect" id="node4" href="$dmrs__sch_8h.html" title=" " alt="" coords="2276,169,2444,211"/>
+<area shape="rect" id="node15" href="$phch__cfg__nr_8h.html" title=" " alt="" coords="2260,259,2407,300"/>
+<area shape="rect" id="node23" href="$evm_8h.html" title=" " alt="" coords="1506,355,1676,382"/>
+<area shape="rect" id="node25" href="$modem__table_8h.html" title=" " alt="" coords="1208,534,1318,561"/>
+<area shape="rect" id="node29" href="$regs_8h.html" title=" " alt="" coords="1882,534,2036,561"/>
+<area shape="rect" id="node30" href="$sch__nr_8h.html" title=" " alt="" coords="1981,177,2150,203"/>
+<area shape="rect" id="node35" href="$uci__nr_8h.html" title=" " alt="" coords="900,177,1066,203"/>
+<area shape="rect" id="node40" href="$scrambling_8h.html" title=" " alt="" coords="3069,437,3220,479"/>
+<area shape="rect" id="node5" href="$chest__dl_8h.html" title=" " alt="" coords="2826,437,2994,479"/>
+<area shape="rect" id="node8" title=" " alt="" coords="454,705,520,732"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3207,705,3268,732"/>
+<area shape="rect" id="node7" href="$chest__common_8h.html" title=" " alt="" coords="1516,616,1684,657"/>
+<area shape="rect" id="node9" href="$refsignal__dl_8h.html" title=" " alt="" coords="2450,527,2618,568"/>
+<area shape="rect" id="node10" href="$lib_2include_2srsran_2phy_2common_2phy__common_8h.html" title=" " alt="" coords="2300,616,2463,657"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2080,705,2142,732"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1315,705,1390,732"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2488,623,2566,650"/>
+<area shape="rect" id="node16" href="$csi__rs__cfg_8h.html" title=" " alt="" coords="2634,437,2802,479"/>
+<area shape="rect" id="node17" href="$sch__cfg__nr_8h.html" title=" " alt="" coords="2013,348,2153,389"/>
+<area shape="rect" id="node18" href="$uci__cfg__nr_8h.html" title=" " alt="" coords="824,348,960,389"/>
+<area shape="rect" id="node22" href="$re__pattern_8h.html" title=" " alt="" coords="2280,348,2406,389"/>
+<area shape="rect" id="node19" href="$csi__cfg_8h.html" title=" " alt="" coords="739,534,814,561"/>
+<area shape="rect" id="node21" href="$harq__ack__cfg_8h.html" title=" " alt="" coords="869,445,980,471"/>
+<area shape="rect" id="node20" href="$pucch__cfg__nr_8h.html" title=" " alt="" coords="914,623,1025,650"/>
+<area shape="rect" id="node24" href="$mod_8h.html" title=" " alt="" coords="1455,445,1626,471"/>
+<area shape="rect" id="node26" href="$ra_8h.html" title=" " alt="" coords="1666,534,1807,561"/>
+<area shape="rect" id="node27" href="$debug_8h.html" title=" " alt="" coords="3682,623,3844,650"/>
+<area shape="rect" id="node28" href="$vector_8h.html" title=" " alt="" coords="1759,623,1922,650"/>
+<area shape="rect" id="node31" href="$crc_8h.html" title=" " alt="" coords="1343,355,1482,382"/>
+<area shape="rect" id="node32" href="$ldpc__decoder_8h.html" title="Declaration of the LDPC decoder." alt="" coords="1687,259,1820,300"/>
+<area shape="rect" id="node33" href="$ldpc__encoder_8h.html" title="Declaration of the LDPC encoder." alt="" coords="1844,259,1978,300"/>
+<area shape="rect" id="node34" href="$ldpc__rm_8h.html" title="Declaration of the LDPC RateMatcher and RateDematcher." alt="" coords="2052,259,2186,300"/>
+<area shape="rect" id="node36" href="$polar__code_8h.html" title="Declaration of the function that obtains the polar code parameters." alt="" coords="2693,527,2830,568"/>
+<area shape="rect" id="node37" href="$polar__decoder_8h.html" title="Declaration of the polar decoder." alt="" coords="753,616,890,657"/>
+<area shape="rect" id="node38" href="$polar__encoder_8h.html" title="Declaration of the polar encoder." alt="" coords="1152,616,1289,657"/>
+<area shape="rect" id="node39" href="$polar__rm_8h.html" title="Declaration of the polar RateMatcher and RateDematcher." alt="" coords="792,259,929,300"/>
+<area shape="rect" id="node41" href="$sequence_8h.html" title=" " alt="" coords="2906,534,3114,561"/>
+<area shape="rect" id="node47" href="$dci__nr_8h.html" title=" " alt="" coords="2468,177,2634,203"/>
+<area shape="rect" id="node48" href="$dci_8h.html" title=" " alt="" coords="1904,445,1955,471"/>
+<area shape="rect" id="node50" href="$cqi_8h.html" title=" " alt="" coords="1495,534,1642,561"/>
+</map>

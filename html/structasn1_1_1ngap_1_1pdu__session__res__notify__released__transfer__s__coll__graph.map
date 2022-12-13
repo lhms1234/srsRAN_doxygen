@@ -1,0 +1,11 @@
+<map id="asn1::ngap::pdu_session_res_notify_released_transfer_s" name="asn1::ngap::pdu_session_res_notify_released_transfer_s">
+<area shape="rect" id="node1" title=" " alt="" coords="116,983,323,1104"/>
+<area shape="rect" id="node2" href="$structasn1_1_1dyn__seq__of.html" title=" " alt="" coords="46,711,214,891"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="29,336,197,619"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1pdu__session__res__notify__released__transfer__ext__ies__o.html" title=" " alt="" coords="5,57,199,222"/>
+<area shape="rect" id="node5" href="$structasn1_1_1ngap_1_1cause__c.html" title=" " alt="" coords="245,681,388,920"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="226,417,407,538"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="223,5,423,273"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="431,373,610,582"/>
+<area shape="rect" id="node9" title=" " alt="" coords="477,101,564,178"/>
+</map>

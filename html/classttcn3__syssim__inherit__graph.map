@@ -1,0 +1,12 @@
+<map id="ttcn3_syssim" name="ttcn3_syssim">
+<area shape="rect" id="node1" title=" " alt="" coords="693,307,840,736"/>
+<area shape="rect" id="node2" href="$classsyssim__interface__phy.html" title=" " alt="" coords="5,71,155,193"/>
+<area shape="rect" id="node3" href="$classss__ut__interface.html" title=" " alt="" coords="179,49,301,215"/>
+<area shape="rect" id="node4" href="$classss__sys__interface.html" title=" " alt="" coords="326,5,490,259"/>
+<area shape="rect" id="node5" href="$classss__srb__interface.html" title=" " alt="" coords="514,79,662,185"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1rrc__interface__rlc.html" title=" " alt="" coords="686,71,847,193"/>
+<area shape="rect" id="node7" href="$classsrsue_1_1rlc__interface__pdcp.html" title=" " alt="" coords="872,64,1040,200"/>
+<area shape="rect" id="node8" href="$classsrsue_1_1rrc__interface__pdcp.html" title=" " alt="" coords="1064,42,1235,222"/>
+<area shape="rect" id="node9" href="$classsrsue_1_1gw__interface__pdcp.html" title=" " alt="" coords="1259,86,1429,178"/>
+<area shape="rect" id="node10" href="$classsrsran_1_1pdu__queue_1_1process__callback.html" title=" " alt="" coords="1454,86,1591,178"/>
+</map>

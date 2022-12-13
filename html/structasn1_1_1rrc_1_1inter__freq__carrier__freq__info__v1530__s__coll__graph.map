@@ -1,0 +1,10 @@
+<map id="asn1::rrc::inter_freq_carrier_freq_info_v1530_s" name="asn1::rrc::inter_freq_carrier_freq_info_v1530_s">
+<area shape="rect" id="node1" title=" " alt="" coords="109,1036,287,1216"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1cell__sel__info__ce__v1530__s.html" title=" " alt="" coords="32,771,159,893"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,404,172,643"/>
+<area shape="rect" id="node4" title=" " alt="" coords="9,191,168,283"/>
+<area shape="rect" id="node5" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="219,705,363,959"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc__nr_1_1pci__range__s.html" title=" " alt="" coords="209,463,379,584"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="205,132,383,341"/>
+<area shape="rect" id="node8" title=" " alt="" coords="251,5,337,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="srsenb::ngap_dummy" name="srsenb::ngap_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="11,263,173,457"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1ngap__rrc__tester.html" title=" " alt="" coords="5,505,179,656"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1ngap__interface__rrc__nr.html" title=" " alt="" coords="9,5,175,215"/>
+</map>

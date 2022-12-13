@@ -1,0 +1,52 @@
+<map id="asn1::rrc::rn_recfg_r10_s::crit_exts_c_" name="asn1::rrc::rn_recfg_r10_s::crit_exts_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="1005,2219,1163,2443"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1rn__recfg__r10__s_1_1crit__exts__c___1_1c1__c__.html" title=" " alt="" coords="917,1888,1056,2156"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="237,161,416,371"/>
+<area shape="rect" id="node42" href="$structasn1_1_1rrc_1_1rn__sf__cfg__r10__s_1_1sf__cfg__pattern__r10__c__.html" title=" " alt="" coords="844,477,1023,833"/>
+<area shape="rect" id="node45" href="$structasn1_1_1rrc_1_1rn__sf__cfg__r10__s_1_1rpdcch__cfg__r10__s___1_1pucch__cfg__r10__c__.html" title=" " alt="" coords="438,492,597,819"/>
+<area shape="rect" id="node47" href="$structasn1_1_1rrc_1_1rn__sf__cfg__r10__s_1_1rpdcch__cfg__r10__s___1_1demod__rs__r10__c__.html" title=" " alt="" coords="47,536,225,775"/>
+<area shape="rect" id="node4" title=" " alt="" coords="283,5,370,83"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1rn__recfg__r10__ies__s.html" title=" " alt="" coords="915,1660,1098,1825"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1rn__sys__info__r10__s.html" title=" " alt="" coords="1113,1439,1279,1590"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1sib__type2__s.html" title=" " alt="" coords="1896,1028,2083,1369"/>
+<area shape="rect" id="node8" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="2013,521,2161,789"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc_1_1acdc__barr__for__common__r13__s.html" title=" " alt="" coords="1963,205,2123,327"/>
+<area shape="rect" id="node10" href="$structasn1_1_1rrc_1_1ue__timers__and__consts__s.html" title=" " alt="" coords="4019,565,4170,745"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="4204,161,4375,371"/>
+<area shape="rect" id="node12" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="4399,161,4569,371"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="4593,161,4764,371"/>
+<area shape="rect" id="node14" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="4788,161,4959,371"/>
+<area shape="rect" id="node15" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="4983,161,5153,371"/>
+<area shape="rect" id="node16" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="3221,161,3392,371"/>
+<area shape="rect" id="node17" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="3417,161,3591,371"/>
+<area shape="rect" id="node18" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="3615,161,3790,371"/>
+<area shape="rect" id="node19" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="3815,161,3985,371"/>
+<area shape="rect" id="node20" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="4009,161,4180,371"/>
+<area shape="rect" id="node21" href="$structasn1_1_1rrc_1_1sib__type2__s_1_1ac__barr__info__s__.html" title=" " alt="" coords="2804,580,2975,731"/>
+<area shape="rect" id="node22" href="$structasn1_1_1rrc_1_1ac__barr__cfg__s.html" title=" " alt="" coords="3073,205,3197,327"/>
+<area shape="rect" id="node27" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="3125,529,3273,782"/>
+<area shape="rect" id="node23" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="1249,529,1412,782"/>
+<area shape="rect" id="node24" href="$structasn1_1_1rrc_1_1mbsfn__sf__cfg__s.html" title=" " alt="" coords="1245,191,1413,341"/>
+<area shape="rect" id="node25" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="1437,529,1585,782"/>
+<area shape="rect" id="node26" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="1437,139,1584,393"/>
+<area shape="rect" id="node28" href="$structasn1_1_1rrc_1_1sib__type2__s_1_1freq__info__s__.html" title=" " alt="" coords="1609,587,1775,723"/>
+<area shape="rect" id="node29" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="1609,161,1765,371"/>
+<area shape="rect" id="node30" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="1800,551,1987,760"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1789,227,1939,305"/>
+<area shape="rect" id="node32" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="1047,507,1225,804"/>
+<area shape="rect" id="node33" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="1043,139,1221,393"/>
+<area shape="rect" id="node34" href="$structasn1_1_1rrc_1_1rr__cfg__common__sib__s.html" title=" " alt="" coords="2349,595,2520,716"/>
+<area shape="rect" id="node35" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="2342,139,2495,393"/>
+<area shape="rect" id="node36" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="2520,132,2680,400"/>
+<area shape="rect" id="node37" href="$structasn1_1_1rrc_1_1pcch__cfg__s.html" title=" " alt="" coords="2705,213,2853,319"/>
+<area shape="rect" id="node38" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="2877,132,3048,400"/>
+<area shape="rect" id="node39" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="2147,132,2317,400"/>
+<area shape="rect" id="node40" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="2545,521,2693,789"/>
+<area shape="rect" id="node41" href="$structasn1_1_1rrc_1_1rn__sf__cfg__r10__s.html" title=" " alt="" coords="819,1432,992,1597"/>
+<area shape="rect" id="node43" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="866,213,1001,319"/>
+<area shape="rect" id="node44" href="$structasn1_1_1rrc_1_1rn__sf__cfg__r10__s_1_1rpdcch__cfg__r10__s__.html" title=" " alt="" coords="428,1145,607,1252"/>
+<area shape="rect" id="node46" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="250,543,414,767"/>
+<area shape="rect" id="node48" href="$structasn1_1_1rrc_1_1rn__sf__cfg__r10__s_1_1rpdcch__cfg__r10__s___1_1res__block__assign__r10__c__.html" title=" " alt="" coords="621,492,819,819"/>
+<area shape="rect" id="node49" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="1080,1917,1288,2127"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1142,1704,1226,1781"/>
+</map>

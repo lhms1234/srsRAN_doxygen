@@ -1,0 +1,3 @@
+<map id="srsenb::ue_cc_softbuffers" name="srsenb::ue_cc_softbuffers">
+<area shape="rect" id="node1" title="Class to manage the allocation, deallocation &amp; access to UE carrier DL + UL softbuffers." alt="" coords="5,5,177,200"/>
+</map>

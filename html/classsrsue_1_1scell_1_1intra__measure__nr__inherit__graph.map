@@ -1,0 +1,5 @@
+<map id="srsue::scell::intra_measure_nr" name="srsue::scell::intra_measure_nr">
+<area shape="rect" id="node1" title="Describes a class for performing LTE intra&#45;frequency cell search and measurement." alt="" coords="30,637,181,935"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1scell_1_1intra__measure__base.html" title="Describes a generic base class to perform intra&#45;frequency measurements." alt="" coords="5,131,205,589"/>
+<area shape="rect" id="node3" title=" " alt="" coords="76,5,135,83"/>
+</map>

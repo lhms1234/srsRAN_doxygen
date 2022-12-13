@@ -1,0 +1,7 @@
+<map id="asn1::s1ap::logged_mdt_ext_ies_o::ext_c" name="asn1::s1ap::logged_mdt_ext_ies_o::ext_c">
+<area shape="rect" id="node1" title=" " alt="" coords="125,595,283,877"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="19,367,191,488"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="216,323,395,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="262,101,349,178"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="lib/src/phy/fec/ldpc/ldpc_enc_avx512.c" name="lib/src/phy/fec/ldpc/ldpc_enc_avx512.c">
+<area shape="rect" id="node1" title="Definition of the LDPC encoder inner functions (AVX512 version, small (&lt;64) lifting size)." alt="" coords="156,5,295,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="30,348,96,375"/>
+<area shape="rect" id="node3" href="$utils__avx512_8h.html" title="Declarations of AVX512&#45;related quantities and functions." alt="" coords="365,95,484,121"/>
+<area shape="rect" id="node4" href="$ldpc__enc__all_8h.html" title="Declaration of the LDPC encoder inner functions." alt="" coords="32,95,137,121"/>
+<area shape="rect" id="node5" href="$ldpc__encoder_8h.html" title="Declaration of the LDPC encoder." alt="" coords="24,169,158,211"/>
+<area shape="rect" id="node6" href="$base__graph_8h.html" title="Declaration of the two LDPC base graphs employed in the 5G NR standard." alt="" coords="24,259,158,300"/>
+<area shape="rect" id="node8" href="$debug_8h.html" title=" " alt="" coords="352,177,513,203"/>
+<area shape="rect" id="node17" href="$vector_8h.html" title=" " alt="" coords="232,266,395,293"/>
+<area shape="rect" id="node7" href="$config_8h.html" title=" " alt="" coords="120,348,228,375"/>
+<area shape="rect" id="node9" href="$phy__logger_8h.html" title=" " alt="" coords="576,266,672,293"/>
+<area shape="rect" id="node13" title=" " alt="" coords="438,348,499,375"/>
+<area shape="rect" id="node16" title=" " alt="" coords="470,266,552,293"/>
+<area shape="rect" id="node10" title=" " alt="" coords="701,348,764,375"/>
+<area shape="rect" id="node11" title=" " alt="" coords="788,348,864,375"/>
+<area shape="rect" id="node12" title=" " alt="" coords="339,348,414,375"/>
+<area shape="rect" id="node14" title=" " alt="" coords="523,348,587,375"/>
+<area shape="rect" id="node15" title=" " alt="" coords="612,348,677,375"/>
+<area shape="rect" id="node18" title=" " alt="" coords="252,348,314,375"/>
+</map>

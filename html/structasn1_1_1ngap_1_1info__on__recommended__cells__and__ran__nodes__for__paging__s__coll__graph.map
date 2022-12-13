@@ -1,0 +1,17 @@
+<map id="asn1::ngap::info_on_recommended_cells_and_ran_nodes_for_paging_s" name="asn1::ngap::info_on_recommended_cells_and_ran_nodes_for_paging_s">
+<area shape="rect" id="node1" title=" " alt="" coords="371,1683,545,1833"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1recommended__cells__for__paging__s.html" title=" " alt="" coords="170,1469,346,1605"/>
+<area shape="rect" id="node3" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="270,661,451,782"/>
+<area shape="rect" id="node5" href="$structasn1_1_1ngap_1_1recommended__cell__item__s.html" title=" " alt="" coords="22,911,198,1091"/>
+<area shape="rect" id="node11" href="$structasn1_1_1ngap_1_1recommended__ran__nodes__for__paging__s.html" title=" " alt="" coords="370,1469,546,1605"/>
+<area shape="rect" id="node13" href="$structasn1_1_1ngap_1_1recommended__ran__node__item__s.html" title=" " alt="" coords="415,933,591,1069"/>
+<area shape="rect" id="node4" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,1153,215,1407"/>
+<area shape="rect" id="node6" href="$structasn1_1_1ngap_1_1ngran__cgi__c.html" title=" " alt="" coords="60,602,224,841"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="35,352,249,503"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="158,5,358,273"/>
+<area shape="rect" id="node15" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="273,352,470,503"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="494,323,673,532"/>
+<area shape="rect" id="node14" href="$structasn1_1_1ngap_1_1amf__paging__target__c.html" title=" " alt="" coords="498,595,669,848"/>
+<area shape="rect" id="node10" title=" " alt="" coords="540,101,627,178"/>
+<area shape="rect" id="node12" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="399,1153,608,1407"/>
+</map>

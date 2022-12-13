@@ -1,0 +1,10 @@
+<map id="asn1::rrc::var_meas_idle_report_r15_s" name="asn1::rrc::var_meas_idle_report_r15_s">
+<area shape="rect" id="node1" title=" " alt="" coords="107,1535,246,1700"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="97,1219,256,1472"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1meas__result__idle__r15__s.html" title=" " alt="" coords="88,1005,265,1156"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1meas__result__idle__r15__s_1_1meas__result__serving__cell__r15__s__.html" title=" " alt="" coords="5,763,172,884"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1meas__result__idle__r15__s_1_1meas__result__neigh__cells__r15__c__.html" title=" " alt="" coords="196,719,363,928"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="192,403,367,656"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1meas__result__idle__eutra__r15__s.html" title=" " alt="" coords="203,189,355,340"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc_1_1meas__result__idle__eutra__r15__s_1_1meas__result__r15__s__.html" title=" " alt="" coords="197,5,361,127"/>
+</map>

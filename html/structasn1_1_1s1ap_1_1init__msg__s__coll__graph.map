@@ -1,0 +1,10 @@
+<map id="asn1::s1ap::init_msg_s" name="asn1::s1ap::init_msg_s">
+<area shape="rect" id="node1" title=" " alt="" coords="101,1189,258,1311"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,895,169,1105"/>
+<area shape="rect" id="node3" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="33,528,141,605"/>
+<area shape="rect" id="node4" href="$structasn1_1_1s1ap_1_1s1ap__elem__procs__o_1_1init__msg__c.html" title=" " alt="" coords="194,873,351,1127"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="174,462,353,671"/>
+<area shape="rect" id="node6" title=" " alt="" coords="220,101,307,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="377,323,937,811"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="557,5,757,273"/>
+</map>

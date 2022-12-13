@@ -1,0 +1,16 @@
+<map id="lib/include/srsran/adt/pool/linear_allocator.h" name="lib/include/srsran/adt/pool/linear_allocator.h">
+<area shape="rect" id="node1" title=" " alt="" coords="165,5,340,47"/>
+<area shape="rect" id="node2" href="$circular__stack__pool_8h.html" title=" " alt="" coords="174,95,331,151"/>
+<area shape="rect" id="node3" href="$rnti__pool_8cc.html" title=" " alt="" coords="85,199,244,240"/>
+<area shape="rect" id="node4" href="$sched__nr_8h.html" title=" " alt="" coords="268,199,416,240"/>
+<area shape="rect" id="node5" href="$srsgnb_2src_2stack_2mac_2mac__nr_8cc.html" title=" " alt="" coords="5,288,153,329"/>
+<area shape="rect" id="node6" href="$sched__nr_8cc.html" title=" " alt="" coords="177,288,325,329"/>
+<area shape="rect" id="node7" href="$sched__nr__sim__ue_8h.html" title=" " alt="" coords="350,288,515,329"/>
+<area shape="rect" id="node13" href="$dummy__gnb__stack_8h.html" title=" " alt="" coords="629,288,773,329"/>
+<area shape="rect" id="node8" href="$sched__nr__parallel__test_8cc.html" title=" " alt="" coords="127,377,280,433"/>
+<area shape="rect" id="node9" href="$sched__nr__sim__ue_8cc.html" title=" " alt="" coords="232,489,404,530"/>
+<area shape="rect" id="node10" href="$sched__nr__ue__ded__test__suite_8h.html" title=" " alt="" coords="355,377,510,433"/>
+<area shape="rect" id="node12" href="$sched__nr__test_8cc.html" title=" " alt="" coords="534,385,686,426"/>
+<area shape="rect" id="node11" href="$sched__nr__ue__ded__test__suite_8cc.html" title=" " alt="" coords="429,481,583,537"/>
+<area shape="rect" id="node14" href="$nr__phy__test_8cc.html" title=" " alt="" coords="711,392,869,419"/>
+</map>

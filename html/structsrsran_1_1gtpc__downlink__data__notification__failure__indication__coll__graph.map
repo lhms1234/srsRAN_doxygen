@@ -1,0 +1,4 @@
+<map id="srsran::gtpc_downlink_data_notification_failure_indication" name="srsran::gtpc_downlink_data_notification_failure_indication">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,172,340"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1gtpc__cause__ie.html" title=" " alt="" coords="7,5,170,171"/>
+</map>

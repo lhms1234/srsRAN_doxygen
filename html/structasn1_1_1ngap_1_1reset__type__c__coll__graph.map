@@ -1,0 +1,7 @@
+<map id="asn1::ngap::reset_type_c" name="asn1::ngap::reset_type_c">
+<area shape="rect" id="node1" title=" " alt="" coords="111,595,281,833"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="209,359,386,495"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="197,5,397,273"/>
+</map>

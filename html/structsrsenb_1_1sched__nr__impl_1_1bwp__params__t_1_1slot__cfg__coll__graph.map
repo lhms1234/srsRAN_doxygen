@@ -1,0 +1,3 @@
+<map id="srsenb::sched_nr_impl::bwp_params_t::slot_cfg" name="srsenb::sched_nr_impl::bwp_params_t::slot_cfg">
+<area shape="rect" id="node1" title="Table specifying if a slot has DL or UL enabled." alt="" coords="5,5,175,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="asn1::rrc::ue_cap_info_v1250_ies_s" name="asn1::rrc::ue_cap_info_v1250_ies_s">
+<area shape="rect" id="node1" title=" " alt="" coords="117,852,273,1003"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1ue__radio__paging__info__r12__s.html" title=" " alt="" coords="96,463,293,789"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,147,184,385"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,5,168,97"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="208,147,387,385"/>
+<area shape="rect" id="node6" title=" " alt="" coords="212,5,383,97"/>
+</map>

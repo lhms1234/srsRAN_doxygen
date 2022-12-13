@@ -1,0 +1,18 @@
+<map id="asn1::ngap::ho_res_alloc_unsuccessful_transfer_s" name="asn1::ngap::ho_res_alloc_unsuccessful_transfer_s">
+<area shape="rect" id="node1" title=" " alt="" coords="322,1352,497,1517"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1crit__diagnostics__s.html" title=" " alt="" coords="310,1080,509,1260"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="406,132,570,341"/>
+<area shape="rect" id="node9" href="$structasn1_1_1s1ap_1_1crit__diagnostics__ie__item__s.html" title=" " alt="" coords="226,463,411,613"/>
+<area shape="rect" id="node4" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="434,5,542,83"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="521,757,703,966"/>
+<area shape="rect" id="node6" title=" " alt="" coords="551,499,673,577"/>
+<area shape="rect" id="node7" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="5,176,187,297"/>
+<area shape="rect" id="node8" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="245,735,416,988"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="211,132,381,341"/>
+<area shape="rect" id="node11" title=" " alt="" coords="231,5,361,83"/>
+<area shape="rect" id="node12" href="$structasn1_1_1ngap_1_1cause__c.html" title=" " alt="" coords="747,1051,890,1289"/>
+<area shape="rect" id="node13" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="728,801,909,922"/>
+<area shape="rect" id="node14" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="719,404,919,672"/>
+<area shape="rect" id="node15" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="933,757,1112,966"/>
+<area shape="rect" id="node16" title=" " alt="" coords="979,499,1066,577"/>
+</map>

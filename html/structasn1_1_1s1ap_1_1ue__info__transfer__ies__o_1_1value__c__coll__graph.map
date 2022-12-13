@@ -1,0 +1,7 @@
+<map id="asn1::s1ap::ue_info_transfer_ies_o::value_c" name="asn1::s1ap::ue_info_transfer_ies_o::value_c">
+<area shape="rect" id="node1" title=" " alt="" coords="126,595,290,848"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="209,337,437,517"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="223,5,423,273"/>
+</map>

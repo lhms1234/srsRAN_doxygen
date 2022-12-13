@@ -1,0 +1,4 @@
+<map id="srslog::detail::condition_variable" name="srslog::detail::condition_variable">
+<area shape="rect" id="node1" title="Abstraction of a pthread condition variable." alt="" coords="5,263,161,501"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="13,5,153,200"/>
+</map>

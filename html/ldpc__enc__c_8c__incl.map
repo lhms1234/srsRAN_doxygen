@@ -1,0 +1,16 @@
+<map id="lib/src/phy/fec/ldpc/ldpc_enc_c.c" name="lib/src/phy/fec/ldpc/ldpc_enc_c.c">
+<area shape="rect" id="node1" title="Definition of the LDPC encoder inner functions (not optimized)." alt="" coords="105,5,237,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,273,71,300"/>
+<area shape="rect" id="node3" href="$base__graph_8h.html" title="Declaration of the two LDPC base graphs employed in the 5G NR standard." alt="" coords="81,184,214,225"/>
+<area shape="rect" id="node5" href="$ldpc__encoder_8h.html" title="Declaration of the LDPC encoder." alt="" coords="157,95,290,136"/>
+<area shape="rect" id="node6" href="$debug_8h.html" title=" " alt="" coords="371,102,532,129"/>
+<area shape="rect" id="node4" href="$config_8h.html" title=" " alt="" coords="95,273,203,300"/>
+<area shape="rect" id="node7" href="$phy__logger_8h.html" title=" " alt="" coords="403,191,499,218"/>
+<area shape="rect" id="node11" title=" " alt="" coords="691,273,753,300"/>
+<area shape="rect" id="node14" title=" " alt="" coords="574,191,657,218"/>
+<area shape="rect" id="node8" title=" " alt="" coords="227,273,289,300"/>
+<area shape="rect" id="node9" title=" " alt="" coords="313,273,389,300"/>
+<area shape="rect" id="node10" title=" " alt="" coords="414,273,489,300"/>
+<area shape="rect" id="node12" title=" " alt="" coords="513,273,577,300"/>
+<area shape="rect" id="node13" title=" " alt="" coords="601,273,667,300"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="srsran::pdu_queue" name="srsran::pdu_queue">
+<area shape="rect" id="node1" title=" " alt="" coords="277,1447,447,1627"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="5,1145,196,1355"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,807,64,885"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="88,749,228,943"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1pdu__queue_1_1process__callback.html" title=" " alt="" coords="220,1204,357,1296"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1static__blocking__queue.html" title=" " alt="" coords="381,1197,612,1303"/>
+<area shape="rect" id="node7" href="$classsrsran_1_1detail_1_1base__blocking__queue.html" title=" " alt="" coords="401,639,592,1053"/>
+<area shape="rect" id="node8" href="$classsrsran_1_1static__circular__buffer.html" title=" " alt="" coords="296,396,476,561"/>
+<area shape="rect" id="node9" href="$classsrsran_1_1detail_1_1base__circular__buffer.html" title=" " alt="" coords="291,5,481,347"/>
+<area shape="rect" id="node10" href="$structsrsran_1_1detail_1_1noop__operator.html" title=" " alt="" coords="501,433,634,525"/>
+<area shape="rect" id="node11" href="$classsrsran_1_1buffer__pool.html" title=" " alt="" coords="636,1116,789,1384"/>
+</map>

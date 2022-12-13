@@ -1,0 +1,3 @@
+<map id="srsenb::rrc::ue::rrc_endc::disable_endc_ev" name="srsenb::rrc::ue::rrc_endc::disable_endc_ev">
+<area shape="rect" id="node1" title="in case of non supported NR carrier in UE capabilities or the NR reconfiguration failed" alt="" coords="5,5,168,97"/>
+</map>

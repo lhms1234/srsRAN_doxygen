@@ -1,0 +1,13 @@
+<map id="asn1::ngap::add_dluptnl_info_for_ho_item_s" name="asn1::ngap::add_dluptnl_info_for_ho_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="382,1197,557,1363"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1up__transport__layer__info__c.html" title=" " alt="" coords="231,735,398,1091"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,463,184,672"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,227,138,305"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,499,421,635"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="199,132,399,400"/>
+<area shape="rect" id="node7" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="519,779,667,1047"/>
+<area shape="rect" id="node8" href="$structasn1_1_1ngap_1_1qos__flow__item__with__data__forwarding__s.html" title=" " alt="" coords="506,477,705,657"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="423,205,604,327"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="629,147,814,385"/>
+<area shape="rect" id="node11" title=" " alt="" coords="618,5,825,83"/>
+</map>

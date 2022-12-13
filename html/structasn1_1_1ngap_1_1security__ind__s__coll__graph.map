@@ -1,0 +1,12 @@
+<map id="asn1::ngap::security_ind_s" name="asn1::ngap::security_ind_s">
+<area shape="rect" id="node1" title=" " alt="" coords="354,852,559,1003"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,551,209,760"/>
+<area shape="rect" id="node3" title=" " alt="" coords="41,307,173,399"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="234,551,461,760"/>
+<area shape="rect" id="node5" title=" " alt="" coords="264,307,431,399"/>
+<area shape="rect" id="node6" href="$structasn1_1_1dyn__seq__of.html" title=" " alt="" coords="485,573,650,738"/>
+<area shape="rect" id="node7" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="490,219,645,487"/>
+<area shape="rect" id="node8" href="$structasn1_1_1ngap_1_1security__ind__ext__ies__o.html" title=" " alt="" coords="497,5,637,156"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="674,536,877,775"/>
+<area shape="rect" id="node10" title=" " alt="" coords="679,307,872,399"/>
+</map>

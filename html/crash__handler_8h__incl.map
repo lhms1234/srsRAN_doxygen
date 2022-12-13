@@ -1,0 +1,5 @@
+<map id="lib/include/srsran/common/crash_handler.h" name="lib/include/srsran/common/crash_handler.h">
+<area shape="rect" id="node1" title="Common handler to catch segfaults and write backtrace to file." alt="" coords="28,5,200,47"/>
+<area shape="rect" id="node2" href="$config_8h.html" title=" " alt="" coords="5,95,113,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="138,95,199,121"/>
+</map>

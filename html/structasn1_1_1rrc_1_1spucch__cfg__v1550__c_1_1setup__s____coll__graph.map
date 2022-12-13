@@ -1,0 +1,5 @@
+<map id="asn1::rrc::spucch_cfg_v1550_c::setup_s_" name="asn1::rrc::spucch_cfg_v1550_c::setup_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="15,549,163,641"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1spucch__cfg__v1550__c_1_1setup__s___1_1two__ant__port__activ__spucch__format3__v1550__s__.html" title=" " alt="" coords="5,351,173,472"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="18,5,161,273"/>
+</map>

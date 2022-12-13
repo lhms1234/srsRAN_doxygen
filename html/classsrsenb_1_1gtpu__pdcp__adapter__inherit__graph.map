@@ -1,0 +1,5 @@
+<map id="srsenb::gtpu_pdcp_adapter" name="srsenb::gtpu_pdcp_adapter">
+<area shape="rect" id="node1" title=" " alt="" coords="115,145,293,325"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1gtpu__interface__pdcp.html" title=" " alt="" coords="5,13,192,90"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1pdcp__interface__gtpu.html" title=" " alt="" coords="216,5,403,97"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="asn1::s1ap::ehrpd_multi_sector_load_report_resp_item_s" name="asn1::s1ap::ehrpd_multi_sector_load_report_resp_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="71,608,239,744"/>
+<area shape="rect" id="node2" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="5,277,148,531"/>
+<area shape="rect" id="node3" href="$structasn1_1_1s1ap_1_1ehrpd__sector__load__report__resp__s.html" title=" " alt="" coords="172,343,341,465"/>
+<area shape="rect" id="node4" href="$structasn1_1_1s1ap_1_1ehrpd__composite__available__capacity__s.html" title=" " alt="" coords="160,5,353,171"/>
+</map>

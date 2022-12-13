@@ -1,0 +1,6 @@
+<map id="srsran::background_allocator_obj_pool&lt; T, BatchSize, ThresholdSize &gt;" name="srsran::background_allocator_obj_pool&lt; T, BatchSize, ThresholdSize &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,559,223,871"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1free__memblock__list.html" title=" " alt="" coords="25,404,203,496"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1detail_1_1intrusive__memblock__list.html" title=" " alt="" coords="32,160,196,355"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1detail_1_1intrusive__memblock__list_1_1node.html" title=" " alt="" coords="37,5,191,97"/>
+</map>

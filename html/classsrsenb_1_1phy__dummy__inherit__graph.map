@@ -1,0 +1,5 @@
+<map id="srsenb::phy_dummy" name="srsenb::phy_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="28,175,168,281"/>
+<area shape="rect" id="node3" href="$classtest__dummies_1_1phy__mobility__dummy.html" title=" " alt="" coords="5,329,191,436"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1phy__interface__rrc__lte.html" title=" " alt="" coords="25,5,171,127"/>
+</map>

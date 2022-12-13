@@ -1,0 +1,12 @@
+<map id="asn1::rrc::sbcch_sl_bch_msg_s" name="asn1::rrc::sbcch_sl_bch_msg_s">
+<area shape="rect" id="node1" title=" " alt="" coords="267,1095,401,1260"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1mib__sl__s.html" title=" " alt="" coords="263,867,405,1032"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="5,507,148,804"/>
+<area shape="rect" id="node4" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="110,132,262,444"/>
+<area shape="rect" id="node8" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="172,507,315,804"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1tdd__cfg__sl__r12__s.html" title=" " alt="" coords="339,573,463,738"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="322,176,479,400"/>
+<area shape="rect" id="node7" title=" " alt="" coords="325,5,477,83"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="487,551,653,760"/>
+<area shape="rect" id="node10" title=" " alt="" coords="513,249,627,327"/>
+</map>

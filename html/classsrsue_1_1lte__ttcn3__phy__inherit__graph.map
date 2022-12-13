@@ -1,0 +1,8 @@
+<map id="srsue::lte_ttcn3_phy" name="srsue::lte_ttcn3_phy">
+<area shape="rect" id="node1" title=" " alt="" coords="81,777,231,1148"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1ue__phy__base.html" title=" " alt="" coords="5,549,144,729"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1phy__interface__stack__lte.html" title=" " alt="" coords="169,593,309,685"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1phy__interface__mac__lte.html" title=" " alt="" coords="55,299,222,450"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1phy__interface__mac__common.html" title=" " alt="" coords="43,5,235,200"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1phy__interface__rrc__lte.html" title=" " alt="" coords="247,248,431,501"/>
+</map>

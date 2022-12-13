@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['g_5frnti_102082',['G_RNTI',['../pcap_8h.html#aaa6bd1a9f92defe3f7387ea12a175247',1,'pcap.h']]],
+  ['gnb_5ful_5fnr_5ffft_5fwindow_5foffset_102083',['GNB_UL_NR_FFT_WINDOW_OFFSET',['../gnb__ul_8c.html#a8b7165180075e558feb54a88ab0d8985',1,'gnb_ul.c']]],
+  ['gnb_5ful_5fpusch_5fmin_5fsnr_5fdefault_102084',['GNB_UL_PUSCH_MIN_SNR_DEFAULT',['../gnb__ul_8c.html#aa64eca39f05eb5723ec129e5a0de2b78',1,'gnb_ul.c']]],
+  ['gtpu_5fbase_5fheader_5flen_102085',['GTPU_BASE_HEADER_LEN',['../lib_2include_2srsran_2upper_2gtpu_8h.html#ab2e7ae89e81e4a31b96ddeb84539bfe7',1,'gtpu.h']]],
+  ['gtpu_5fext_5fheader_5fpdcp_5fpdu_5fnumber_102086',['GTPU_EXT_HEADER_PDCP_PDU_NUMBER',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a851071cb5d4ab093c8d20d1dfbea4000',1,'gtpu.h']]],
+  ['gtpu_5fext_5fheader_5fpdu_5fsession_5fcontainer_102087',['GTPU_EXT_HEADER_PDU_SESSION_CONTAINER',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a36f6c832eb29fcb1283a8c2cbe245d2d',1,'gtpu.h']]],
+  ['gtpu_5fext_5fheader_5fpdu_5fsession_5fcontainer_5flen_102088',['GTPU_EXT_HEADER_PDU_SESSION_CONTAINER_LEN',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a28a5db5cfb061aaacc4c10e4af5454c7',1,'gtpu.h']]],
+  ['gtpu_5fext_5fno_5fmore_5fextension_5fheaders_102089',['GTPU_EXT_NO_MORE_EXTENSION_HEADERS',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a74d3494207fe89f7103fa7113ed2476d',1,'gtpu.h']]],
+  ['gtpu_5fextended_5fheader_5flen_102090',['GTPU_EXTENDED_HEADER_LEN',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a26e2a54fe60653675cfc8260ff00ceb5',1,'gtpu.h']]],
+  ['gtpu_5fflags_5fextended_5fhdr_102091',['GTPU_FLAGS_EXTENDED_HDR',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a38ac09c12d0764121fe9e205a3a0a5bc',1,'gtpu.h']]],
+  ['gtpu_5fflags_5fgtp_5fprime_5fprotocol_102092',['GTPU_FLAGS_GTP_PRIME_PROTOCOL',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a38f46c2916e74ebf9c8aa23e9c34a31e',1,'gtpu.h']]],
+  ['gtpu_5fflags_5fgtp_5fprotocol_102093',['GTPU_FLAGS_GTP_PROTOCOL',['../lib_2include_2srsran_2upper_2gtpu_8h.html#aed10ce63e5df3ebf6996d26bcc998a13',1,'gtpu.h']]],
+  ['gtpu_5fflags_5fpacket_5fnum_102094',['GTPU_FLAGS_PACKET_NUM',['../lib_2include_2srsran_2upper_2gtpu_8h.html#acb0246b198e14e549dd19a2182bf4a85',1,'gtpu.h']]],
+  ['gtpu_5fflags_5fsequence_102095',['GTPU_FLAGS_SEQUENCE',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a04cc36c2c261008a6544571e78891706',1,'gtpu.h']]],
+  ['gtpu_5fflags_5fversion_5fmask_102096',['GTPU_FLAGS_VERSION_MASK',['../lib_2include_2srsran_2upper_2gtpu_8h.html#ad83a717c90886dd5469794dbf96ff91c',1,'gtpu.h']]],
+  ['gtpu_5fflags_5fversion_5fv1_102097',['GTPU_FLAGS_VERSION_V1',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a5024ed0b17616202e39fd638e5889e96',1,'gtpu.h']]],
+  ['gtpu_5fmsg_5fdata_5fpdu_102098',['GTPU_MSG_DATA_PDU',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a5df26528c4f8e3f9180c86c25af66d81',1,'gtpu.h']]],
+  ['gtpu_5fmsg_5fecho_5frequest_102099',['GTPU_MSG_ECHO_REQUEST',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a5a930f56bf68c682a5090bc22e69d4cc',1,'gtpu.h']]],
+  ['gtpu_5fmsg_5fecho_5fresponse_102100',['GTPU_MSG_ECHO_RESPONSE',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a0e2409579d7baf27196605078cd943c0',1,'gtpu.h']]],
+  ['gtpu_5fmsg_5fend_5fmarker_102101',['GTPU_MSG_END_MARKER',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a1d40d2938e7afa0c91d36148b3e53b25',1,'gtpu.h']]],
+  ['gtpu_5fmsg_5ferror_5findication_102102',['GTPU_MSG_ERROR_INDICATION',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a6351a4ff0642e844b01757c4e5c52a38',1,'gtpu.h']]],
+  ['gtpu_5fmsg_5fsupported_5fextension_5fheaders_5fnotification_102103',['GTPU_MSG_SUPPORTED_EXTENSION_HEADERS_NOTIFICATION',['../lib_2include_2srsran_2upper_2gtpu_8h.html#a8076cafb58855c069877b6315917423f',1,'gtpu.h']]]
+];

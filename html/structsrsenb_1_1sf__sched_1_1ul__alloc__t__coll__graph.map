@@ -1,0 +1,5 @@
+<map id="srsenb::sf_sched::ul_alloc_t" name="srsenb::sf_sched::ul_alloc_t">
+<area shape="rect" id="node1" title=" " alt="" coords="25,492,165,657"/>
+<area shape="rect" id="node2" href="$structsrsenb_1_1prb__interval.html" title="Struct to express a {min,...,max} range of PRBs." alt="" coords="27,337,163,429"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1interval.html" title=" " alt="" coords="5,5,184,288"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="asn1::s1ap::sched_communication_time_s" name="asn1::s1ap::sched_communication_time_s">
+<area shape="rect" id="node1" title=" " alt="" coords="59,755,283,964"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="18,380,145,692"/>
+<area shape="rect" id="node3" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="5,5,157,317"/>
+<area shape="rect" id="node4" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="169,475,351,597"/>
+</map>

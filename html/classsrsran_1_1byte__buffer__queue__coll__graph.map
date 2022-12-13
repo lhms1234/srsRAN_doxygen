@@ -1,0 +1,9 @@
+<map id="srsran::byte_buffer_queue" name="srsran::byte_buffer_queue">
+<area shape="rect" id="node1" title=" " alt="" coords="179,1360,327,1657"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1dyn__blocking__queue.html" title=" " alt="" coords="153,1132,352,1297"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1detail_1_1base__blocking__queue.html" title=" " alt="" coords="156,653,349,1083"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1byte__buffer__queue_1_1pop__callback.html" title=" " alt="" coords="5,433,153,554"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1dyn__circular__buffer.html" title=" " alt="" coords="177,396,328,591"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1detail_1_1base__circular__buffer.html" title=" " alt="" coords="156,5,349,347"/>
+<area shape="rect" id="node7" href="$structsrsran_1_1byte__buffer__queue_1_1push__callback.html" title=" " alt="" coords="353,433,507,554"/>
+</map>

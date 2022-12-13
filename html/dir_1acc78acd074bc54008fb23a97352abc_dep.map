@@ -1,0 +1,12 @@
+<map id="lib/include/srsran/srslog/detail" name="lib/include/srsran/srslog/detail">
+<area shape="rect" id="node2" href="dir_dc8d9394cb533f7aaff9a7a3759cfc3f.html" title="support" alt="" coords="56,159,128,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000736_000737.html" title="1" alt="" coords="96,133,104,148"/>
+<area shape="rect" id="node4" href="dir_807e28e5ea8d2331c63f3e30982e778e.html" title="bundled" alt="" coords="79,351,151,399"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000736_000721.html" title="3" alt="" coords="133,328,141,343"/>
+<area shape="rect" id="node3" href="dir_375ffc1551473a6ea4a2d04ba92adf6c.html" title="adt" alt="" coords="5,255,77,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000737_000678.html" title="1" alt="" coords="66,235,74,250"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000737_000721.html" title="1" alt="" coords="114,324,122,339"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000678_000721.html" title="2" alt="" coords="88,324,96,338"/>
+<area shape="rect" id="clust2" href="dir_1acc78acd074bc54008fb23a97352abc.html" alt="" coords="45,52,139,217"/>
+<area shape="rect" id="clust1" href="dir_fc27f4d75dcc31d88ba7546f39e51bd1.html" title="srslog" alt="" coords="35,16,149,228"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="lib/include/srsran/phy/fec/ldpc/ldpc_rm.h" name="lib/include/srsran/phy/fec/ldpc/ldpc_rm.h">
+<area shape="rect" id="node1" title="Declaration of the LDPC RateMatcher and RateDematcher." alt="" coords="228,5,387,47"/>
+<area shape="rect" id="node2" href="$lib_2include_2srsran_2phy_2common_2phy__common_8h.html" title=" " alt="" coords="141,95,303,136"/>
+<area shape="rect" id="node8" href="$base__graph_8h.html" title="Declaration of the two LDPC base graphs employed in the 5G NR standard." alt="" coords="327,95,461,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,184,68,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="93,184,167,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="409,184,475,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="191,184,253,211"/>
+<area shape="rect" id="node7" href="$config_8h.html" title=" " alt="" coords="277,184,385,211"/>
+</map>

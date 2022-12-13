@@ -1,0 +1,5 @@
+<map id="srsran::radio_null" name="srsran::radio_null">
+<area shape="rect" id="node1" title=" " alt="" coords="89,277,229,560"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1radio__base.html" title=" " alt="" coords="5,49,135,185"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1radio__interface__phy.html" title=" " alt="" coords="159,5,338,229"/>
+</map>

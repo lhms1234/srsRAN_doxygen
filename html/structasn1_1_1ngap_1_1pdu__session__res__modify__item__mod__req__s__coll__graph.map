@@ -1,0 +1,8 @@
+<map id="asn1::ngap::pdu_session_res_modify_item_mod_req_s" name="asn1::ngap::pdu_session_res_modify_item_mod_req_s">
+<area shape="rect" id="node1" title=" " alt="" coords="101,968,297,1104"/>
+<area shape="rect" id="node2" href="$structasn1_1_1dyn__seq__of.html" title=" " alt="" coords="5,637,188,817"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,233,188,516"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1pdu__session__res__modify__item__mod__req__ext__ies__o.html" title=" " alt="" coords="5,5,188,171"/>
+<area shape="rect" id="node5" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="213,579,391,876"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="213,248,391,501"/>
+</map>

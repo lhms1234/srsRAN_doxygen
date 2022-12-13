@@ -1,0 +1,6 @@
+<map id="asn1::ngap::paging_attempt_info_s" name="asn1::ngap::paging_attempt_info_s">
+<area shape="rect" id="node1" title=" " alt="" coords="117,433,295,643"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="16,132,193,371"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,204,83"/>
+<area shape="rect" id="node4" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="218,191,399,312"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="srsue::dl_harq_entity_nr" name="srsue::dl_harq_entity_nr">
+<area shape="rect" id="node1" title="Downlink HARQ entity as defined in 5.3.2 of 38.321." alt="" coords="309,535,471,773"/>
+<area shape="rect" id="node8" href="$classsrsue_1_1dl__harq__entity__nr_1_1dl__harq__process__nr.html" title=" " alt="" coords="305,836,467,1089"/>
+<area shape="rect" id="node2" href="$structsrsue_1_1dl__harq__entity__nr_1_1dl__harq__metrics__t.html" title=" " alt="" coords="220,307,371,428"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1demux__interface__harq__nr.html" title="Interface from HARQ class to demux class." alt="" coords="395,299,561,435"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="5,263,196,472"/>
+<area shape="rect" id="node5" title=" " alt="" coords="25,64,64,141"/>
+<area shape="rect" id="node6" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="88,5,228,200"/>
+<area shape="rect" id="node7" href="$classsrsue_1_1mac__interface__harq__nr.html" title="Interface from MAC NR parent class to HARQ subclass." alt="" coords="585,299,760,435"/>
+<area shape="rect" id="node9" href="$structsrsue_1_1mac__interface__phy__nr_1_1mac__nr__grant__dl__t.html" title=" " alt="" coords="495,571,677,737"/>
+<area shape="rect" id="node10" href="$structsrsran_1_1dl__harq__cfg__nr__t.html" title="NR specific config for DL HARQ with configurable number of processes." alt="" coords="785,321,947,413"/>
+</map>

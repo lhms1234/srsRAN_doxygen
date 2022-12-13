@@ -1,0 +1,7 @@
+<map id="asn1::rrc::meas_result_serv_freq_r13_s" name="asn1::rrc::meas_result_serv_freq_r13_s">
+<area shape="rect" id="node1" title=" " alt="" coords="207,549,382,744"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1meas__result__serv__freq__r13__s_1_1meas__result__scell__r13__s__.html" title=" " alt="" coords="5,248,168,413"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1meas__result__serv__freq__r13__s_1_1meas__result__best__neigh__cell__r13__s__.html" title=" " alt="" coords="193,241,397,421"/>
+<area shape="rect" id="node4" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="421,189,616,472"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1meas__result__serv__freq__r13__s_1_1meas__result__best__neigh__cell__v1360__s__.html" title=" " alt="" coords="433,5,604,127"/>
+</map>

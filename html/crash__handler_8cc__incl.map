@@ -1,0 +1,11 @@
+<map id="lib/src/common/crash_handler.cc" name="lib/src/common/crash_handler.cc">
+<area shape="rect" id="node1" title=" " alt="" coords="266,5,413,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,81,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="106,102,173,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="309,184,370,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="767,102,831,129"/>
+<area shape="rect" id="node6" href="$crash__handler_8h.html" title="Common handler to catch segfaults and write backtrace to file." alt="" coords="456,95,604,136"/>
+<area shape="rect" id="node8" href="$backtrace_8h.html" title=" " alt="" coords="247,102,431,129"/>
+<area shape="rect" id="node9" href="$version_8h.html" title=" " alt="" coords="629,102,743,129"/>
+<area shape="rect" id="node7" href="$config_8h.html" title=" " alt="" coords="476,184,584,211"/>
+</map>

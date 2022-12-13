@@ -1,0 +1,23 @@
+<map id="srsue/hdr/stack/mac/proc_phr.h" name="srsue/hdr/stack/mac/proc_phr.h">
+<area shape="rect" id="node1" title=" " alt="" coords="683,5,824,47"/>
+<area shape="rect" id="node2" href="$mux_8h.html" title=" " alt="" coords="463,95,604,136"/>
+<area shape="rect" id="node3" href="$srsue_2hdr_2stack_2mac_2mac_8h.html" title=" " alt="" coords="332,363,473,404"/>
+<area shape="rect" id="node21" href="$proc__phr_8cc.html" title=" " alt="" coords="791,95,932,136"/>
+<area shape="rect" id="node13" href="$mux_8cc.html" title=" " alt="" coords="612,452,753,493"/>
+<area shape="rect" id="node14" href="$mac__test_8cc.html" title=" " alt="" coords="5,452,147,493"/>
+<area shape="rect" id="node15" href="$proc__ra_8h.html" title=" " alt="" coords="243,184,384,225"/>
+<area shape="rect" id="node16" href="$ul__harq_8h.html" title=" " alt="" coords="92,273,233,315"/>
+<area shape="rect" id="node18" href="$proc__ra_8cc.html" title=" " alt="" coords="473,273,615,315"/>
+<area shape="rect" id="node20" href="$proc__bsr_8cc.html" title=" " alt="" coords="408,184,549,225"/>
+<area shape="rect" id="node4" href="$ue__stack__lte_8h.html" title=" " alt="" coords="417,452,548,493"/>
+<area shape="rect" id="node12" href="$srsue_2src_2stack_2mac_2mac_8cc.html" title=" " alt="" coords="252,452,393,493"/>
+<area shape="rect" id="node5" href="$ue__stack__lte_8cc.html" title=" " alt="" coords="207,541,337,583"/>
+<area shape="rect" id="node6" href="$ttcn3__ue_8h.html" title=" " alt="" coords="362,541,497,583"/>
+<area shape="rect" id="node10" href="$ttcn3__ue_8cc.html" title=" " alt="" coords="467,631,602,672"/>
+<area shape="rect" id="node11" href="$srsue_2src_2ue_8cc.html" title=" " alt="" coords="572,549,684,575"/>
+<area shape="rect" id="node7" href="$ttcn3__syssim_8h.html" title=" " alt="" coords="254,631,391,672"/>
+<area shape="rect" id="node9" href="$ttcn3__syssim_8cc.html" title=" " alt="" coords="357,720,501,761"/>
+<area shape="rect" id="node8" href="$ttcn3__dut_8cc.html" title=" " alt="" coords="198,720,333,761"/>
+<area shape="rect" id="node19" href="$proc__sr_8cc.html" title=" " alt="" coords="308,273,449,315"/>
+<area shape="rect" id="node17" href="$ul__harq_8cc.html" title=" " alt="" coords="92,363,233,404"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="asn1::rrc::phys_cfg_ded_s::ant_info_c_" name="asn1::rrc::phys_cfg_ded_s::ant_info_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="287,1124,433,1348"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1ant__info__ded__s.html" title=" " alt="" coords="355,925,538,1061"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="368,624,525,833"/>
+<area shape="rect" id="node4" title=" " alt="" coords="400,389,504,466"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1ant__info__ded__s_1_1codebook__subset__restrict__c__.html" title=" " alt="" coords="15,595,235,863"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="38,374,173,481"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="197,323,376,532"/>
+<area shape="rect" id="node9" title=" " alt="" coords="243,101,330,178"/>
+<area shape="rect" id="node10" href="$structasn1_1_1rrc_1_1ant__info__ded__s_1_1ue__tx__ant__sel__c__.html" title=" " alt="" coords="550,617,725,841"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="763,323,941,532"/>
+<area shape="rect" id="node12" title=" " alt="" coords="809,101,895,178"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="531,323,739,532"/>
+<area shape="rect" id="node14" title=" " alt="" coords="593,101,677,178"/>
+</map>

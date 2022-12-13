@@ -1,0 +1,8 @@
+<map id="srsran::sys_metrics_processor" name="srsran::sys_metrics_processor">
+<area shape="rect" id="node1" title="Process information from the system to create sys_metrics_t. The information is processed from the /p..." alt="" coords="222,564,401,729"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="5,277,196,487"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,64,64,141"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="88,5,228,200"/>
+<area shape="rect" id="node5" href="$structsrsran_1_1sys__metrics__processor_1_1proc__stats__info.html" title="Helper class used to parse the information from the /proc/[pid]/stats." alt="" coords="220,263,403,501"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1sys__metrics__processor_1_1cpu__metrics__t.html" title="Helper class to read the cpu metrics." alt="" coords="427,285,603,479"/>
+</map>

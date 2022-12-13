@@ -1,0 +1,8 @@
+<map id="srsran::gtpc_create_session_response" name="srsran::gtpc_create_session_response">
+<area shape="rect" id="node1" title=" " alt="" coords="359,652,521,759"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1gtpc__create__session__response_1_1gtpc__bearer__context__created__ie.html" title=" " alt="" coords="243,365,432,575"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1gtpc__bearer__qos__ie.html" title=" " alt="" coords="193,5,327,244"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1gtpc__cause__ie.html" title=" " alt="" coords="5,42,168,207"/>
+<area shape="rect" id="node5" href="$structsrsran_1_1gtpc__f__teid__ie.html" title=" " alt="" coords="401,49,548,200"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1gtpc__pdn__address__allocation__ie.html" title=" " alt="" coords="658,395,830,545"/>
+</map>

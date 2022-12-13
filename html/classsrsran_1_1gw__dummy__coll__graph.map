@@ -1,0 +1,5 @@
+<map id="srsran::gw_dummy" name="srsran::gw_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="105,189,274,355"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1gw__interface__nas.html" title=" " alt="" coords="5,5,179,141"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1gw__interface__pdcp.html" title=" " alt="" coords="203,27,373,119"/>
+</map>

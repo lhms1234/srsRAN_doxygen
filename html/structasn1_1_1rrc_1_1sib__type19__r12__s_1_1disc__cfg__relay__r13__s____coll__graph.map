@@ -1,0 +1,14 @@
+<map id="asn1::rrc::sib_type19_r12_s::disc_cfg_relay_r13_s_" name="asn1::rrc::sib_type19_r12_s::disc_cfg_relay_r13_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="391,933,545,1040"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1sl__disc__cfg__remote__ue__r13__s.html" title=" " alt="" coords="280,698,456,849"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1resel__info__relay__r13__s.html" title=" " alt="" coords="183,441,345,577"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,165,341"/>
+<area shape="rect" id="node5" title=" " alt="" coords="35,5,135,83"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="189,132,363,341"/>
+<area shape="rect" id="node7" title=" " alt="" coords="210,5,342,83"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="372,404,545,613"/>
+<area shape="rect" id="node10" href="$structasn1_1_1rrc_1_1sl__disc__cfg__relay__ue__r13__s.html" title=" " alt="" coords="480,676,656,871"/>
+<area shape="rect" id="node9" title=" " alt="" coords="391,198,527,275"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="571,404,741,613"/>
+<area shape="rect" id="node12" title=" " alt="" coords="590,198,722,275"/>
+</map>

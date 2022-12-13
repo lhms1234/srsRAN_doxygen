@@ -1,0 +1,8 @@
+<map id="ttcn3_ue" name="ttcn3_ue">
+<area shape="rect" id="node1" title=" " alt="" coords="120,359,277,700"/>
+<area shape="rect" id="node2" href="$classphy__interface__syssim.html" title=" " alt="" coords="41,189,191,311"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1gw__interface__stack.html" title=" " alt="" coords="215,204,351,296"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1gw__interface__nas.html" title=" " alt="" coords="5,5,179,141"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1gw__interface__rrc.html" title=" " alt="" coords="203,27,362,119"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1gw__interface__pdcp.html" title=" " alt="" coords="387,27,557,119"/>
+</map>

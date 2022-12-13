@@ -1,0 +1,7 @@
+<map id="asn1::rrc::sys_info_nb_r13_ies_s::sib_type_and_info_r13_item_c_" name="asn1::rrc::sys_info_nb_r13_ies_s::sib_type_and_info_r13_item_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="187,609,351,921"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,323,283,547"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="44,5,244,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="307,330,485,539"/>
+<area shape="rect" id="node5" title=" " alt="" coords="353,101,439,178"/>
+</map>

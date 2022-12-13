@@ -1,0 +1,6 @@
+<map id="srsue::ta_control" name="srsue::ta_control">
+<area shape="rect" id="node1" title=" " alt="" coords="5,535,212,891"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="13,263,204,472"/>
+<area shape="rect" id="node3" title=" " alt="" coords="33,64,72,141"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="96,5,236,200"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="asn1::rrc_nr::radio_link_monitoring_rs_s" name="asn1::rrc_nr::radio_link_monitoring_rs_s">
+<area shape="rect" id="node1" title=" " alt="" coords="278,984,434,1135"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1radio__link__monitoring__rs__s_1_1detection__res__c__.html" title=" " alt="" coords="185,595,335,921"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,389,371,466"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="189,5,389,273"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="359,653,551,863"/>
+<area shape="rect" id="node8" title=" " alt="" coords="405,389,505,466"/>
+</map>

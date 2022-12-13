@@ -1,0 +1,6 @@
+<map id="srsran::sib13_t" name="srsran::sib13_t">
+<area shape="rect" id="node1" title=" " alt="" coords="102,403,257,495"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1mbsfn__area__info__t.html" title=" " alt="" coords="5,219,169,340"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1mbsfn__area__info__t_1_1mcch__cfg__t.html" title=" " alt="" coords="12,5,163,156"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1mbms__notif__cfg__t.html" title=" " alt="" coords="193,219,331,340"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="lib/src/phy/fec/polar/polar_decoder.c" name="lib/src/phy/fec/polar/polar_decoder.c">
+<area shape="rect" id="node1" title="Definition of the polar decoder." alt="" coords="441,5,577,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="414,259,479,285"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1173,259,1235,285"/>
+<area shape="rect" id="node4" title=" " alt="" coords="87,102,150,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="606,259,671,285"/>
+<area shape="rect" id="node6" href="$polar__decoder__ssc__c_8h.html" title="Declaration of the SSC polar decoder inner functions working with 8&#45;bit integer&#45;valued LLRs." alt="" coords="701,102,857,129"/>
+<area shape="rect" id="node11" href="$polar__decoder__ssc__c__avx2_8h.html" title="Declaration of the SSC polar decoder inner functions working with 8&#45;bit integer&#45;valued LLRs and AVX2 ..." alt="" coords="174,95,319,136"/>
+<area shape="rect" id="node12" href="$polar__decoder__ssc__f_8h.html" title="Declaration of the SSC polar decoder inner functions working with float&#45;valued LLRs." alt="" coords="343,102,497,129"/>
+<area shape="rect" id="node13" href="$polar__decoder__ssc__s_8h.html" title="Definition of the SSC polar decoder inner functions working with 16&#45;bit integer&#45;valued LLRs." alt="" coords="521,102,677,129"/>
+<area shape="rect" id="node14" href="$polar__decoder_8h.html" title="Declaration of the polar decoder." alt="" coords="881,95,1018,136"/>
+<area shape="rect" id="node16" href="$debug_8h.html" title=" " alt="" coords="1042,102,1203,129"/>
+<area shape="rect" id="node7" href="$polar__decoder__ssc__all_8h.html" title="Declaration of the SSC polar decoder functions common to all implementations." alt="" coords="537,184,700,211"/>
+<area shape="rect" id="node8" title=" " alt="" coords="503,259,582,285"/>
+<area shape="rect" id="node9" title=" " alt="" coords="784,259,859,285"/>
+<area shape="rect" id="node10" title=" " alt="" coords="696,259,760,285"/>
+<area shape="rect" id="node15" href="$config_8h.html" title=" " alt="" coords="827,184,935,211"/>
+<area shape="rect" id="node17" href="$phy__logger_8h.html" title=" " alt="" coords="1067,184,1163,211"/>
+<area shape="rect" id="node20" title=" " alt="" coords="960,184,1043,211"/>
+<area shape="rect" id="node18" title=" " alt="" coords="986,259,1049,285"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1073,259,1149,285"/>
+</map>

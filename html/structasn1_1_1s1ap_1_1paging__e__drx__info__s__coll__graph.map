@@ -1,0 +1,8 @@
+<map id="asn1::s1ap::paging_e_drx_info_s" name="asn1::s1ap::paging_e_drx_info_s">
+<area shape="rect" id="node1" title=" " alt="" coords="223,404,405,555"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,199,341"/>
+<area shape="rect" id="node3" title=" " alt="" coords="17,5,187,83"/>
+<area shape="rect" id="node4" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="223,176,405,297"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="429,132,613,341"/>
+<area shape="rect" id="node6" title=" " alt="" coords="445,5,596,83"/>
+</map>

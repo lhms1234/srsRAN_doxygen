@@ -1,0 +1,12 @@
+<map id="asn1::s1ap::tai_cancelled_item_s" name="asn1::s1ap::tai_cancelled_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="151,1483,322,1619"/>
+<area shape="rect" id="node2" href="$structasn1_1_1s1ap_1_1tai__s.html" title=" " alt="" coords="72,762,199,883"/>
+<area shape="rect" id="node3" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="379,409,521,663"/>
+<area shape="rect" id="node8" href="$structasn1_1_1s1ap_1_1eutran__cgi__s.html" title=" " alt="" coords="413,755,543,891"/>
+<area shape="rect" id="node4" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="5,409,148,663"/>
+<area shape="rect" id="node5" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="173,475,354,597"/>
+<area shape="rect" id="node7" href="$structasn1_1_1s1ap_1_1cancelled__cellin__tai__item__s.html" title=" " alt="" coords="315,953,465,1104"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="287,1167,469,1420"/>
+<area shape="rect" id="node9" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="545,380,680,692"/>
+<area shape="rect" id="node10" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="537,5,689,317"/>
+</map>

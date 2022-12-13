@@ -1,0 +1,23 @@
+<map id="lib/include/srsran/phy/phch/npdcch.h" name="lib/include/srsran/phy/phch/npdcch.h">
+<area shape="rect" id="node1" title=" " alt="" coords="978,5,1114,47"/>
+<area shape="rect" id="node2" href="$config_8h.html" title=" " alt="" coords="1133,348,1241,375"/>
+<area shape="rect" id="node3" href="$lib_2include_2srsran_2phy_2common_2phy__common_8h.html" title=" " alt="" coords="803,259,966,300"/>
+<area shape="rect" id="node8" href="$convcoder_8h.html" title=" " alt="" coords="1200,259,1385,300"/>
+<area shape="rect" id="node9" href="$rm__conv_8h.html" title=" " alt="" coords="1945,259,2131,300"/>
+<area shape="rect" id="node10" href="$viterbi_8h.html" title=" " alt="" coords="991,259,1176,300"/>
+<area shape="rect" id="node11" href="$crc_8h.html" title=" " alt="" coords="235,266,374,293"/>
+<area shape="rect" id="node12" href="$layermap_8h.html" title=" " alt="" coords="1185,184,1371,211"/>
+<area shape="rect" id="node13" href="$precoding_8h.html" title=" " alt="" coords="1396,184,1587,211"/>
+<area shape="rect" id="node14" href="$demod__soft_8h.html" title=" " alt="" coords="402,95,575,136"/>
+<area shape="rect" id="node16" href="$mod_8h.html" title=" " alt="" coords="187,102,358,129"/>
+<area shape="rect" id="node17" href="$dci_8h.html" title=" " alt="" coords="633,102,779,129"/>
+<area shape="rect" id="node19" href="$regs_8h.html" title=" " alt="" coords="854,184,1009,211"/>
+<area shape="rect" id="node20" href="$scrambling_8h.html" title=" " alt="" coords="1528,95,1679,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="841,348,904,375"/>
+<area shape="rect" id="node5" title=" " alt="" coords="729,348,803,375"/>
+<area shape="rect" id="node6" title=" " alt="" coords="115,348,180,375"/>
+<area shape="rect" id="node7" title=" " alt="" coords="929,348,990,375"/>
+<area shape="rect" id="node15" href="$modem__table_8h.html" title=" " alt="" coords="351,184,461,211"/>
+<area shape="rect" id="node18" href="$ra_8h.html" title=" " alt="" coords="537,184,678,211"/>
+<area shape="rect" id="node21" href="$sequence_8h.html" title=" " alt="" coords="1611,184,1819,211"/>
+</map>

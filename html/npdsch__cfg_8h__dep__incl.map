@@ -1,0 +1,13 @@
+<map id="lib/include/srsran/phy/phch/npdsch_cfg.h" name="lib/include/srsran/phy/phch/npdsch_cfg.h">
+<area shape="rect" id="node1" title=" " alt="" coords="573,5,734,47"/>
+<area shape="rect" id="node2" href="$npdsch_8h.html" title=" " alt="" coords="641,95,777,136"/>
+<area shape="rect" id="node3" href="$ue__dl__nbiot_8h.html" title=" " alt="" coords="525,184,672,225"/>
+<area shape="rect" id="node7" href="$npdsch__npdcch__file__test_8c.html" title=" " alt="" coords="848,273,1029,315"/>
+<area shape="rect" id="node10" href="$npdsch_8c.html" title=" " alt="" coords="747,191,917,218"/>
+<area shape="rect" id="node11" href="$npdsch__test_8c.html" title=" " alt="" coords="942,184,1082,225"/>
+<area shape="rect" id="node4" href="$npdsch__enodeb_8c.html" title=" " alt="" coords="5,273,147,315"/>
+<area shape="rect" id="node5" href="$npdsch__ue_8c.html" title=" " alt="" coords="171,281,344,307"/>
+<area shape="rect" id="node6" href="$dci__nbiot__test_8c.html" title=" " alt="" coords="369,273,509,315"/>
+<area shape="rect" id="node8" href="$ue__dl__nbiot__test_8c.html" title=" " alt="" coords="533,273,665,315"/>
+<area shape="rect" id="node9" href="$ue__dl__nbiot_8c.html" title=" " alt="" coords="689,273,823,315"/>
+</map>

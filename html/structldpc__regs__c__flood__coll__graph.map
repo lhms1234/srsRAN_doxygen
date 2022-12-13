@@ -1,0 +1,3 @@
+<map id="ldpc_regs_c_flood" name="ldpc_regs_c_flood">
+<area shape="rect" id="node1" title="Inner registers for the LDPC decoder that works with 8&#45;bit integer&#45;valued LLRs (flooded scheduling)." alt="" coords="5,5,132,244"/>
+</map>

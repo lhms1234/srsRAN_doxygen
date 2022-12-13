@@ -1,0 +1,15 @@
+<map id="asn1::rrc::bcch_bch_msg_tdd_nb_s" name="asn1::rrc::bcch_bch_msg_tdd_nb_s">
+<area shape="rect" id="node1" title=" " alt="" coords="347,1285,484,1407"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1mib__tdd__nb__r15__s.html" title=" " alt="" coords="330,1072,501,1223"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="5,705,140,1002"/>
+<area shape="rect" id="node4" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="155,323,307,635"/>
+<area shape="rect" id="node5" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="164,705,299,1002"/>
+<area shape="rect" id="node13" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="323,705,457,1002"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="482,741,653,965"/>
+<area shape="rect" id="node7" title=" " alt="" coords="476,440,651,517"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc_1_1mib__tdd__nb__r15__s_1_1operation__mode__info__r15__c__.html" title=" " alt="" coords="681,697,849,1009"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="675,374,854,583"/>
+<area shape="rect" id="node10" title=" " alt="" coords="721,101,808,178"/>
+<area shape="rect" id="node11" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="878,396,1091,561"/>
+<area shape="rect" id="node12" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="885,5,1085,273"/>
+</map>

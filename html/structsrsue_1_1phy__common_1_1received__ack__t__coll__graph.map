@@ -1,0 +1,4 @@
+<map id="srsue::phy_common::received_ack_t" name="srsue::phy_common::received_ack_t">
+<area shape="rect" id="node1" title=" " alt="" coords="29,189,177,296"/>
+<area shape="rect" id="node2" href="$structsrsran__pdsch__ack__resource__t.html" title=" " alt="" coords="5,5,201,127"/>
+</map>

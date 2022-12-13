@@ -1,0 +1,19 @@
+<map id="asn1::rrc::sl_disc_cfg_r12_s::disc_tx_inter_freq_info_r13_c_::setup_s_" name="asn1::rrc::sl_disc_cfg_r12_s::disc_tx_inter_freq_info_r13_c_::setup_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="192,2204,371,2413"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1sl__disc__tx__info__inter__freq__list__add__r13__s.html" title=" " alt="" coords="387,1932,559,2127"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="577,1587,727,1855"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1sl__disc__tx__res__info__per__freq__r13__s.html" title=" " alt="" coords="432,1285,619,1524"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1sl__disc__tx__ref__carrier__ded__r13__c.html" title=" " alt="" coords="174,969,346,1208"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="175,323,353,532"/>
+<area shape="rect" id="node12" href="$structasn1_1_1rrc_1_1sl__disc__tx__res__r13__c_1_1setup__c__.html" title=" " alt="" coords="371,595,536,907"/>
+<area shape="rect" id="node7" title=" " alt="" coords="221,101,307,178"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc_1_1cell__sel__info__nfreq__r13__s.html" title=" " alt="" coords="560,991,731,1186"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="560,646,733,855"/>
+<area shape="rect" id="node10" title=" " alt="" coords="587,389,706,466"/>
+<area shape="rect" id="node11" href="$structasn1_1_1rrc_1_1sl__disc__tx__res__r13__c.html" title=" " alt="" coords="371,977,536,1201"/>
+<area shape="rect" id="node13" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="378,359,561,495"/>
+<area shape="rect" id="node14" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="369,5,569,273"/>
+<area shape="rect" id="node15" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,646,213,855"/>
+<area shape="rect" id="node16" title=" " alt="" coords="66,389,150,466"/>
+<area shape="rect" id="node17" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="405,1587,547,1855"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classepoll__handler.html" title="Common helper function for epoll." alt="" coords="5,81,104,108"/>
+<area shape="rect" id="node2" href="$classepoll__signal__handler.html" title=" " alt="" coords="152,31,291,57"/>
+<area shape="rect" id="node3" href="$classepoll__timer__handler.html" title=" " alt="" coords="154,81,289,108"/>
+<area shape="rect" id="node4" href="$classttcn3__port__handler.html" title="This class provides a common function for all TTCN3 ports for SCTP socket creation,..." alt="" coords="157,132,286,159"/>
+<area shape="rect" id="node5" href="$classttcn3__drb__interface.html" title=" " alt="" coords="352,5,485,32"/>
+<area shape="rect" id="node6" href="$classttcn3__ip__ctrl__interface.html" title=" " alt="" coords="343,56,494,83"/>
+<area shape="rect" id="node7" href="$classttcn3__ip__sock__interface.html" title=" " alt="" coords="339,107,499,133"/>
+<area shape="rect" id="node8" href="$classttcn3__srb__interface.html" title=" " alt="" coords="352,157,485,184"/>
+<area shape="rect" id="node9" href="$classttcn3__sys__interface.html" title=" " alt="" coords="351,208,487,235"/>
+<area shape="rect" id="node10" href="$classttcn3__ut__interface.html" title=" " alt="" coords="355,259,482,285"/>
+</map>

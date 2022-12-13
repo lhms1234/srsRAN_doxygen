@@ -1,0 +1,10 @@
+<map id="srsue::ue_stack_nr" name="srsue::ue_stack_nr">
+<area shape="rect" id="node1" title="L2/L3 stack class for 5G/NR UEs." alt="" coords="337,447,555,876"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1ue__stack__base.html" title=" " alt="" coords="5,233,156,399"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1stack__interface__phy__nr.html" title=" " alt="" coords="180,270,331,362"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1mac__interface__phy__nr.html" title=" " alt="" coords="74,5,237,185"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1rrc__interface__phy__nr.html" title=" " alt="" coords="261,20,452,171"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1stack__interface__gw.html" title=" " alt="" coords="355,255,537,377"/>
+<area shape="rect" id="node7" href="$classsrsue_1_1stack__interface__rrc.html" title=" " alt="" coords="562,255,735,377"/>
+<area shape="rect" id="node8" title=" " alt="" coords="760,277,863,355"/>
+</map>

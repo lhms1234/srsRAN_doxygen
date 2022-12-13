@@ -1,0 +1,10 @@
+<map id="asn1::rrc::sr_sps_bsr_cfg_nb_r15_c" name="asn1::rrc::sr_sps_bsr_cfg_nb_r15_c">
+<area shape="rect" id="node1" title=" " alt="" coords="242,1027,433,1251"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1sr__sps__bsr__cfg__nb__r15__c_1_1setup__s__.html" title=" " alt="" coords="148,813,316,905"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="10,380,153,677"/>
+<area shape="rect" id="node4" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="5,5,157,317"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="177,409,351,648"/>
+<area shape="rect" id="node6" title=" " alt="" coords="195,115,333,207"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="340,755,548,964"/>
+<area shape="rect" id="node8" title=" " alt="" coords="402,490,486,567"/>
+</map>

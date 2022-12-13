@@ -1,0 +1,6 @@
+<map id="srslog::log_formatter" name="srslog::log_formatter">
+<area shape="rect" id="node1" title=" " alt="" coords="211,5,392,288"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1json__formatter.html" title=" " alt="" coords="5,336,187,619"/>
+<area shape="rect" id="node3" href="$classsrslog_1_1text__formatter.html" title="Plain text formatter implementation class." alt="" coords="211,336,392,619"/>
+<area shape="rect" id="node4" href="$classtest__dummies_1_1log__formatter__dummy.html" title="A Dummy implementation of a formatter." alt="" coords="417,373,605,582"/>
+</map>

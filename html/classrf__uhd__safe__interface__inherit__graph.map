@@ -1,0 +1,5 @@
+<map id="rf_uhd_safe_interface" name="rf_uhd_safe_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="179,5,383,288"/>
+<area shape="rect" id="node2" href="$classrf__uhd__generic.html" title=" " alt="" coords="5,387,289,758"/>
+<area shape="rect" id="node3" href="$classrf__uhd__rfnoc.html" title=" " alt="" coords="313,336,517,809"/>
+</map>

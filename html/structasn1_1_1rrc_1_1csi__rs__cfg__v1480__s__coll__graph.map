@@ -1,0 +1,11 @@
+<map id="asn1::rrc::csi_rs_cfg_v1480_s" name="asn1::rrc::csi_rs_cfg_v1480_s">
+<area shape="rect" id="node1" title=" " alt="" coords="282,1227,479,1377"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1csi__rs__cfg__emimo__v1480__c.html" title=" " alt="" coords="279,911,483,1164"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1csi__rs__cfg__emimo__v1480__c_1_1setup__c__.html" title=" " alt="" coords="179,595,364,848"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,359,207,495"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="6,5,206,273"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="231,323,410,532"/>
+<area shape="rect" id="node7" title=" " alt="" coords="277,101,364,178"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="389,617,597,826"/>
+<area shape="rect" id="node9" title=" " alt="" coords="451,389,535,466"/>
+</map>

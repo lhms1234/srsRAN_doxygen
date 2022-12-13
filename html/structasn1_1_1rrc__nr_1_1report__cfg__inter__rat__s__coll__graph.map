@@ -1,0 +1,8 @@
+<map id="asn1::rrc_nr::report_cfg_inter_rat_s" name="asn1::rrc_nr::report_cfg_inter_rat_s">
+<area shape="rect" id="node1" title=" " alt="" coords="165,925,297,1047"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1report__cfg__inter__rat__s_1_1report__type__c__.html" title=" " alt="" coords="153,595,309,863"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,345,232,510"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="19,5,219,273"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="256,323,435,532"/>
+<area shape="rect" id="node6" title=" " alt="" coords="302,101,389,178"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="srsue::nas_base" name="srsue::nas_base">
+<area shape="rect" id="node1" title=" " alt="" coords="111,5,322,288"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1nas.html" title="This class implements the NAS layer of a EUTRA UE." alt="" coords="5,380,196,927"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1nas__5g.html" title="This class implements the NAS layer of a 5G UE." alt="" coords="221,336,447,971"/>
+<area shape="rect" id="node3" href="$classnas__test.html" title=" " alt="" coords="43,1019,159,1111"/>
+</map>

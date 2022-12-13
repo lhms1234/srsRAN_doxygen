@@ -1,0 +1,16 @@
+<map id="asn1::ngap::path_switch_request_transfer_ext_ies_o::ext_c" name="asn1::ngap::path_switch_request_transfer_ext_ies_o::ext_c">
+<area shape="rect" id="node1" title=" " alt="" coords="221,1867,385,2076"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="211,1551,396,1804"/>
+<area shape="rect" id="node3" href="$structasn1_1_1ngap_1_1qos__flow__per__tnl__info__item__s.html" title=" " alt="" coords="230,1352,377,1488"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1qos__flow__per__tnl__info__s.html" title=" " alt="" coords="383,1153,530,1289"/>
+<area shape="rect" id="node5" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="317,786,508,1039"/>
+<area shape="rect" id="node6" href="$structasn1_1_1ngap_1_1associated__qos__flow__item__s.html" title=" " alt="" coords="295,485,487,650"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,154,188,378"/>
+<area shape="rect" id="node8" title=" " alt="" coords="15,5,178,83"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="301,205,482,327"/>
+<area shape="rect" id="node10" href="$structasn1_1_1ngap_1_1up__transport__layer__info__c.html" title=" " alt="" coords="589,735,756,1091"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="583,463,762,672"/>
+<area shape="rect" id="node12" title=" " alt="" coords="629,227,716,305"/>
+<area shape="rect" id="node13" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="786,499,999,635"/>
+<area shape="rect" id="node14" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="793,132,993,400"/>
+</map>

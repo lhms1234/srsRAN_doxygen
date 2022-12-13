@@ -1,0 +1,13 @@
+<map id="asn1::rrc::freq_hop_params_r13_s" name="asn1::rrc::freq_hop_params_r13_s">
+<area shape="rect" id="node1" title=" " alt="" coords="437,1057,631,1296"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1freq__hop__params__r13__s_1_1dummy2__c__.html" title=" " alt="" coords="655,631,845,943"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="455,323,634,532"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1freq__hop__params__r13__s_1_1interv__ul__hop__cfg__common__mode__a__r13__c__.html" title=" " alt="" coords="5,595,199,980"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc_1_1freq__hop__params__r13__s_1_1interv__ul__hop__cfg__common__mode__b__r13__c__.html" title=" " alt="" coords="437,595,631,980"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc_1_1freq__hop__params__r13__s_1_1dummy3__c__.html" title=" " alt="" coords="223,631,413,943"/>
+<area shape="rect" id="node4" title=" " alt="" coords="501,101,588,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="225,389,387,466"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="206,5,406,273"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="870,683,1059,892"/>
+<area shape="rect" id="node11" title=" " alt="" coords="916,389,1013,466"/>
+</map>

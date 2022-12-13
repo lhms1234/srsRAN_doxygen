@@ -1,0 +1,5 @@
+<map id="asn1::s1ap::erab_modify_item_bearer_mod_res_ies_o::value_c" name="asn1::s1ap::erab_modify_item_bearer_mod_res_ies_o::value_c">
+<area shape="rect" id="node1" title=" " alt="" coords="6,403,186,612"/>
+<area shape="rect" id="node2" href="$structasn1_1_1s1ap_1_1erab__modify__item__bearer__mod__res__s.html" title=" " alt="" coords="12,189,180,340"/>
+<area shape="rect" id="node3" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="5,5,187,127"/>
+</map>

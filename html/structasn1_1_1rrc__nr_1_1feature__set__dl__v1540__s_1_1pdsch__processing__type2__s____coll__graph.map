@@ -1,0 +1,7 @@
+<map id="asn1::rrc_nr::feature_set_dl_v1540_s::pdsch_processing_type2_s_" name="asn1::rrc_nr::feature_set_dl_v1540_s::pdsch_processing_type2_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="72,632,261,768"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1processing__params__s.html" title=" " alt="" coords="85,404,248,540"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1processing__params__s_1_1different__tb__per__slot__s__.html" title=" " alt="" coords="5,132,168,341"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="193,132,383,341"/>
+<area shape="rect" id="node5" title=" " alt="" coords="239,5,337,83"/>
+</map>

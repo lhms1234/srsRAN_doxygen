@@ -1,0 +1,20 @@
+<map id="asn1::rrc::srs_ul_cfg_ded_aperiodic_up_pts_ext_r13_c" name="asn1::rrc::srs_ul_cfg_ded_aperiodic_up_pts_ext_r13_c">
+<area shape="rect" id="node1" title=" " alt="" coords="68,1760,249,2043"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1srs__ul__cfg__ded__aperiodic__up__pts__ext__r13__c_1_1setup__s__.html" title=" " alt="" coords="235,1547,418,1697"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="603,1231,768,1455"/>
+<area shape="rect" id="node4" title=" " alt="" coords="600,757,771,834"/>
+<area shape="rect" id="node5" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="387,924,533,1177"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1srs__cfg__ap__r13__s.html" title=" " alt="" coords="321,419,479,599"/>
+<area shape="rect" id="node16" href="$structasn1_1_1rrc_1_1srs__ul__cfg__ded__aperiodic__up__pts__ext__r13__c_1_1setup__s___1_1srs__activ__ap__r13__c___1_1setup__s__.html" title=" " alt="" coords="237,735,440,856"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="7,139,193,349"/>
+<area shape="rect" id="node8" title=" " alt="" coords="29,5,171,83"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="217,132,380,356"/>
+<area shape="rect" id="node10" title=" " alt="" coords="218,5,379,83"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="404,139,599,349"/>
+<area shape="rect" id="node12" title=" " alt="" coords="418,5,585,83"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="623,139,793,349"/>
+<area shape="rect" id="node14" title=" " alt="" coords="645,5,771,83"/>
+<area shape="rect" id="node15" href="$structasn1_1_1rrc_1_1srs__ul__cfg__ded__aperiodic__up__pts__ext__r13__c_1_1setup__s___1_1srs__activ__ap__r13__c__.html" title=" " alt="" coords="188,1201,351,1484"/>
+<area shape="rect" id="node17" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,691,213,900"/>
+<area shape="rect" id="node18" title=" " alt="" coords="67,470,151,547"/>
+</map>

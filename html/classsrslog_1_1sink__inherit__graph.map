@@ -1,0 +1,10 @@
+<map id="srslog::sink" name="srslog::sink">
+<area shape="rect" id="node1" title=" " alt="" coords="436,5,555,156"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1buffered__file__sink.html" title=" " alt="" coords="5,226,172,450"/>
+<area shape="rect" id="node3" href="$classsrslog_1_1file__sink.html" title=" " alt="" coords="196,204,323,472"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1stream__sink.html" title="This sink implementation writes to either stdout or stderr streams." alt="" coords="347,270,483,406"/>
+<area shape="rect" id="node6" href="$classsrslog_1_1syslog__sink.html" title="This sink implementation writes to syslog." alt="" coords="508,255,643,421"/>
+<area shape="rect" id="node7" href="$classswappable__sink.html" title=" " alt="" coords="667,263,801,413"/>
+<area shape="rect" id="node8" href="$classtest__dummies_1_1sink__dummy.html" title="A Dummy implementation of a sink." alt="" coords="826,277,962,399"/>
+<area shape="rect" id="node4" href="$classfile__sink__subclass.html" title=" " alt="" coords="185,520,334,612"/>
+</map>

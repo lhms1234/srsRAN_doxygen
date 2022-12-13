@@ -1,0 +1,9 @@
+<map id="asn1::rrc::meas_result_geran_s::cgi_info_s_" name="asn1::rrc::meas_result_geran_s::cgi_info_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="41,1207,232,1299"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1cell__global__id__geran__s.html" title=" " alt="" coords="216,1023,359,1144"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="111,380,253,677"/>
+<area shape="rect" id="node4" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="49,5,201,317"/>
+<area shape="rect" id="node7" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="5,701,140,999"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1plmn__id__s.html" title=" " alt="" coords="277,468,417,589"/>
+<area shape="rect" id="node6" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="276,27,419,295"/>
+</map>

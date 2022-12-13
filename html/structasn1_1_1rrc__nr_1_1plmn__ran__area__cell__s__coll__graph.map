@@ -1,0 +1,8 @@
+<map id="asn1::rrc_nr::plmn_ran_area_cell_s" name="asn1::rrc_nr::plmn_ran_area_cell_s">
+<area shape="rect" id="node1" title=" " alt="" coords="107,1071,236,1192"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1plmn__id__s.html" title=" " alt="" coords="5,813,164,935"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="13,395,156,663"/>
+<area shape="rect" id="node4" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="188,740,331,1008"/>
+<area shape="rect" id="node5" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="188,380,331,677"/>
+<area shape="rect" id="node6" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="183,5,335,317"/>
+</map>

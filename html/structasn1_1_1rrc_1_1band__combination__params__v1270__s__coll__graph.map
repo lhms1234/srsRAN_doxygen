@@ -1,0 +1,13 @@
+<map id="asn1::rrc::band_combination_params_v1270_s" name="asn1::rrc::band_combination_params_v1270_s">
+<area shape="rect" id="node1" title=" " alt="" coords="123,2036,309,2172"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="139,1720,293,1973"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1band__params__v1270__s.html" title=" " alt="" coords="137,1536,295,1657"/>
+<area shape="rect" id="node4" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="118,1220,314,1473"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1ca__mimo__params__dl__v1270__s.html" title=" " alt="" coords="143,1036,289,1157"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="128,691,304,959"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1intra__band__contiguous__cc__info__r12__s.html" title=" " alt="" coords="126,433,306,628"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,147,208,356"/>
+<area shape="rect" id="node9" title=" " alt="" coords="39,5,174,97"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="232,147,419,356"/>
+<area shape="rect" id="node11" title=" " alt="" coords="247,13,403,90"/>
+</map>

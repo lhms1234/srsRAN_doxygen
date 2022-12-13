@@ -1,0 +1,5 @@
+<map id="srsenb::gtpu" name="srsenb::gtpu">
+<area shape="rect" id="node1" title=" " alt="" coords="109,189,277,780"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1gtpu__interface__rrc.html" title=" " alt="" coords="5,5,179,141"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1gtpu__interface__pdcp.html" title=" " alt="" coords="203,35,389,112"/>
+</map>

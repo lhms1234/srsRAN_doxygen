@@ -1,0 +1,7 @@
+<map id="asn1::rrc_nr::serving_cell_cfg_common_s::ssb_positions_in_burst_c_" name="asn1::rrc_nr::serving_cell_cfg_common_s::ssb_positions_in_burst_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="93,595,297,863"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="38,374,173,481"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="197,323,376,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="243,101,330,178"/>
+</map>

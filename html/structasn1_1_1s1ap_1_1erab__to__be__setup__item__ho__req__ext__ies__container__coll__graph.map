@@ -1,0 +1,10 @@
+<map id="asn1::s1ap::erab_to_be_setup_item_ho_req_ext_ies_container" name="asn1::s1ap::erab_to_be_setup_item_ho_req_ext_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="114,1148,299,1343"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ext__container__item__s.html" title=" " alt="" coords="123,949,291,1056"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="117,676,296,900"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__ext__item.html" title=" " alt="" coords="18,419,201,599"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,213,341"/>
+<area shape="rect" id="node6" title=" " alt="" coords="67,5,151,83"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="225,404,389,613"/>
+<area shape="rect" id="node8" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="253,198,361,275"/>
+</map>

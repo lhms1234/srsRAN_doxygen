@@ -1,0 +1,11 @@
+<map id="srsran::nas_5g::update_type_5gs_t" name="srsran::nas_5g::update_type_5gs_t">
+<area shape="rect" id="node1" title=" " alt="" coords="361,389,516,496"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1nas__5g_1_1nas__enumerated.html" title=" " alt="" coords="5,132,208,327"/>
+<area shape="rect" id="node3" title=" " alt="" coords="29,5,184,83"/>
+<area shape="rect" id="node4" href="$classsrsran_1_1nas__5g_1_1nas__enumerated.html" title=" " alt="" coords="233,132,426,327"/>
+<area shape="rect" id="node5" title=" " alt="" coords="250,5,409,83"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1nas__5g_1_1nas__enumerated.html" title=" " alt="" coords="450,132,646,327"/>
+<area shape="rect" id="node7" title=" " alt="" coords="471,5,625,83"/>
+<area shape="rect" id="node8" href="$classsrsran_1_1nas__5g_1_1nas__enumerated.html" title=" " alt="" coords="671,132,863,327"/>
+<area shape="rect" id="node9" title=" " alt="" coords="687,5,846,83"/>
+</map>

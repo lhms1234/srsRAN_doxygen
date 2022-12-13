@@ -1,0 +1,7 @@
+<map id="srsran::rlc" name="srsran::rlc">
+<area shape="rect" id="node1" title=" " alt="" coords="227,432,362,891"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1rlc__interface__mac.html" title=" " alt="" coords="5,167,187,347"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1read__pdu__interface.html" title=" " alt="" coords="8,5,184,83"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1rlc__interface__pdcp.html" title=" " alt="" coords="211,189,379,325"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1rlc__interface__rrc.html" title=" " alt="" coords="403,131,557,384"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="srsue/hdr/phy/scell/scell_recv.h" name="srsue/hdr/phy/scell/scell_recv.h">
+<area shape="rect" id="node1" title=" " alt="" coords="503,5,635,47"/>
+<area shape="rect" id="node2" href="$intra__measure__lte_8h.html" title=" " alt="" coords="419,95,559,136"/>
+<area shape="rect" id="node11" href="$scell__recv_8cc.html" title=" " alt="" coords="583,95,715,136"/>
+<area shape="rect" id="node3" href="$srsue_2hdr_2phy_2sync_8h.html" title=" " alt="" coords="247,191,391,218"/>
+<area shape="rect" id="node9" href="$intra__measure__lte_8cc.html" title=" " alt="" coords="415,184,562,225"/>
+<area shape="rect" id="node10" href="$scell__search__test_8cc.html" title=" " alt="" coords="586,184,733,225"/>
+<area shape="rect" id="node4" href="$srsue_2hdr_2phy_2phy_8h.html" title=" " alt="" coords="167,273,303,300"/>
+<area shape="rect" id="node8" href="$sync_8cc.html" title=" " alt="" coords="328,273,479,300"/>
+<area shape="rect" id="node5" href="$srsue_2src_2phy_2phy_8cc.html" title=" " alt="" coords="5,355,148,382"/>
+<area shape="rect" id="node6" href="$ue__phy__test_8cc.html" title=" " alt="" coords="172,348,299,389"/>
+<area shape="rect" id="node7" href="$srsue_2src_2ue_8cc.html" title=" " alt="" coords="323,355,435,382"/>
+</map>

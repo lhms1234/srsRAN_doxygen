@@ -1,0 +1,4 @@
+<map id="srsran_pdsch_res_nr_t" name="srsran_pdsch_res_nr_t">
+<area shape="rect" id="node1" title="Groups NR&#45;PDSCH data for reception." alt="" coords="7,175,162,252"/>
+<area shape="rect" id="node2" href="$structsrsran__sch__tb__res__nr__t.html" title="Groups NR&#45;PUSCH data for reception." alt="" coords="5,5,164,112"/>
+</map>

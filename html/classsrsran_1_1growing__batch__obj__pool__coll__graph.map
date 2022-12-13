@@ -1,0 +1,10 @@
+<map id="srsran::growing_batch_obj_pool&lt; T &gt;" name="srsran::growing_batch_obj_pool&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="272,1065,461,1289"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1obj__pool__itf.html" title="Common object pool interface." alt="" coords="5,757,168,922"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1memblock__stack.html" title="Similar to node_memblock_list, but manages the allocation/deallocation of memory blocks." alt="" coords="284,676,449,1003"/>
+<area shape="rect" id="node4" href="$classsrsran_1_1memblock__node__list.html" title=" " alt="" coords="145,404,330,613"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1detail_1_1intrusive__memblock__list.html" title=" " alt="" coords="155,160,319,355"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1detail_1_1intrusive__memblock__list_1_1node.html" title=" " alt="" coords="160,5,315,97"/>
+<area shape="rect" id="node7" href="$classsrsran_1_1move__callback.html" title=" " alt="" coords="474,793,627,885"/>
+<area shape="rect" id="node8" href="$classsrsran_1_1move__callback.html" title=" " alt="" coords="651,793,805,885"/>
+</map>

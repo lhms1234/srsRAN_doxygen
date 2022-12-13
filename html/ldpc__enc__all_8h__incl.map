@@ -1,0 +1,7 @@
+<map id="lib/src/phy/fec/ldpc/ldpc_enc_all.h" name="lib/src/phy/fec/ldpc/ldpc_enc_all.h">
+<area shape="rect" id="node1" title="Declaration of the LDPC encoder inner functions." alt="" coords="48,5,180,47"/>
+<area shape="rect" id="node2" href="$ldpc__encoder_8h.html" title="Declaration of the LDPC encoder." alt="" coords="47,95,181,136"/>
+<area shape="rect" id="node3" href="$base__graph_8h.html" title="Declaration of the two LDPC base graphs employed in the 5G NR standard." alt="" coords="47,184,181,225"/>
+<area shape="rect" id="node4" href="$config_8h.html" title=" " alt="" coords="5,273,113,300"/>
+<area shape="rect" id="node5" title=" " alt="" coords="137,273,203,300"/>
+</map>

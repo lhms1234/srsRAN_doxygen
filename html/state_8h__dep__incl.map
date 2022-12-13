@@ -1,0 +1,23 @@
+<map id="srsue/hdr/phy/nr/state.h" name="srsue/hdr/phy/nr/state.h">
+<area shape="rect" id="node1" title=" " alt="" coords="701,5,861,32"/>
+<area shape="rect" id="node2" href="$srsue_2hdr_2phy_2nr_2cc__worker_8h.html" title=" " alt="" coords="714,80,849,121"/>
+<area shape="rect" id="node3" href="$srsue_2hdr_2phy_2nr_2sf__worker_8h.html" title=" " alt="" coords="637,169,768,211"/>
+<area shape="rect" id="node21" href="$srsue_2src_2phy_2nr_2cc__worker_8cc.html" title=" " alt="" coords="793,169,927,211"/>
+<area shape="rect" id="node4" href="$srsue_2hdr_2phy_2nr_2worker__pool_8h.html" title=" " alt="" coords="539,259,698,300"/>
+<area shape="rect" id="node20" href="$srsue_2src_2phy_2nr_2sf__worker_8cc.html" title=" " alt="" coords="723,259,853,300"/>
+<area shape="rect" id="node5" href="$sync__sa_8h.html" title=" " alt="" coords="295,355,475,382"/>
+<area shape="rect" id="node10" href="$test__bench_8h.html" title=" " alt="" coords="377,534,525,561"/>
+<area shape="rect" id="node13" href="$srsue_2hdr_2phy_2phy_8h.html" title=" " alt="" coords="603,445,739,471"/>
+<area shape="rect" id="node16" href="$srsue_2hdr_2phy_2sync_8h.html" title=" " alt="" coords="601,355,745,382"/>
+<area shape="rect" id="node18" href="$srsue_2src_2phy_2nr_2worker__pool_8cc.html" title=" " alt="" coords="770,348,929,389"/>
+<area shape="rect" id="node19" href="$dummy__ue__phy_8h.html" title=" " alt="" coords="953,355,1127,382"/>
+<area shape="rect" id="node6" href="$phy__nr__sa_8h.html" title=" " alt="" coords="299,445,475,471"/>
+<area shape="rect" id="node12" href="$sync__sa_8cc.html" title=" " alt="" coords="141,437,275,479"/>
+<area shape="rect" id="node7" href="$phy__nr__sa_8cc.html" title=" " alt="" coords="5,527,149,568"/>
+<area shape="rect" id="node8" href="$nr__sa__cell__search__test_8cc.html" title=" " alt="" coords="173,527,352,568"/>
+<area shape="rect" id="node9" href="$srsue_2src_2ue_8cc.html" title=" " alt="" coords="549,534,661,561"/>
+<area shape="rect" id="node11" href="$nr__phy__test_8cc.html" title=" " alt="" coords="371,616,530,643"/>
+<area shape="rect" id="node14" href="$srsue_2src_2phy_2phy_8cc.html" title=" " alt="" coords="685,534,827,561"/>
+<area shape="rect" id="node15" href="$ue__phy__test_8cc.html" title=" " alt="" coords="851,527,978,568"/>
+<area shape="rect" id="node17" href="$sync_8cc.html" title=" " alt="" coords="763,445,914,471"/>
+</map>

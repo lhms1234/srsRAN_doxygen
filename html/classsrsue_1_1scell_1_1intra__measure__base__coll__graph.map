@@ -1,0 +1,11 @@
+<map id="srsue::scell::intra_measure_base" name="srsue::scell::intra_measure_base">
+<area shape="rect" id="node1" title="Describes a generic base class to perform intra&#45;frequency measurements." alt="" coords="276,535,476,935"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,329,64,406"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1scell_1_1intra__measure__base_1_1internal__state.html" title="Describes the internal state class, provides thread safe state management." alt="" coords="88,292,288,443"/>
+<area shape="rect" id="node4" href="$structsrsran__ringbuffer__t.html" title=" " alt="" coords="311,270,441,465"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="465,263,655,472"/>
+<area shape="rect" id="node6" title=" " alt="" coords="439,64,478,141"/>
+<area shape="rect" id="node7" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="502,5,642,200"/>
+<area shape="rect" id="node8" href="$structsrsue_1_1scell_1_1intra__measure__base_1_1measure__context__t.html" title=" " alt="" coords="679,270,851,465"/>
+<area shape="rect" id="node9" href="$classsrsue_1_1scell_1_1intra__measure__base_1_1meas__itf.html" title="Describes an interface for reporting new cell measurements." alt="" coords="679,49,851,156"/>
+</map>

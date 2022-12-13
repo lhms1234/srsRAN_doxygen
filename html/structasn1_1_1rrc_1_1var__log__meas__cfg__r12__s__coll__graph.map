@@ -1,0 +1,19 @@
+<map id="asn1::rrc::var_log_meas_cfg_r12_s" name="asn1::rrc::var_log_meas_cfg_r12_s">
+<area shape="rect" id="node1" title=" " alt="" coords="534,1527,710,1736"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="69,1181,255,1391"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,917,151,994"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1area__cfg__r10__c.html" title=" " alt="" coords="363,1123,532,1449"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="175,902,333,1009"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="154,520,354,788"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="358,851,537,1060"/>
+<area shape="rect" id="node8" title=" " alt="" coords="404,615,491,693"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc_1_1area__cfg__v1130__s.html" title=" " alt="" coords="557,1225,687,1347"/>
+<area shape="rect" id="node10" href="$structasn1_1_1rrc_1_1tac__list__v1130__s.html" title=" " alt="" coords="561,895,683,1016"/>
+<area shape="rect" id="node11" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="545,527,699,781"/>
+<area shape="rect" id="node12" href="$structasn1_1_1rrc__nr_1_1plmn__id__s.html" title=" " alt="" coords="543,336,701,457"/>
+<area shape="rect" id="node13" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="551,5,693,273"/>
+<area shape="rect" id="node14" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="718,1159,878,1413"/>
+<area shape="rect" id="node15" href="$structasn1_1_1rrc_1_1target__mbsfn__area__r12__s.html" title=" " alt="" coords="707,873,902,1038"/>
+<area shape="rect" id="node16" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="907,1181,1094,1391"/>
+<area shape="rect" id="node17" title=" " alt="" coords="927,917,1085,994"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="asn1::rrc_nr::ptrs_ul_cfg_s" name="asn1::rrc_nr::ptrs_ul_cfg_s">
+<area shape="rect" id="node1" title=" " alt="" coords="111,647,258,827"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1ptrs__ul__cfg__s_1_1transform__precoder__enabled__s__.html" title=" " alt="" coords="22,419,193,555"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1ptrs__ul__cfg__s_1_1transform__precoder__disabled__s__.html" title=" " alt="" coords="217,404,393,569"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,196,341"/>
+<area shape="rect" id="node5" title=" " alt="" coords="27,5,174,83"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="221,132,389,341"/>
+<area shape="rect" id="node7" title=" " alt="" coords="253,5,357,83"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="413,132,594,341"/>
+<area shape="rect" id="node9" title=" " alt="" coords="431,5,575,83"/>
+</map>

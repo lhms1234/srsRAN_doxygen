@@ -1,0 +1,41 @@
+<map id="srsenb::phy_ue_db::cell_info_t" name="srsenb::phy_ue_db::cell_info_t">
+<area shape="rect" id="node1" title=" " alt="" coords="1608,1343,1787,1479"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1circular__array.html" title=" " alt="" coords="1364,1085,1585,1280"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1phy__cfg__t.html" title=" " alt="" coords="1609,1122,1785,1243"/>
+<area shape="rect" id="node4" href="$structsrsran__prach__cfg__t.html" title=" " alt="" coords="1489,784,1711,993"/>
+<area shape="rect" id="node5" href="$structSRSRAN__API.html" title="CFR module configuration arguments." alt="" coords="1652,351,1865,619"/>
+<area shape="rect" id="node15" href="$structsrsran__cqi__value__t.html" title=" " alt="" coords="1831,843,1961,935"/>
+<area shape="rect" id="node17" href="$structsrsran__uci__nr__t.html" title=" " alt="" coords="2003,813,2163,964"/>
+<area shape="rect" id="node22" href="$structsrsran__csi__rs__zp__resource__t.html" title="Contains TS 38.331 ZP&#45;CSI&#45;RS&#45;Resource flattened configuration." alt="" coords="2407,850,2596,927"/>
+<area shape="rect" id="node23" href="$structsrsran__pmch__seq__t.html" title=" " alt="" coords="975,850,1111,927"/>
+<area shape="rect" id="node24" href="$structsrsran__uci__nr__pusch__cfg__t.html" title="Uplink Control Information bits configuration for PUSCH transmission." alt="" coords="1149,755,1307,1023"/>
+<area shape="rect" id="node26" href="$structsrsran__dmrs__sch__t.html" title="PDSCH DMRS estimator object." alt="" coords="1332,821,1465,957"/>
+<area shape="rect" id="node28" href="$structsrsran__chest__dl__nbiot__t.html" title="Downlink channel estimation for NB&#45;IoT." alt="" coords="691,791,866,986"/>
+<area shape="rect" id="node29" href="$structsrsran__chest__ul__t.html" title=" " alt="" coords="404,791,575,986"/>
+<area shape="rect" id="node37" href="$structsrsran__wiener__dl__t.html" title=" " alt="" coords="2187,777,2317,1001"/>
+<area shape="rect" id="node6" href="$structsrsran__pusch__hopping__cfg__t.html" title=" " alt="" coords="1067,35,1219,200"/>
+<area shape="rect" id="node7" href="$structsrsran__mib__nb__t.html" title=" " alt="" coords="1413,42,1541,193"/>
+<area shape="rect" id="node8" href="$structsrsran__dci__cfg__t.html" title=" " alt="" coords="3051,35,3205,200"/>
+<area shape="rect" id="node9" href="$structsrsran__ra__nbits__t.html" title="Structure that gives the number of encoded bits and RE for a UL/DL grant." alt="" coords="3229,57,3352,178"/>
+<area shape="rect" id="node10" href="$structsrsran__pdcch__nr__args__t.html" title="PDCCH configuration initialization arguments." alt="" coords="3377,64,3538,171"/>
+<area shape="rect" id="node11" href="$structsrsran__refsignal__ul__dmrs__pregen__t.html" title=" " alt="" coords="393,64,524,171"/>
+<area shape="rect" id="node12" href="$structsrsran__ue__ul__powerctrl__t.html" title=" " alt="" coords="3562,13,3729,222"/>
+<area shape="rect" id="node13" href="$structsrsran__cqi__report__cfg__t.html" title=" " alt="" coords="701,20,878,215"/>
+<area shape="rect" id="node14" href="$structsrsran__evm__buffer__t.html" title=" " alt="" coords="902,64,1042,171"/>
+<area shape="rect" id="node16" href="$structsrsran__interp__linsrsran__vec__t.html" title=" " alt="" coords="215,57,369,178"/>
+<area shape="rect" id="node18" href="$structsrsran__polar__code__t.html" title="Describes a polar set." alt="" coords="3753,13,3892,222"/>
+<area shape="rect" id="node19" href="$structsrsran__beta__offsets__t.html" title="Beta offset configuration provided from upper layers." alt="" coords="1243,13,1389,222"/>
+<area shape="rect" id="node20" href="$structsrsran__refsignal__srs__pregen__t.html" title=" " alt="" coords="5,71,144,163"/>
+<area shape="rect" id="node21" href="$structsrsran__uci__bit__t.html" title=" " alt="" coords="1565,71,1680,163"/>
+<area shape="rect" id="node25" href="$structqam16__packed__t.html" title=" " alt="" coords="1705,79,1826,156"/>
+<area shape="rect" id="node27" href="$structsrsran__interp__lin__t.html" title=" " alt="" coords="548,35,676,200"/>
+<area shape="rect" id="node30" href="$structsrsran__prach__cancellation__t.html" title=" " alt="" coords="1851,64,2035,171"/>
+<area shape="rect" id="node31" href="$structsrsran__uci__nr__args__t.html" title="NR&#45;UCI Encoder/decoder initialization arguments." alt="" coords="2059,64,2219,171"/>
+<area shape="rect" id="node32" href="$structqpsk__packed__t.html" title=" " alt="" coords="2243,79,2354,156"/>
+<area shape="rect" id="node33" href="$structbpsk__packed__t.html" title=" " alt="" coords="2378,79,2489,156"/>
+<area shape="rect" id="node34" href="$structsrsran__dmrs__sch__cfg__t.html" title="Provides PDSCH DMRS configuration." alt="" coords="2513,5,2703,229"/>
+<area shape="rect" id="node35" href="$structsrsran__uci__nr__pucch__cfg__t.html" title="Uplink Control Information bits configuration for PUCCH transmission." alt="" coords="2727,42,2870,193"/>
+<area shape="rect" id="node36" href="$structsrsran__cp__synch__t.html" title=" " alt="" coords="2894,64,3026,171"/>
+<area shape="rect" id="node38" href="$structsrsran__wiener__dl__state__t.html" title=" " alt="" coords="2410,358,2577,611"/>
+<area shape="rect" id="node39" href="$classsrsran_1_1circular__array.html" title=" " alt="" coords="1809,1093,1961,1273"/>
+</map>

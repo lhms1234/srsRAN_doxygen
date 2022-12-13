@@ -1,0 +1,5 @@
+<map id="srsran::gtpc_create_session_request::gtpc_bearer_context_created_ie" name="srsran::gtpc_create_session_request::gtpc_bearer_context_created_ie">
+<area shape="rect" id="node1" title=" " alt="" coords="59,380,252,633"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1gtpc__bearer__qos__ie.html" title=" " alt="" coords="5,5,140,244"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1gtpc__f__teid__ie.html" title=" " alt="" coords="165,49,311,200"/>
+</map>

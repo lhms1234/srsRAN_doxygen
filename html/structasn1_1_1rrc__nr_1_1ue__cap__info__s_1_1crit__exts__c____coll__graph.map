@@ -1,0 +1,12 @@
+<map id="asn1::rrc_nr::ue_cap_info_s::crit_exts_c_" name="asn1::rrc_nr::ue_cap_info_s::crit_exts_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="112,1453,269,1677"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,1181,184,1391"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,953,138,1031"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1ue__cap__info__ies__s.html" title=" " alt="" coords="209,1211,367,1361"/>
+<area shape="rect" id="node5" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="329,321,508,619"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc__nr_1_1ue__cap__rat__container__s.html" title=" " alt="" coords="193,681,335,803"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="329,5,508,259"/>
+<area shape="rect" id="node7" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="185,865,343,1119"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="117,365,278,575"/>
+<area shape="rect" id="node10" title=" " alt="" coords="147,93,248,171"/>
+</map>

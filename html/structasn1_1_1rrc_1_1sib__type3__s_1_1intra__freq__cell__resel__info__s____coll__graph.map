@@ -1,0 +1,12 @@
+<map id="asn1::rrc::sib_type3_s::intra_freq_cell_resel_info_s_" name="asn1::rrc::sib_type3_s::intra_freq_cell_resel_info_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="238,867,429,1091"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="93,507,227,804"/>
+<area shape="rect" id="node3" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="5,132,157,444"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1speed__state__scale__factors__s.html" title=" " alt="" coords="257,595,409,716"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="181,183,339,393"/>
+<area shape="rect" id="node6" title=" " alt="" coords="212,5,308,83"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="363,183,533,393"/>
+<area shape="rect" id="node8" title=" " alt="" coords="389,5,507,83"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="518,551,709,760"/>
+<area shape="rect" id="node10" title=" " alt="" coords="557,249,718,327"/>
+</map>

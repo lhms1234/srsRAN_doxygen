@@ -1,0 +1,8 @@
+<map id="srsue::phy_interface_stack_nr" name="srsue::phy_interface_stack_nr">
+<area shape="rect" id="node1" title=" " alt="" coords="246,219,386,311"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1phy.html" title=" " alt="" coords="5,359,208,891"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1phy__nr__sa.html" title="NR Standalone PHY." alt="" coords="233,388,399,861"/>
+<area shape="rect" id="node6" href="$classue__dummy__phy.html" title=" " alt="" coords="423,476,595,773"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1phy__interface__mac__nr.html" title=" " alt="" coords="139,5,311,171"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1phy__interface__rrc__nr.html" title=" " alt="" coords="336,13,477,163"/>
+</map>

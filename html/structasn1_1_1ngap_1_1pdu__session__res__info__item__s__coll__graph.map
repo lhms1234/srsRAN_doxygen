@@ -1,0 +1,14 @@
+<map id="asn1::ngap::pdu_session_res_info_item_s" name="asn1::ngap::pdu_session_res_info_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="47,1521,214,1672"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="83,183,264,305"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1qos__flow__info__item__s.html" title=" " alt="" coords="53,963,208,1128"/>
+<area shape="rect" id="node8" href="$structasn1_1_1ngap_1_1drbs__to__qos__flows__map__item__s.html" title=" " alt="" coords="255,970,422,1121"/>
+<area shape="rect" id="node10" href="$structasn1_1_1ngap_1_1associated__qos__flow__item__s.html" title=" " alt="" coords="376,419,568,584"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="57,1191,205,1444"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="118,669,301,878"/>
+<area shape="rect" id="node6" title=" " alt="" coords="144,463,275,540"/>
+<area shape="rect" id="node7" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="234,1191,430,1444"/>
+<area shape="rect" id="node9" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="377,647,567,900"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="381,132,563,356"/>
+<area shape="rect" id="node12" title=" " alt="" coords="391,5,553,83"/>
+</map>

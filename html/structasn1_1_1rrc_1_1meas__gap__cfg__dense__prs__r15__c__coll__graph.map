@@ -1,0 +1,11 @@
+<map id="asn1::rrc::meas_gap_cfg_dense_prs_r15_c" name="asn1::rrc::meas_gap_cfg_dense_prs_r15_c">
+<area shape="rect" id="node1" title=" " alt="" coords="213,1256,374,1495"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1meas__gap__cfg__dense__prs__r15__c_1_1setup__s__.html" title=" " alt="" coords="115,1035,269,1142"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1meas__gap__cfg__dense__prs__r15__c_1_1setup__s___1_1gap__offset__dense__prs__r15__c__.html" title=" " alt="" coords="107,595,277,921"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,389,371,466"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="189,5,389,273"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="293,984,501,1193"/>
+<area shape="rect" id="node9" title=" " alt="" coords="355,719,439,797"/>
+</map>

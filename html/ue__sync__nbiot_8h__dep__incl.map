@@ -1,0 +1,14 @@
+<map id="lib/include/srsran/phy/ue/ue_sync_nbiot.h" name="lib/include/srsran/phy/ue/ue_sync_nbiot.h">
+<area shape="rect" id="node1" title=" " alt="" coords="434,5,598,47"/>
+<area shape="rect" id="node2" href="$npdsch__ue_8c.html" title=" " alt="" coords="5,213,179,240"/>
+<area shape="rect" id="node3" href="$usrp__capture__sync__nbiot_8c.html" title=" " alt="" coords="203,206,378,247"/>
+<area shape="rect" id="node4" href="$ue__cell__search__nbiot_8h.html" title=" " alt="" coords="765,199,921,255"/>
+<area shape="rect" id="node8" href="$ue__mib__nbiot_8h.html" title=" " alt="" coords="380,102,537,143"/>
+<area shape="rect" id="node11" href="$ue__sync__test__nbiot__usrp_8c.html" title=" " alt="" coords="612,95,751,151"/>
+<area shape="rect" id="node12" href="$ue__sync__nbiot_8c.html" title=" " alt="" coords="775,102,929,143"/>
+<area shape="rect" id="node5" href="$cell__search__nbiot_8c.html" title=" " alt="" coords="579,303,744,344"/>
+<area shape="rect" id="node6" href="$rf__utils_8c.html" title=" " alt="" coords="769,310,917,337"/>
+<area shape="rect" id="node7" href="$ue__cell__search__nbiot_8c.html" title=" " alt="" coords="941,303,1086,344"/>
+<area shape="rect" id="node9" href="$ue__mib__sync__test__nbiot__usrp_8c.html" title=" " alt="" coords="574,199,741,255"/>
+<area shape="rect" id="node10" href="$ue__mib__nbiot_8c.html" title=" " alt="" coords="403,206,549,247"/>
+</map>

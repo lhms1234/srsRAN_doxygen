@@ -1,0 +1,9 @@
+<map id="asn1::rrc_nr::band_params_v1540_s::srs_carrier_switch_c_::eutra_s_" name="asn1::rrc_nr::band_params_v1540_s::srs_carrier_switch_c_::eutra_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="123,933,313,1040"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="129,603,307,856"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1srs__switching__time__eutra__s.html" title=" " alt="" coords="124,404,312,540"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,207,341"/>
+<area shape="rect" id="node5" title=" " alt="" coords="27,5,185,83"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="231,132,432,341"/>
+<area shape="rect" id="node7" title=" " alt="" coords="252,5,411,83"/>
+</map>

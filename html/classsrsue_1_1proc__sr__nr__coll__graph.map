@@ -1,0 +1,11 @@
+<map id="srsue::proc_sr_nr" name="srsue::proc_sr_nr">
+<area shape="rect" id="node1" title=" " alt="" coords="432,535,556,759"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="37,263,228,472"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,64,44,141"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="68,5,208,200"/>
+<area shape="rect" id="node5" href="$structsrsran_1_1sr__cfg__nr__t.html" title=" " alt="" coords="253,321,383,413"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1sr__cfg__item__nr__t.html" title=" " alt="" coords="237,49,399,156"/>
+<area shape="rect" id="node7" href="$classsrsue_1_1phy__interface__mac__nr.html" title=" " alt="" coords="408,285,580,450"/>
+<area shape="rect" id="node8" href="$classsrsue_1_1mac__interface__sr__nr.html" title="Interface from MAC NR parent class to SR subclass." alt="" coords="605,321,749,413"/>
+<area shape="rect" id="node9" href="$classsrsue_1_1rrc__interface__mac.html" title=" " alt="" coords="773,314,940,421"/>
+</map>

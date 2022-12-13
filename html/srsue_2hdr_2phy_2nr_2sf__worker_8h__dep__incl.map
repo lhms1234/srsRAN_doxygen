@@ -1,0 +1,20 @@
+<map id="srsue/hdr/phy/nr/sf_worker.h" name="srsue/hdr/phy/nr/sf_worker.h">
+<area shape="rect" id="node1" title=" " alt="" coords="637,5,768,47"/>
+<area shape="rect" id="node2" href="$srsue_2hdr_2phy_2nr_2worker__pool_8h.html" title=" " alt="" coords="539,95,698,136"/>
+<area shape="rect" id="node18" href="$srsue_2src_2phy_2nr_2sf__worker_8cc.html" title=" " alt="" coords="723,95,853,136"/>
+<area shape="rect" id="node3" href="$sync__sa_8h.html" title=" " alt="" coords="295,191,475,218"/>
+<area shape="rect" id="node8" href="$test__bench_8h.html" title=" " alt="" coords="377,370,525,397"/>
+<area shape="rect" id="node11" href="$srsue_2hdr_2phy_2phy_8h.html" title=" " alt="" coords="603,281,739,307"/>
+<area shape="rect" id="node14" href="$srsue_2hdr_2phy_2sync_8h.html" title=" " alt="" coords="601,191,745,218"/>
+<area shape="rect" id="node16" href="$srsue_2src_2phy_2nr_2worker__pool_8cc.html" title=" " alt="" coords="770,184,929,225"/>
+<area shape="rect" id="node17" href="$dummy__ue__phy_8h.html" title=" " alt="" coords="953,191,1127,218"/>
+<area shape="rect" id="node4" href="$phy__nr__sa_8h.html" title=" " alt="" coords="299,281,475,307"/>
+<area shape="rect" id="node10" href="$sync__sa_8cc.html" title=" " alt="" coords="141,273,275,315"/>
+<area shape="rect" id="node5" href="$phy__nr__sa_8cc.html" title=" " alt="" coords="5,363,149,404"/>
+<area shape="rect" id="node6" href="$nr__sa__cell__search__test_8cc.html" title=" " alt="" coords="173,363,352,404"/>
+<area shape="rect" id="node7" href="$srsue_2src_2ue_8cc.html" title=" " alt="" coords="549,370,661,397"/>
+<area shape="rect" id="node9" href="$nr__phy__test_8cc.html" title=" " alt="" coords="371,452,530,479"/>
+<area shape="rect" id="node12" href="$srsue_2src_2phy_2phy_8cc.html" title=" " alt="" coords="685,370,827,397"/>
+<area shape="rect" id="node13" href="$ue__phy__test_8cc.html" title=" " alt="" coords="851,363,978,404"/>
+<area shape="rect" id="node15" href="$sync_8cc.html" title=" " alt="" coords="763,281,914,307"/>
+</map>

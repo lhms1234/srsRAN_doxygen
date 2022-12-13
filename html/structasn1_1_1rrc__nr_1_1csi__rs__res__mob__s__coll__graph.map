@@ -1,0 +1,11 @@
+<map id="asn1::rrc_nr::csi_rs_res_mob_s" name="asn1::rrc_nr::csi_rs_res_mob_s">
+<area shape="rect" id="node1" title=" " alt="" coords="227,984,402,1179"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1csi__rs__res__mob__s_1_1slot__cfg__c__.html" title=" " alt="" coords="231,631,399,885"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,323,184,532"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc__nr_1_1csi__rs__res__mob__s_1_1freq__domain__alloc__c__.html" title=" " alt="" coords="31,595,207,921"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="368,389,531,466"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="263,5,463,273"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="209,374,343,481"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc__nr_1_1csi__rs__res__mob__s_1_1associated__ssb__s__.html" title=" " alt="" coords="423,697,587,819"/>
+</map>

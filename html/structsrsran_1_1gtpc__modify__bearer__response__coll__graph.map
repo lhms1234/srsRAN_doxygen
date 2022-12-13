@@ -1,0 +1,6 @@
+<map id="srsran::gtpc_modify_bearer_response" name="srsran::gtpc_modify_bearer_response">
+<area shape="rect" id="node1" title=" " alt="" coords="70,491,207,583"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1gtpc__modify__bearer__response_1_1gtpc__bearer__context__modified__ie.html" title=" " alt="" coords="159,263,347,413"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1gtpc__cause__ie.html" title=" " alt="" coords="5,5,168,171"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1gtpc__f__teid__ie.html" title=" " alt="" coords="192,13,339,163"/>
+</map>

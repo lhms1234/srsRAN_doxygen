@@ -1,0 +1,6 @@
+<map id="LIBLTE_MME_BEARER_RESOURCE_ALLOCATION_REJECT_MSG_STRUCT" name="LIBLTE_MME_BEARER_RESOURCE_ALLOCATION_REJECT_MSG_STRUCT">
+<area shape="rect" id="node1" title=" " alt="" coords="126,359,397,524"/>
+<area shape="rect" id="node2" href="$structLIBLTE__MME__PROTOCOL__CONFIG__OPTIONS__STRUCT.html" title=" " alt="" coords="5,197,216,289"/>
+<area shape="rect" id="node3" href="$structLIBLTE__MME__PROTOCOL__CONFIG__STRUCT.html" title=" " alt="" coords="19,5,203,127"/>
+<area shape="rect" id="node4" href="$structLIBLTE__MME__GPRS__TIMER__3__STRUCT.html" title=" " alt="" coords="240,189,437,296"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="asn1::rrc::var_log_meas_report_r10_s" name="asn1::rrc::var_log_meas_report_r10_s">
+<area shape="rect" id="node1" title=" " alt="" coords="2336,4663,2476,4828"/>
+<area shape="rect" id="node2" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="5,4339,180,4578"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1plmn__id__s.html" title=" " alt="" coords="2345,468,2485,589"/>
+<area shape="rect" id="node10" href="$structasn1_1_1rrc_1_1cell__global__id__eutra__s.html" title=" " alt="" coords="2051,1089,2193,1210"/>
+<area shape="rect" id="node49" href="$structasn1_1_1rrc_1_1trace__ref__r10__s.html" title=" " alt="" coords="2476,1089,2608,1210"/>
+<area shape="rect" id="node4" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="2344,27,2487,295"/>
+<area shape="rect" id="node5" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="2580,4339,2755,4578"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="2066,4332,2210,4585"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1log__meas__info__r10__s.html" title=" " alt="" coords="1868,3913,2051,4269"/>
+<area shape="rect" id="node8" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="1983,3575,2141,3829"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc_1_1rsrq__type__r12__s.html" title=" " alt="" coords="1995,3259,2129,3395"/>
+<area shape="rect" id="node35" href="$structasn1_1_1rrc_1_1meas__result__eutra__s_1_1cgi__info__s__.html" title=" " alt="" coords="1988,1687,2141,1779"/>
+<area shape="rect" id="node11" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="1655,380,1797,677"/>
+<area shape="rect" id="node12" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="1461,5,1613,317"/>
+<area shape="rect" id="node48" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="505,701,648,999"/>
+<area shape="rect" id="node13" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="1109,1023,1257,1276"/>
+<area shape="rect" id="node36" href="$structasn1_1_1rrc_1_1meas__result__eutra__s_1_1meas__result__s__.html" title=" " alt="" coords="1085,1577,1282,1889"/>
+<area shape="rect" id="node14" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="1045,402,1191,655"/>
+<area shape="rect" id="node37" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="869,1300,1028,1553"/>
+<area shape="rect" id="node15" href="$structasn1_1_1rrc_1_1log__meas__info__r10__s_1_1meas__result__serv__cell__r10__s__.html" title=" " alt="" coords="2217,3641,2385,3763"/>
+<area shape="rect" id="node16" href="$structasn1_1_1rrc_1_1location__info__r10__s.html" title=" " alt="" coords="1324,3619,1525,3785"/>
+<area shape="rect" id="node17" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="1141,3186,1303,3469"/>
+<area shape="rect" id="node18" href="$structasn1_1_1rrc_1_1location__info__r10__s_1_1vertical__velocity__info__r15__c__.html" title=" " alt="" coords="1129,2701,1315,3116"/>
+<area shape="rect" id="node19" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="1477,2305,1655,2514"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1603,2047,1689,2125"/>
+<area shape="rect" id="node24" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="1679,2305,1858,2514"/>
+<area shape="rect" id="node21" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="1287,2356,1453,2463"/>
+<area shape="rect" id="node23" href="$structasn1_1_1rrc_1_1location__info__r10__s_1_1location__coordinates__r10__c__.html" title=" " alt="" coords="1340,2753,1501,3065"/>
+<area shape="rect" id="node22" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="1283,1952,1483,2220"/>
+<area shape="rect" id="node25" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="1534,3179,1713,3476"/>
+<area shape="rect" id="node26" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="1526,2782,1705,3035"/>
+<area shape="rect" id="node27" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="1717,3568,1865,3836"/>
+<area shape="rect" id="node28" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="1737,3201,1902,3454"/>
+<area shape="rect" id="node29" href="$structasn1_1_1rrc_1_1meas__result2__eutra__v9e0__s.html" title=" " alt="" coords="1729,2841,1913,2977"/>
+<area shape="rect" id="node30" href="$structasn1_1_1rrc_1_1log__meas__info__r10__s_1_1meas__result__neigh__cells__r10__s__.html" title=" " alt="" coords="811,3597,1007,3807"/>
+<area shape="rect" id="node31" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="945,3201,1104,3454"/>
+<area shape="rect" id="node32" href="$structasn1_1_1rrc_1_1meas__result2__eutra__r9__s.html" title=" " alt="" coords="945,2848,1104,2969"/>
+<area shape="rect" id="node33" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="1104,2283,1263,2536"/>
+<area shape="rect" id="node34" href="$structasn1_1_1rrc_1_1meas__result__eutra__s.html" title=" " alt="" coords="1107,2018,1259,2154"/>
+<area shape="rect" id="node38" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="420,3201,579,3454"/>
+<area shape="rect" id="node39" href="$structasn1_1_1rrc_1_1meas__result2__utra__r9__s.html" title=" " alt="" coords="437,2848,596,2969"/>
+<area shape="rect" id="node40" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="316,2283,475,2536"/>
+<area shape="rect" id="node41" href="$structasn1_1_1rrc_1_1meas__result__utra__s.html" title=" " alt="" coords="305,2025,457,2147"/>
+<area shape="rect" id="node42" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="605,3201,783,3454"/>
+<area shape="rect" id="node43" href="$structasn1_1_1rrc_1_1meas__result2__cdma2000__r9__s.html" title=" " alt="" coords="620,2848,779,2969"/>
+<area shape="rect" id="node44" href="$structasn1_1_1rrc_1_1meas__results__cdma2000__s.html" title=" " alt="" coords="504,2349,671,2470"/>
+<area shape="rect" id="node45" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="481,1959,640,2213"/>
+<area shape="rect" id="node46" href="$structasn1_1_1rrc_1_1carrier__freq__cdma2000__s.html" title=" " alt="" coords="699,2334,831,2485"/>
+<area shape="rect" id="node47" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="665,1981,870,2191"/>
+<area shape="rect" id="node50" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="2509,409,2684,648"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="srsenb::sched_nr_impl::ul_harq_proc" name="srsenb::sched_nr_impl::ul_harq_proc">
+<area shape="rect" id="node1" title=" " alt="" coords="237,1837,390,2003"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1sched__nr__impl_1_1harq__proc.html" title=" " alt="" coords="237,1491,390,1788"/>
+<area shape="rect" id="node3" href="$structsrsenb_1_1sched__nr__impl_1_1prb__grant.html" title=" " alt="" coords="126,1116,279,1413"/>
+<area shape="rect" id="node4" href="$unionsrsenb_1_1sched__nr__impl_1_1prb__grant_1_1alloc__t.html" title=" " alt="" coords="126,917,279,1053"/>
+<area shape="rect" id="node5" href="$structsrsenb_1_1sched__nr__impl_1_1prb__interval.html" title="Struct to express a {min,...,max} range of PRBs." alt="" coords="18,550,171,642"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1interval.html" title=" " alt="" coords="5,5,184,288"/>
+<area shape="rect" id="node7" href="$classsrsran_1_1bounded__bitset.html" title=" " alt="" coords="196,337,425,855"/>
+<area shape="rect" id="node8" href="$classsrsran_1_1slot__point.html" title=" " alt="" coords="303,1116,542,1413"/>
+</map>

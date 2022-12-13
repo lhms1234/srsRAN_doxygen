@@ -1,0 +1,9 @@
+<map id="asn1::ngap::pdu_session_usage_report_s" name="asn1::ngap::pdu_session_usage_report_s">
+<area shape="rect" id="node1" title=" " alt="" coords="208,895,375,1031"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="61,564,231,817"/>
+<area shape="rect" id="node3" href="$structasn1_1_1ngap_1_1volume__timed__report__item__s.html" title=" " alt="" coords="73,336,219,501"/>
+<area shape="rect" id="node4" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="5,5,148,259"/>
+<area shape="rect" id="node5" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="186,71,367,193"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="329,586,491,795"/>
+<area shape="rect" id="node7" title=" " alt="" coords="359,380,461,457"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="srsran::radio_dummy" name="srsran::radio_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="222,549,401,993"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1radio__base.html" title=" " alt="" coords="5,307,135,443"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1radio__interface__phy.html" title=" " alt="" coords="159,263,338,487"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="363,270,553,479"/>
+<area shape="rect" id="node5" title=" " alt="" coords="381,64,420,141"/>
+<area shape="rect" id="node6" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="444,5,584,200"/>
+<area shape="rect" id="node7" href="$structsrsran__rf__info__t.html" title=" " alt="" coords="578,314,690,435"/>
+</map>

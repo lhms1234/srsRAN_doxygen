@@ -1,0 +1,7 @@
+<map id="srsue::nas_5g::pdu_session_establishment_procedure" name="srsue::nas_5g::pdu_session_establishment_procedure">
+<area shape="rect" id="node1" title="5G NAS (5GSM) UE&#45;requested PDU session establishment procedure" alt="" coords="179,535,374,759"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="5,263,196,472"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,64,64,141"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="88,5,228,200"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1nas__5g__interface__procedures.html" title=" " alt="" coords="220,285,451,450"/>
+</map>

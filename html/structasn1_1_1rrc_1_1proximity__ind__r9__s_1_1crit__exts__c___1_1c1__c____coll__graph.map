@@ -1,0 +1,15 @@
+<map id="asn1::rrc::proximity_ind_r9_s::crit_exts_c_::c1_c_" name="asn1::rrc::proximity_ind_r9_s::crit_exts_c_::c1_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="163,1405,325,1673"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,657,184,867"/>
+<area shape="rect" id="node3" title=" " alt="" coords="19,101,106,178"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="68,380,247,589"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1proximity__ind__r9__ies__s.html" title=" " alt="" coords="340,1221,495,1343"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="647,920,817,1129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="683,446,781,523"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1proximity__ind__v930__ies__s.html" title=" " alt="" coords="439,957,622,1093"/>
+<area shape="rect" id="node8" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="467,336,645,633"/>
+<area shape="rect" id="node9" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="471,13,649,266"/>
+<area shape="rect" id="node10" href="$structasn1_1_1rrc_1_1proximity__ind__r9__ies__s_1_1carrier__freq__r9__c__.html" title=" " alt="" coords="260,891,415,1159"/>
+<area shape="rect" id="node12" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="271,446,433,523"/>
+<area shape="rect" id="node13" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="247,5,447,273"/>
+</map>

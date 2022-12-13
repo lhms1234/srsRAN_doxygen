@@ -1,0 +1,10 @@
+<map id="lib/src/phy/fec/polar/polar_decoder_ssc_f.h" name="lib/src/phy/fec/polar/polar_decoder_ssc_f.h">
+<area shape="rect" id="node1" title="Declaration of the SSC polar decoder inner functions working with float&#45;valued LLRs." alt="" coords="206,5,363,47"/>
+<area shape="rect" id="node2" href="$polar__decoder__ssc__all_8h.html" title="Declaration of the SSC polar decoder functions common to all implementations." alt="" coords="203,95,366,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,84,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="109,169,183,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="208,169,273,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="298,169,359,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="383,169,447,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="472,169,537,196"/>
+</map>

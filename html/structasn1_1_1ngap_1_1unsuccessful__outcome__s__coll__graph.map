@@ -1,0 +1,10 @@
+<map id="asn1::ngap::unsuccessful_outcome_s" name="asn1::ngap::unsuccessful_outcome_s">
+<area shape="rect" id="node1" title=" " alt="" coords="105,925,275,1061"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,624,169,833"/>
+<area shape="rect" id="node3" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="33,389,141,466"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1ngap__elem__procs__o_1_1unsuccessful__outcome__c.html" title=" " alt="" coords="193,595,392,863"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="185,323,363,532"/>
+<area shape="rect" id="node6" title=" " alt="" coords="231,101,317,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="387,323,742,532"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="465,5,665,273"/>
+</map>

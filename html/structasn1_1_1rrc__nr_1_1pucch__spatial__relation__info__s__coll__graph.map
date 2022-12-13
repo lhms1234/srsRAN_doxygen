@@ -1,0 +1,10 @@
+<map id="asn1::rrc_nr::pucch_spatial_relation_info_s" name="asn1::rrc_nr::pucch_spatial_relation_info_s">
+<area shape="rect" id="node1" title=" " alt="" coords="105,925,276,1135"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,624,189,833"/>
+<area shape="rect" id="node3" title=" " alt="" coords="24,389,171,466"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1pucch__spatial__relation__info__s_1_1ref__sig__c__.html" title=" " alt="" coords="213,595,357,863"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="199,367,361,488"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="180,5,380,273"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="385,323,564,532"/>
+<area shape="rect" id="node8" title=" " alt="" coords="431,101,518,178"/>
+</map>

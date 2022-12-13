@@ -1,0 +1,9 @@
+<map id="asn1::s1ap::gnb_s" name="asn1::s1ap::gnb_s">
+<area shape="rect" id="node1" title=" " alt="" coords="59,1269,189,1391"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="5,821,187,942"/>
+<area shape="rect" id="node3" href="$structasn1_1_1s1ap_1_1global__gnb__id__s.html" title=" " alt="" coords="192,1071,320,1207"/>
+<area shape="rect" id="node4" href="$structasn1_1_1s1ap_1_1gnb__id__c.html" title=" " alt="" coords="211,806,357,957"/>
+<area shape="rect" id="node5" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="217,380,351,692"/>
+<area shape="rect" id="node6" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="208,5,360,317"/>
+<area shape="rect" id="node7" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="382,755,525,1008"/>
+</map>

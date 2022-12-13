@@ -1,0 +1,9 @@
+<map id="srsue::stack_metrics_t" name="srsue::stack_metrics_t">
+<area shape="rect" id="node1" title=" " alt="" coords="373,623,527,700"/>
+<area shape="rect" id="node2" href="$structsrsue_1_1rrc__nr__metrics__t.html" title=" " alt="" coords="5,402,161,479"/>
+<area shape="rect" id="node3" href="$structsrsue_1_1nas__metrics__t.html" title=" " alt="" coords="186,395,351,487"/>
+<area shape="rect" id="node4" href="$structsrsue_1_1mac__metrics__t.html" title=" " alt="" coords="376,336,524,545"/>
+<area shape="rect" id="node5" href="$structsrsue_1_1rrc__metrics__t.html" title=" " alt="" coords="549,395,687,487"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1rlc__metrics__t.html" title=" " alt="" coords="711,402,853,479"/>
+<area shape="rect" id="node7" href="$structsrsran_1_1rlc__bearer__metrics__t.html" title=" " alt="" coords="710,5,854,259"/>
+</map>

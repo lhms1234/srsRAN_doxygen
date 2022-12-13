@@ -1,0 +1,11 @@
+<map id="rrc_nr_dummy" name="rrc_nr_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="224,1144,423,1412"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1rrc__interface__ngap__nr.html" title=" " alt="" coords="5,828,204,1081"/>
+<area shape="rect" id="node3" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="228,850,419,1059"/>
+<area shape="rect" id="node4" title=" " alt="" coords="200,497,239,575"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="263,439,403,633"/>
+<area shape="rect" id="node6" href="$structasn1_1_1ngap_1_1ue__security__cap__s.html" title=" " alt="" coords="443,887,604,1023"/>
+<area shape="rect" id="node7" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="445,380,580,692"/>
+<area shape="rect" id="node8" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="437,5,589,317"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="625,475,806,597"/>
+</map>

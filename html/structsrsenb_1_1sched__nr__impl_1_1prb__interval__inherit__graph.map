@@ -1,0 +1,4 @@
+<map id="srsenb::sched_nr_impl::prb_interval" name="srsenb::sched_nr_impl::prb_interval">
+<area shape="rect" id="node1" title="Struct to express a {min,...,max} range of PRBs." alt="" coords="18,336,171,428"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1interval.html" title=" " alt="" coords="5,5,184,288"/>
+</map>

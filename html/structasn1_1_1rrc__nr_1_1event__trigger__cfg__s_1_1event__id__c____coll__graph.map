@@ -1,0 +1,7 @@
+<map id="asn1::rrc_nr::event_trigger_cfg_s::event_id_c_" name="asn1::rrc_nr::event_trigger_cfg_s::event_id_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="121,639,303,892"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,345,184,554"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,323,451,576"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="229,5,429,273"/>
+</map>

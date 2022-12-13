@@ -1,0 +1,10 @@
+<map id="srsenb::rrc_nr" name="srsenb::rrc_nr">
+<area shape="rect" id="node1" title=" " alt="" coords="357,461,544,964"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1rrc__interface__pdcp__nr.html" title=" " alt="" coords="23,241,164,333"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1rrc__interface__pdcp.html" title="RRC interface for PDCP." alt="" coords="5,5,181,112"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1rrc__interface__mac__nr.html" title=" " alt="" coords="188,211,356,362"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1rrc__interface__rlc__nr.html" title=" " alt="" coords="380,233,521,340"/>
+<area shape="rect" id="node6" href="$classsrsenb_1_1rrc__interface__rlc.html" title="RRC interface for RLC." alt="" coords="369,5,532,112"/>
+<area shape="rect" id="node7" href="$classsrsenb_1_1rrc__interface__ngap__nr.html" title=" " alt="" coords="546,160,745,413"/>
+<area shape="rect" id="node8" href="$classsrsenb_1_1rrc__nr__interface__rrc.html" title="Set of X2AP inspired interfaces to support 5G NSA." alt="" coords="769,226,951,347"/>
+</map>

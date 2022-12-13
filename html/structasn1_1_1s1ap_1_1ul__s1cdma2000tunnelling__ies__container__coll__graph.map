@@ -1,0 +1,28 @@
+<map id="asn1::s1ap::ul_s1cdma2000tunnelling_ies_container" name="asn1::s1ap::ul_s1cdma2000tunnelling_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="408,1936,648,2189"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="11,1737,207,1829"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="20,1442,199,1666"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="18,1177,201,1357"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,711,213,920"/>
+<area shape="rect" id="node6" title=" " alt="" coords="67,431,151,509"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="483,1163,647,1372"/>
+<area shape="rect" id="node10" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="859,1435,1037,1673"/>
+<area shape="rect" id="node17" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="649,1442,828,1666"/>
+<area shape="rect" id="node21" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="439,1435,625,1673"/>
+<area shape="rect" id="node25" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="223,1435,414,1673"/>
+<area shape="rect" id="node8" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="511,777,619,854"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="849,1730,1061,1837"/>
+<area shape="rect" id="node11" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="849,1170,1047,1365"/>
+<area shape="rect" id="node12" href="$structasn1_1_1s1ap_1_1cdma2000__one__xsrvcc__info__s.html" title=" " alt="" coords="860,747,1015,883"/>
+<area shape="rect" id="node13" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="419,321,597,619"/>
+<area shape="rect" id="node26" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="176,944,341,1139"/>
+<area shape="rect" id="node14" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="419,5,597,259"/>
+<area shape="rect" id="node15" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="847,409,1028,531"/>
+<area shape="rect" id="node16" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="643,1737,824,1829"/>
+<area shape="rect" id="node18" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="671,1177,825,1357"/>
+<area shape="rect" id="node19" href="$classasn1_1_1integer.html" title=" " alt="" coords="670,711,826,920"/>
+<area shape="rect" id="node20" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="437,1723,619,1844"/>
+<area shape="rect" id="node22" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="296,1163,459,1372"/>
+<area shape="rect" id="node23" href="$classasn1_1_1integer.html" title=" " alt="" coords="296,711,459,920"/>
+<area shape="rect" id="node24" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="232,1730,413,1837"/>
+</map>

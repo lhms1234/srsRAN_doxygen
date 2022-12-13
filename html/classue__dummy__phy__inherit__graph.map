@@ -1,0 +1,6 @@
+<map id="ue_dummy_phy" name="ue_dummy_phy">
+<area shape="rect" id="node1" title=" " alt="" coords="96,359,268,656"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1phy__interface__stack__nr.html" title=" " alt="" coords="112,219,252,311"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1phy__interface__mac__nr.html" title=" " alt="" coords="5,5,177,171"/>
+<area shape="rect" id="node4" href="$classsrsue_1_1phy__interface__rrc__nr.html" title=" " alt="" coords="202,13,343,163"/>
+</map>

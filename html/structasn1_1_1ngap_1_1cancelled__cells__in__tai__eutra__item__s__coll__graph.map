@@ -1,0 +1,8 @@
+<map id="asn1::ngap::cancelled_cells_in_tai_eutra_item_s" name="asn1::ngap::cancelled_cells_in_tai_eutra_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="259,939,435,1089"/>
+<area shape="rect" id="node2" href="$structasn1_1_1ngap_1_1eutra__cgi__s.html" title=" " alt="" coords="189,755,350,876"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="14,380,149,692"/>
+<area shape="rect" id="node4" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="5,5,157,317"/>
+<area shape="rect" id="node5" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="173,409,315,663"/>
+<area shape="rect" id="node6" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="340,475,521,597"/>
+</map>

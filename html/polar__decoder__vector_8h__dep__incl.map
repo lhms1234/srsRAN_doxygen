@@ -1,0 +1,6 @@
+<map id="lib/src/phy/fec/polar/polar_decoder_vector.h" name="lib/src/phy/fec/polar/polar_decoder_vector.h">
+<area shape="rect" id="node1" title="Declaration of the polar decoder vectorizable functions." alt="" coords="187,5,349,47"/>
+<area shape="rect" id="node2" href="$polar__decoder__ssc__c_8c.html" title="Definition of the SSC polar decoder inner functions working with 8&#45;bit integer&#45;valued LLRs." alt="" coords="5,95,165,136"/>
+<area shape="rect" id="node3" href="$polar__decoder__ssc__f_8c.html" title="Definition of the SSC polar decoder inner functions working with float&#45;valued LLRs." alt="" coords="189,95,347,136"/>
+<area shape="rect" id="node4" href="$polar__decoder__ssc__s_8c.html" title="Definition of the SSC polar decoder inner functions working with 16&#45;bit integer&#45;valued LLRs." alt="" coords="371,95,531,136"/>
+</map>

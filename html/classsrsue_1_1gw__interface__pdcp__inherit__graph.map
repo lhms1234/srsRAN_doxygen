@@ -1,0 +1,11 @@
+<map id="srsue::gw_interface_pdcp" name="srsue::gw_interface_pdcp">
+<area shape="rect" id="node1" title=" " alt="" coords="403,5,573,97"/>
+<area shape="rect" id="node2" href="$classgw__dummy.html" title=" " alt="" coords="5,285,136,435"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1pdcp_1_1user__interface__gtpu.html" title=" " alt="" coords="160,299,291,421"/>
+<area shape="rect" id="node4" href="$classsrsran_1_1gw__dummy.html" title=" " alt="" coords="315,277,485,443"/>
+<area shape="rect" id="node5" href="$classsrsue_1_1gw__interface__stack.html" title=" " alt="" coords="509,314,645,406"/>
+<area shape="rect" id="node8" href="$classsrsue_1_1sdap__pdcp__adapter.html" title=" " alt="" coords="670,292,845,428"/>
+<area shape="rect" id="node9" href="$classttcn3__syssim.html" title=" " alt="" coords="869,145,1016,575"/>
+<area shape="rect" id="node6" href="$classsrsue_1_1gw.html" title=" " alt="" coords="396,623,569,1155"/>
+<area shape="rect" id="node7" href="$classttcn3__ue.html" title=" " alt="" coords="593,718,751,1059"/>
+</map>

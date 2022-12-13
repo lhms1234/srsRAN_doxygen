@@ -1,0 +1,10 @@
+<map id="asn1::rrc::eutra_event_s" name="asn1::rrc::eutra_event_s">
+<area shape="rect" id="node1" title=" " alt="" coords="121,1057,283,1193"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="20,763,197,973"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,462,145,539"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1eutra__event__s_1_1event__id__c__.html" title=" " alt="" coords="254,741,403,995"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="169,323,488,679"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="229,5,429,273"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="513,396,691,605"/>
+<area shape="rect" id="node8" title=" " alt="" coords="559,101,645,178"/>
+</map>

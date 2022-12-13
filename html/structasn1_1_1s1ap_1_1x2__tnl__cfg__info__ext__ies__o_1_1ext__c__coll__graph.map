@@ -1,0 +1,7 @@
+<map id="asn1::s1ap::x2_tnl_cfg_info_ext_ies_o::ext_c" name="asn1::s1ap::x2_tnl_cfg_info_ext_ies_o::ext_c">
+<area shape="rect" id="node1" title=" " alt="" coords="111,595,297,951"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="21,374,190,481"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="215,323,393,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="261,101,347,178"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="srsenb::ngap_ue_bearer_manager" name="srsenb::ngap_ue_bearer_manager">
+<area shape="rect" id="node1" title="Manages the GTPU bearers as part of the NGAP session procedures." alt="" coords="105,535,304,744"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="5,263,196,472"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,64,64,141"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="88,5,228,200"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1gtpu__interface__rrc.html" title=" " alt="" coords="221,299,394,435"/>
+</map>

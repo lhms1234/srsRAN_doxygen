@@ -1,0 +1,4 @@
+<map id="srsue::demux_interface_harq_nr" name="srsue::demux_interface_harq_nr">
+<area shape="rect" id="node1" title="Interface from HARQ class to demux class." alt="" coords="5,5,172,141"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1demux__nr.html" title="Logical Channel Demultiplexing and MAC CE dissassemble according to TS 38.321." alt="" coords="5,189,172,487"/>
+</map>

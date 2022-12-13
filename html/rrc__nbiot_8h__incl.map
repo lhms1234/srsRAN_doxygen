@@ -1,0 +1,52 @@
+<map id="lib/include/srsran/asn1/rrc_nbiot.h" name="lib/include/srsran/asn1/rrc_nbiot.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1572,5,1692,47"/>
+<area shape="rect" id="node2" href="$lib_2include_2srsran_2asn1_2rrc_8h.html" title=" " alt="" coords="1608,95,1656,121"/>
+<area shape="rect" id="node3" href="$bcch__msg_8h.html" title=" " alt="" coords="1372,244,1484,271"/>
+<area shape="rect" id="node41" href="$dl__ccch__msg_8h.html" title=" " alt="" coords="1474,319,1603,345"/>
+<area shape="rect" id="node44" href="$ho__cmd_8h.html" title=" " alt="" coords="1583,169,1681,196"/>
+<area shape="rect" id="node48" href="$ul__ccch__msg_8h.html" title=" " alt="" coords="1799,169,1929,196"/>
+<area shape="rect" id="node50" href="$ul__dcch__msg_8h.html" title=" " alt="" coords="1711,244,1841,271"/>
+<area shape="rect" id="node4" href="$meascfg_8h.html" title=" " alt="" coords="1380,393,1463,420"/>
+<area shape="rect" id="node40" href="$si_8h.html" title=" " alt="" coords="1407,319,1449,345"/>
+<area shape="rect" id="node5" href="$common__ext_8h.html" title=" " alt="" coords="1367,468,1475,495"/>
+<area shape="rect" id="node6" href="$rr__common_8h.html" title=" " alt="" coords="1443,543,1541,569"/>
+<area shape="rect" id="node7" href="$asn1_2rrc_2common_8h.html" title=" " alt="" coords="1644,617,1727,644"/>
+<area shape="rect" id="node8" href="$asn1__utils_8h.html" title=" " alt="" coords="1469,692,1633,719"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1657,692,1714,719"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1739,692,1808,719"/>
+<area shape="rect" id="node9" href="$buffer__pool_8h.html" title=" " alt="" coords="593,767,741,808"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1262,1042,1317,1069"/>
+<area shape="rect" id="node17" title=" " alt="" coords="25,1042,76,1069"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1037,1124,1099,1151"/>
+<area shape="rect" id="node25" href="$srsran__assert_8h.html" title=" " alt="" coords="101,1035,246,1076"/>
+<area shape="rect" id="node32" href="$srslog_8h.html" title=" " alt="" coords="1271,863,1417,890"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1708,774,1767,801"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1791,774,1844,801"/>
+<area shape="rect" id="node10" href="$byte__buffer_8h.html" title=" " alt="" coords="977,863,1074,890"/>
+<area shape="rect" id="node11" href="$common_2common_8h.html" title=" " alt="" coords="1113,953,1196,979"/>
+<area shape="rect" id="node16" title=" " alt="" coords="404,1042,479,1069"/>
+<area shape="rect" id="node21" title=" " alt="" coords="321,1042,380,1069"/>
+<area shape="rect" id="node23" href="$bounded__vector_8h.html" title=" " alt="" coords="697,945,831,987"/>
+<area shape="rect" id="node26" title=" " alt="" coords="303,863,350,890"/>
+<area shape="rect" id="node27" title=" " alt="" coords="374,863,450,890"/>
+<area shape="rect" id="node28" title=" " alt="" coords="474,863,529,890"/>
+<area shape="rect" id="node29" href="$fixed__size__pool_8h.html" title=" " alt="" coords="139,856,279,897"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1115,1042,1176,1069"/>
+<area shape="rect" id="node15" href="$span_8h.html" title=" " alt="" coords="551,953,673,979"/>
+<area shape="rect" id="node13" title=" " alt="" coords="961,1042,1031,1069"/>
+<area shape="rect" id="node18" title=" " alt="" coords="141,1124,206,1151"/>
+<area shape="rect" id="node19" title=" " alt="" coords="773,1042,835,1069"/>
+<area shape="rect" id="node20" title=" " alt="" coords="635,1124,717,1151"/>
+<area shape="rect" id="node24" href="$type__storage_8h.html" title=" " alt="" coords="604,1035,748,1076"/>
+<area shape="rect" id="node30" href="$memblock__cache_8h.html" title=" " alt="" coords="290,953,425,979"/>
+<area shape="rect" id="node31" href="$circular__buffer_8h.html" title=" " alt="" coords="139,945,266,987"/>
+<area shape="rect" id="node33" href="$any_8h.html" title=" " alt="" coords="855,945,987,987"/>
+<area shape="rect" id="node34" href="$logger_8h.html" title=" " alt="" coords="1436,953,1583,979"/>
+<area shape="rect" id="node35" href="$shared__types_8h.html" title=" " alt="" coords="1271,945,1411,987"/>
+<area shape="rect" id="node42" href="$rr__ded_8h.html" title=" " alt="" coords="1551,468,1620,495"/>
+<area shape="rect" id="node43" href="$phy__ded_8h.html" title=" " alt="" coords="1565,543,1648,569"/>
+<area shape="rect" id="node45" href="$dl__dcch__msg_8h.html" title=" " alt="" coords="1577,244,1687,271"/>
+<area shape="rect" id="node46" href="$asn1_2rrc_2security_8h.html" title=" " alt="" coords="1771,319,1850,345"/>
+<area shape="rect" id="node47" href="$uecap_8h.html" title=" " alt="" coords="1627,319,1695,345"/>
+<area shape="rect" id="node49" href="$paging_8h.html" title=" " alt="" coords="1874,319,1945,345"/>
+</map>

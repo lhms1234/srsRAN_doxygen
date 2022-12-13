@@ -1,0 +1,9 @@
+<map id="asn1::rrc::inter_freq_carrier_freq_info_v1310_s" name="asn1::rrc::inter_freq_carrier_freq_info_v1310_s">
+<area shape="rect" id="node1" title=" " alt="" coords="188,836,367,1075"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1redist__inter__freq__info__r13__s.html" title=" " alt="" coords="5,557,165,737"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="6,204,165,457"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1redist__neigh__cell__r13__s.html" title=" " alt="" coords="6,5,165,141"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1cell__sel__info__ce__r13__s.html" title=" " alt="" coords="190,564,365,729"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="389,535,571,759"/>
+<area shape="rect" id="node7" title=" " alt="" coords="413,285,547,377"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="asn1::rrc_nr::srs_carrier_switching_s" name="asn1::rrc_nr::srs_carrier_switching_s">
+<area shape="rect" id="node1" title=" " alt="" coords="220,984,383,1193"/>
+<area shape="rect" id="node2" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="37,624,179,892"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1srs__carrier__switching__s_1_1srs__tpc__pdcch__group__c__.html" title=" " alt="" coords="204,595,399,921"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="23,367,187,488"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="212,323,391,532"/>
+<area shape="rect" id="node7" title=" " alt="" coords="258,101,345,178"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="427,639,591,877"/>
+<area shape="rect" id="node9" title=" " alt="" coords="415,389,609,466"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="asn1::ngap::pdu_session_res_item_cxt_rel_cpl_s" name="asn1::ngap::pdu_session_res_item_cxt_rel_cpl_s">
+<area shape="rect" id="node1" title=" " alt="" coords="21,779,188,915"/>
+<area shape="rect" id="node2" href="$structasn1_1_1dyn__seq__of.html" title=" " alt="" coords="5,551,204,716"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,233,204,501"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1pdu__session__res__item__cxt__rel__cpl__ext__ies__o.html" title=" " alt="" coords="21,5,188,171"/>
+</map>

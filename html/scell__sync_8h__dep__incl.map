@@ -1,0 +1,9 @@
+<map id="srsue/hdr/phy/scell/scell_sync.h" name="srsue/hdr/phy/scell/scell_sync.h">
+<area shape="rect" id="node1" title=" " alt="" coords="253,5,385,47"/>
+<area shape="rect" id="node2" href="$srsue_2hdr_2phy_2sync_8h.html" title=" " alt="" coords="247,95,391,121"/>
+<area shape="rect" id="node3" href="$srsue_2hdr_2phy_2phy_8h.html" title=" " alt="" coords="167,169,303,196"/>
+<area shape="rect" id="node7" href="$sync_8cc.html" title=" " alt="" coords="328,169,479,196"/>
+<area shape="rect" id="node4" href="$srsue_2src_2phy_2phy_8cc.html" title=" " alt="" coords="5,251,148,278"/>
+<area shape="rect" id="node5" href="$ue__phy__test_8cc.html" title=" " alt="" coords="172,244,299,285"/>
+<area shape="rect" id="node6" href="$srsue_2src_2ue_8cc.html" title=" " alt="" coords="323,251,435,278"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="srsenb::tpc::ul_ch_snr_estim" name="srsenb::tpc::ul_ch_snr_estim">
+<area shape="rect" id="node1" title=" " alt="" coords="187,448,355,628"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1sliding__sum.html" title=" " alt="" coords="9,235,144,385"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1detail_1_1sliding__window.html" title=" " alt="" coords="5,5,148,185"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1exp__average__irreg__sampling.html" title=" " alt="" coords="168,242,375,378"/>
+<area shape="rect" id="node5" href="$structsrsran_1_1rolling__average.html" title=" " alt="" coords="399,235,552,385"/>
+</map>

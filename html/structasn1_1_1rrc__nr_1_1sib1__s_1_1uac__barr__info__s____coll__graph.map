@@ -1,0 +1,22 @@
+<map id="asn1::rrc_nr::sib1_s::uac_barr_info_s_" name="asn1::rrc_nr::sib1_s::uac_barr_info_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="481,1689,649,1796"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="402,1373,550,1627"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1uac__barr__per__plmn__s.html" title=" " alt="" coords="394,1145,555,1296"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1uac__barr__per__plmn__s_1_1uac__ac__barr__list__type__c__.html" title=" " alt="" coords="359,712,558,1068"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,374,184,583"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc__nr_1_1sib1__s_1_1uac__barr__info__s___1_1uac__access__category1__sel__assist__info__c__.html" title=" " alt="" coords="155,697,335,1083"/>
+<area shape="rect" id="node6" title=" " alt="" coords="51,101,138,178"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="411,418,557,539"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="291,5,491,273"/>
+<area shape="rect" id="node10" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="208,433,387,525"/>
+<area shape="rect" id="node11" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="587,1373,735,1627"/>
+<area shape="rect" id="node12" href="$structasn1_1_1rrc__nr_1_1uac__barr__info__set__s.html" title=" " alt="" coords="596,1160,745,1281"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="582,785,759,995"/>
+<area shape="rect" id="node14" title=" " alt="" coords="603,440,739,517"/>
+<area shape="rect" id="node15" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="783,785,969,995"/>
+<area shape="rect" id="node16" title=" " alt="" coords="804,440,948,517"/>
+<area shape="rect" id="node17" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="993,741,1127,1039"/>
+<area shape="rect" id="node18" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="984,323,1136,635"/>
+<area shape="rect" id="node19" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="771,1373,919,1627"/>
+<area shape="rect" id="node20" href="$structasn1_1_1rrc__nr_1_1uac__barr__per__cat__s.html" title=" " alt="" coords="770,1153,931,1289"/>
+</map>

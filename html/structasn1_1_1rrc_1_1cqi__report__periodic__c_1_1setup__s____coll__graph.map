@@ -1,0 +1,7 @@
+<map id="asn1::rrc::cqi_report_periodic_c::setup_s_" name="asn1::rrc::cqi_report_periodic_c::setup_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="106,705,286,856"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1cqi__report__periodic__c_1_1setup__s___1_1cqi__format__ind__periodic__c__.html" title=" " alt="" coords="96,404,296,643"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,184,341"/>
+<area shape="rect" id="node4" title=" " alt="" coords="51,5,138,83"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1cqi__report__periodic__c_1_1setup__s___1_1cqi__format__ind__periodic__c___1_1subband__cqi__s__.html" title=" " alt="" coords="209,176,383,297"/>
+</map>

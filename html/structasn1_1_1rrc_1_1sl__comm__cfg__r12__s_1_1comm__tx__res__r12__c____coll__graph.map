@@ -1,0 +1,10 @@
+<map id="asn1::rrc::sl_comm_cfg_r12_s::comm_tx_res_r12_c_" name="asn1::rrc::sl_comm_cfg_r12_s::comm_tx_res_r12_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="307,984,474,1223"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1sl__comm__cfg__r12__s_1_1comm__tx__res__r12__c___1_1setup__c__.html" title=" " alt="" coords="212,595,367,921"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,345,213,510"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="9,5,209,273"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="237,323,416,532"/>
+<area shape="rect" id="node6" title=" " alt="" coords="283,101,370,178"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="391,653,599,863"/>
+<area shape="rect" id="node8" title=" " alt="" coords="453,389,537,466"/>
+</map>

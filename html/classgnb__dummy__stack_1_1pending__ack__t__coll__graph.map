@@ -1,0 +1,7 @@
+<map id="gnb_dummy_stack::pending_ack_t" name="gnb_dummy_stack::pending_ack_t">
+<area shape="rect" id="node1" title=" " alt="" coords="6,741,191,877"/>
+<area shape="rect" id="node2" href="$structsrsran__pdsch__ack__nr__t.html" title="Describes a collection of PDSCH HARQ ACK feedback for a number of component carriers." alt="" coords="20,587,177,679"/>
+<area shape="rect" id="node3" href="$structsrsran__harq__ack__cc__t.html" title="Describes a collection of PDSCH HARQ ACK feedback for a number of PDSCH transmissions within a compon..." alt="" coords="23,447,174,524"/>
+<area shape="rect" id="node4" href="$structsrsran__harq__ack__m__t.html" title="Describes a single PDSCH transmission HARQ ACK feedback." alt="" coords="25,248,172,384"/>
+<area shape="rect" id="node5" href="$structsrsran__harq__ack__resource__t.html" title="Describes a HARQ ACK resource configuration." alt="" coords="5,5,192,185"/>
+</map>

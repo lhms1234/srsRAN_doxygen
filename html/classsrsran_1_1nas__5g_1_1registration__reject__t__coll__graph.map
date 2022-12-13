@@ -1,0 +1,10 @@
+<map id="srsran::nas_5g::registration_reject_t" name="srsran::nas_5g::registration_reject_t">
+<area shape="rect" id="node1" title=" " alt="" coords="309,573,495,827"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1nas__5g_1_1cag__information__list__t.html" title=" " alt="" coords="5,389,143,496"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1nas__5g_1_1gprs__timer__2__t.html" title=" " alt="" coords="167,389,309,496"/>
+<area shape="rect" id="node4" href="$classsrsran_1_1nas__5g_1_1eap__message__t.html" title=" " alt="" coords="333,389,471,496"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1nas__5g_1_1cause__5gmm__t.html" title=" " alt="" coords="495,389,645,496"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1nas__5g_1_1nas__enumerated.html" title=" " alt="" coords="477,132,663,327"/>
+<area shape="rect" id="node7" title=" " alt="" coords="501,5,639,83"/>
+<area shape="rect" id="node8" href="$classsrsran_1_1nas__5g_1_1rejected__nssai__t.html" title=" " alt="" coords="670,389,833,496"/>
+</map>

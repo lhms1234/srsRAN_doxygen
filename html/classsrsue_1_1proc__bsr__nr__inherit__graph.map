@@ -1,0 +1,5 @@
+<map id="srsue::proc_bsr_nr" name="srsue::proc_bsr_nr">
+<area shape="rect" id="node1" title="BSR procedure for NR according to 3GPP TS 38.321 version 15.3.0." alt="" coords="53,145,276,707"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1timer__callback.html" title=" " alt="" coords="5,13,156,90"/>
+<area shape="rect" id="node3" href="$classsrsue_1_1bsr__interface__mux__nr.html" title=" " alt="" coords="180,5,317,97"/>
+</map>

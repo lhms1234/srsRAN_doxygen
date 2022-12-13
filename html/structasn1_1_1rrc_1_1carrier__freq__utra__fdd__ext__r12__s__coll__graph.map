@@ -1,0 +1,5 @@
+<map id="asn1::rrc::carrier_freq_utra_fdd_ext_r12_s" name="asn1::rrc::carrier_freq_utra_fdd_ext_r12_s">
+<area shape="rect" id="node1" title=" " alt="" coords="70,336,269,663"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1carrier__freq__utra__fdd__ext__r12__s_1_1thresh__x__q__r12__s__.html" title=" " alt="" coords="5,79,160,200"/>
+<area shape="rect" id="node3" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="185,5,327,273"/>
+</map>

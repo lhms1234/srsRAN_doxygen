@@ -1,0 +1,33 @@
+<map id="asn1::s1ap::erab_release_cmd_ies_container" name="asn1::s1ap::erab_release_cmd_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="367,3117,536,3297"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="442,2919,661,3025"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="459,2601,643,2840"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="589,2307,807,2502"/>
+<area shape="rect" id="node5" href="$structasn1_1_1s1ap_1_1ue__aggregate__maximum__bitrate__s.html" title=" " alt="" coords="613,2028,785,2223"/>
+<area shape="rect" id="node6" href="$structasn1_1_1s1ap_1_1ue__aggregate__maximum__bitrates__ext__ies__container.html" title=" " alt="" coords="606,1613,795,1851"/>
+<area shape="rect" id="node7" href="$structasn1_1_1protocol__ext__container__item__s.html" title=" " alt="" coords="591,1329,807,1451"/>
+<area shape="rect" id="node8" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="589,1027,810,1280"/>
+<area shape="rect" id="node9" href="$structasn1_1_1detail_1_1ie__ext__item.html" title=" " alt="" coords="607,718,808,927"/>
+<area shape="rect" id="node10" href="$classasn1_1_1integer.html" title=" " alt="" coords="595,358,817,582"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="419,718,583,927"/>
+<area shape="rect" id="node14" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="125,2587,327,2855"/>
+<area shape="rect" id="node24" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="335,1041,514,1265"/>
+<area shape="rect" id="node28" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="835,1034,1025,1273"/>
+<area shape="rect" id="node12" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="447,431,555,509"/>
+<area shape="rect" id="node13" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="123,2904,329,3040"/>
+<area shape="rect" id="node15" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="64,2285,244,2524"/>
+<area shape="rect" id="node16" href="$structasn1_1_1dyn__seq__of.html" title=" " alt="" coords="45,2035,247,2215"/>
+<area shape="rect" id="node17" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="28,1591,200,1873"/>
+<area shape="rect" id="node18" href="$structasn1_1_1protocol__ie__single__container__s.html" title=" " alt="" coords="16,1337,188,1443"/>
+<area shape="rect" id="node19" href="$structasn1_1_1protocol__ie__field__s.html" title=" " alt="" coords="9,1100,187,1207"/>
+<area shape="rect" id="node20" href="$structasn1_1_1detail_1_1base__ie__field.html" title=" " alt="" coords="5,681,191,964"/>
+<area shape="rect" id="node21" href="$structasn1_1_1detail_1_1ie__field__value__item.html" title=" " alt="" coords="14,409,182,531"/>
+<area shape="rect" id="node22" href="$structasn1_1_1s1ap_1_1erab__item__ies__o.html" title=" " alt="" coords="23,57,173,207"/>
+<area shape="rect" id="node23" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="322,1475,503,1567"/>
+<area shape="rect" id="node25" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="215,733,368,913"/>
+<area shape="rect" id="node26" href="$classasn1_1_1integer.html" title=" " alt="" coords="213,365,369,575"/>
+<area shape="rect" id="node27" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="785,1897,966,2004"/>
+<area shape="rect" id="node29" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="847,725,1013,920"/>
+<area shape="rect" id="node30" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="841,321,1019,619"/>
+<area shape="rect" id="node31" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="841,5,1019,259"/>
+</map>

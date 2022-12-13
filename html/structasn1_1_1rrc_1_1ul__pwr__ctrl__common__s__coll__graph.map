@@ -1,0 +1,16 @@
+<map id="asn1::rrc::ul_pwr_ctrl_common_s" name="asn1::rrc::ul_pwr_ctrl_common_s">
+<area shape="rect" id="node1" title=" " alt="" coords="268,691,419,841"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="164,419,341,628"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,205,116,283"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1delta__flist__pucch__s.html" title=" " alt="" coords="459,448,596,599"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="140,132,317,356"/>
+<area shape="rect" id="node6" title=" " alt="" coords="103,5,296,83"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="341,132,516,356"/>
+<area shape="rect" id="node8" title=" " alt="" coords="321,5,507,83"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="540,132,717,356"/>
+<area shape="rect" id="node10" title=" " alt="" coords="532,5,725,83"/>
+<area shape="rect" id="node11" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="749,132,927,356"/>
+<area shape="rect" id="node12" title=" " alt="" coords="749,5,943,83"/>
+<area shape="rect" id="node13" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="963,132,1137,356"/>
+<area shape="rect" id="node14" title=" " alt="" coords="967,5,1154,83"/>
+</map>

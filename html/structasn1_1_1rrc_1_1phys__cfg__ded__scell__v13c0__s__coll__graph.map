@@ -1,0 +1,12 @@
+<map id="asn1::rrc::phys_cfg_ded_scell_v13c0_s" name="asn1::rrc::phys_cfg_ded_scell_v13c0_s">
+<area shape="rect" id="node1" title=" " alt="" coords="177,1777,317,1899"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1phys__cfg__ded__scell__v13c0__s_1_1pucch__scell__v13c0__c__.html" title=" " alt="" coords="159,1476,334,1715"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1phys__cfg__ded__scell__v13c0__s_1_1pucch__scell__v13c0__c___1_1setup__s__.html" title=" " alt="" coords="88,1292,243,1413"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1pucch__cfg__ded__v13c0__s.html" title=" " alt="" coords="69,1108,211,1229"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1pucch__cfg__ded__v13c0__s_1_1ch__sel__v13c0__s__.html" title=" " alt="" coords="56,939,208,1045"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1pucch__cfg__ded__v13c0__s_1_1ch__sel__v13c0__s___1_1n1__pucch__an__cs__v13c0__c__.html" title=" " alt="" coords="29,623,232,876"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1pucch__cfg__ded__v13c0__s_1_1ch__sel__v13c0__s___1_1n1__pucch__an__cs__v13c0__c___1_1setup__s__.html" title=" " alt="" coords="5,395,176,516"/>
+<area shape="rect" id="node8" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="19,5,162,273"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="200,351,408,560"/>
+<area shape="rect" id="node10" title=" " alt="" coords="262,101,346,178"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="srsenb::rrc_eutra_interface_rrc_nr" name="srsenb::rrc_eutra_interface_rrc_nr">
+<area shape="rect" id="node1" title="X2AP inspired interface for response from NR RRC to EUTRA RRC." alt="" coords="254,5,437,171"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1enb__stack__lte.html" title=" " alt="" coords="5,351,224,780"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1rrc.html" title=" " alt="" coords="249,219,442,912"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1x2__interface.html" title=" " alt="" coords="466,527,606,604"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1x2__adapter.html" title=" " alt="" coords="445,960,627,1257"/>
+</map>

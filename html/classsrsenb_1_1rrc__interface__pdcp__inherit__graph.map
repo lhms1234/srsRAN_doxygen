@@ -1,0 +1,6 @@
+<map id="srsenb::rrc_interface_pdcp" name="srsenb::rrc_interface_pdcp">
+<area shape="rect" id="node1" title="RRC interface for PDCP." alt="" coords="110,5,286,112"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1rrc.html" title=" " alt="" coords="5,160,199,853"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1rrc__interface__pdcp__nr.html" title=" " alt="" coords="223,461,365,553"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1rrc__nr.html" title=" " alt="" coords="201,901,387,1404"/>
+</map>

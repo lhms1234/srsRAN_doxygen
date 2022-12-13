@@ -1,0 +1,6 @@
+<map id="srsue::rlc_interface_pdcp" name="srsue::rlc_interface_pdcp">
+<area shape="rect" id="node1" title=" " alt="" coords="160,5,328,141"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1pdcp_1_1user__interface__rlc.html" title=" " alt="" coords="5,336,152,501"/>
+<area shape="rect" id="node3" href="$classsrsran_1_1rlc.html" title=" " alt="" coords="177,189,311,648"/>
+<area shape="rect" id="node4" href="$classttcn3__syssim.html" title=" " alt="" coords="336,204,483,633"/>
+</map>

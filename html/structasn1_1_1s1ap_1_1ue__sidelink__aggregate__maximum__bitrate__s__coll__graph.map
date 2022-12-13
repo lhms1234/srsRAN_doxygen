@@ -1,0 +1,4 @@
+<map id="asn1::s1ap::ue_sidelink_aggregate_maximum_bitrate_s" name="asn1::s1ap::ue_sidelink_aggregate_maximum_bitrate_s">
+<area shape="rect" id="node1" title=" " alt="" coords="5,189,212,355"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="18,5,199,127"/>
+</map>

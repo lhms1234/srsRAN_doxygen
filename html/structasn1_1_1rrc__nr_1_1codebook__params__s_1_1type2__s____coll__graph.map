@@ -1,0 +1,9 @@
+<map id="asn1::rrc_nr::codebook_params_s::type2_s_" name="asn1::rrc_nr::codebook_params_s::type2_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="114,977,297,1099"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,661,189,915"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1supported__csi__rs__res__s.html" title=" " alt="" coords="9,448,185,599"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="12,147,183,385"/>
+<area shape="rect" id="node5" title=" " alt="" coords="18,5,177,97"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="213,683,416,893"/>
+<area shape="rect" id="node7" title=" " alt="" coords="219,485,410,562"/>
+</map>

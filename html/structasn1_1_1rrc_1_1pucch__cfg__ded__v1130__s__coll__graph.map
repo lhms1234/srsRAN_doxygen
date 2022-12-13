@@ -1,0 +1,10 @@
+<map id="asn1::rrc::pucch_cfg_ded_v1130_s" name="asn1::rrc::pucch_cfg_ded_v1130_s">
+<area shape="rect" id="node1" title=" " alt="" coords="237,924,431,1075"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1pucch__cfg__ded__v1130__s_1_1n1__pucch__an__cs__v1130__c__.html" title=" " alt="" coords="127,623,330,861"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1pucch__cfg__ded__v1130__s_1_1n1__pucch__an__cs__v1130__c___1_1setup__s__.html" title=" " alt="" coords="5,402,193,509"/>
+<area shape="rect" id="node4" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="28,5,171,273"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="218,351,426,560"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1pucch__cfg__ded__v1130__s_1_1npucch__param__r11__c__.html" title=" " alt="" coords="354,623,527,861"/>
+<area shape="rect" id="node6" title=" " alt="" coords="280,101,364,178"/>
+<area shape="rect" id="node8" href="$structasn1_1_1rrc_1_1pucch__cfg__ded__v1130__s_1_1npucch__param__r11__c___1_1setup__s__.html" title=" " alt="" coords="451,395,623,516"/>
+</map>

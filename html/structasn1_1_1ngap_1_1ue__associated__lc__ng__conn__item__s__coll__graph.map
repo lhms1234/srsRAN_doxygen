@@ -1,0 +1,4 @@
+<map id="asn1::ngap::ue_associated_lc_ng_conn_item_s" name="asn1::ngap::ue_associated_lc_ng_conn_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="7,189,185,384"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="5,5,187,127"/>
+</map>

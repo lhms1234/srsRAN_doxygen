@@ -1,0 +1,10 @@
+<map id="asn1::rrc::sl_v2x_packet_dupl_cfg_r15_s" name="asn1::rrc::sl_v2x_packet_dupl_cfg_r15_s">
+<area shape="rect" id="node1" title=" " alt="" coords="83,1688,253,1853"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="76,1357,260,1611"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1sl__pppr__dest__carrier__freq__s.html" title=" " alt="" coords="93,1129,243,1295"/>
+<area shape="rect" id="node4" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="10,784,153,1052"/>
+<area shape="rect" id="node5" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="10,380,153,677"/>
+<area shape="rect" id="node6" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="5,5,157,317"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc_1_1sl__allowed__carrier__freq__list__r15__s.html" title=" " alt="" coords="177,857,335,979"/>
+<area shape="rect" id="node8" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="185,395,327,663"/>
+</map>

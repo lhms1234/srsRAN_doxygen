@@ -1,0 +1,11 @@
+<map id="srsenb::phy" name="srsenb::phy">
+<area shape="rect" id="node1" title=" " alt="" coords="255,417,505,949"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1enb__phy__base.html" title=" " alt="" coords="43,189,197,369"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1phy__interface__stack__lte.html" title=" " alt="" coords="221,233,368,325"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1phy__interface__mac__lte.html" title=" " alt="" coords="5,5,197,141"/>
+<area shape="rect" id="node5" href="$classsrsenb_1_1phy__interface__rrc__lte.html" title=" " alt="" coords="221,13,368,134"/>
+<area shape="rect" id="node6" href="$classsrsenb_1_1phy__interface__stack__nr.html" title=" " alt="" coords="392,233,539,325"/>
+<area shape="rect" id="node7" href="$classsrsenb_1_1phy__interface__rrc__nr.html" title=" " alt="" coords="392,27,539,119"/>
+<area shape="rect" id="node8" href="$classsrsenb_1_1phy__interface__mac__nr.html" title=" " alt="" coords="563,27,709,119"/>
+<area shape="rect" id="node9" href="$classsrsran_1_1phy__interface__radio.html" title=" " alt="" coords="563,226,707,333"/>
+</map>

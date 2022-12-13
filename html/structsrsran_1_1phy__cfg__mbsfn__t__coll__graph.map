@@ -1,0 +1,13 @@
+<map id="srsran::phy_cfg_mbsfn_t" name="srsran::phy_cfg_mbsfn_t">
+<area shape="rect" id="node1" title=" " alt="" coords="269,1227,436,1304"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1mbsfn__area__info__t.html" title=" " alt="" coords="5,1043,169,1164"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1mbsfn__area__info__t_1_1mcch__cfg__t.html" title=" " alt="" coords="12,829,163,980"/>
+<area shape="rect" id="node4" href="$structsrsran_1_1mbms__notif__cfg__t.html" title=" " alt="" coords="193,1043,331,1164"/>
+<area shape="rect" id="node5" href="$structsrsran_1_1mcch__msg__t.html" title=" " alt="" coords="355,1050,534,1157"/>
+<area shape="rect" id="node6" href="$structsrsran_1_1pmch__info__t.html" title=" " alt="" coords="232,837,407,973"/>
+<area shape="rect" id="node7" href="$structsrsran_1_1pmch__info__t_1_1mbms__session__info__t.html" title=" " alt="" coords="241,645,398,767"/>
+<area shape="rect" id="node8" href="$structsrsran_1_1tmgi__t.html" title=" " alt="" coords="264,491,375,583"/>
+<area shape="rect" id="node9" href="$unionsrsran_1_1tmgi__t_1_1choice.html" title=" " alt="" coords="245,351,393,428"/>
+<area shape="rect" id="node10" href="$structsrsran_1_1plmn__id__t.html" title=" " alt="" coords="238,5,401,288"/>
+<area shape="rect" id="node11" href="$structsrsran_1_1mbsfn__sf__cfg__t.html" title=" " alt="" coords="465,844,635,965"/>
+</map>

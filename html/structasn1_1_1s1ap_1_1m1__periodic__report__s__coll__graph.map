@@ -1,0 +1,8 @@
+<map id="asn1::s1ap::m1_periodic_report_s" name="asn1::s1ap::m1_periodic_report_s">
+<area shape="rect" id="node1" title=" " alt="" coords="233,404,397,540"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,200,341"/>
+<area shape="rect" id="node3" title=" " alt="" coords="19,5,186,83"/>
+<area shape="rect" id="node4" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="224,176,405,297"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="429,132,613,341"/>
+<area shape="rect" id="node6" title=" " alt="" coords="444,5,599,83"/>
+</map>

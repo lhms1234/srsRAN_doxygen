@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['vector_2ec_61933',['vector.c',['../vector_8c.html',1,'']]],
+  ['vector_2eh_61934',['vector.h',['../vector_8h.html',1,'']]],
+  ['vector_5fsimd_2ec_61935',['vector_simd.c',['../vector__simd_8c.html',1,'']]],
+  ['vector_5fsimd_2eh_61936',['vector_simd.h',['../vector__simd_8h.html',1,'']]],
+  ['vector_5ftest_2ec_61937',['vector_test.c',['../vector__test_8c.html',1,'']]],
+  ['version_2ec_61938',['version.c',['../version_8c.html',1,'']]],
+  ['version_2eh_61939',['version.h',['../version_8h.html',1,'']]],
+  ['viterbi_2ec_61940',['viterbi.c',['../viterbi_8c.html',1,'']]],
+  ['viterbi_2eh_61941',['viterbi.h',['../viterbi_8h.html',1,'']]],
+  ['viterbi37_2eh_61942',['viterbi37.h',['../viterbi37_8h.html',1,'']]],
+  ['viterbi37_5favx2_2ec_61943',['viterbi37_avx2.c',['../viterbi37__avx2_8c.html',1,'']]],
+  ['viterbi37_5favx2_5f16bit_2ec_61944',['viterbi37_avx2_16bit.c',['../viterbi37__avx2__16bit_8c.html',1,'']]],
+  ['viterbi37_5fneon_2ec_61945',['viterbi37_neon.c',['../viterbi37__neon_8c.html',1,'']]],
+  ['viterbi37_5fport_2ec_61946',['viterbi37_port.c',['../viterbi37__port_8c.html',1,'']]],
+  ['viterbi37_5fsse_2ec_61947',['viterbi37_sse.c',['../viterbi37__sse_8c.html',1,'']]],
+  ['viterbi_5ftest_2ec_61948',['viterbi_test.c',['../viterbi__test_8c.html',1,'']]],
+  ['viterbi_5ftest_2eh_61949',['viterbi_test.h',['../viterbi__test_8h.html',1,'']]]
+];

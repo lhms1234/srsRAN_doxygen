@@ -1,0 +1,11 @@
+<map id="asn1::s1ap::target_ng_ran_node_id_s" name="asn1::s1ap::target_ng_ran_node_id_s">
+<area shape="rect" id="node1" title=" " alt="" coords="215,1028,349,1164"/>
+<area shape="rect" id="node2" href="$structasn1_1_1s1ap_1_1five__gstai__s.html" title=" " alt="" coords="69,749,233,870"/>
+<area shape="rect" id="node3" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="5,323,148,576"/>
+<area shape="rect" id="node4" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="173,389,354,510"/>
+<area shape="rect" id="node5" href="$structasn1_1_1s1ap_1_1global__ran__node__id__c.html" title=" " alt="" coords="380,653,555,965"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="378,345,557,554"/>
+<area shape="rect" id="node7" title=" " alt="" coords="424,101,511,178"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="581,396,765,503"/>
+<area shape="rect" id="node9" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="573,5,773,273"/>
+</map>

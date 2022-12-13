@@ -1,0 +1,7 @@
+<map id="asn1::rrc::area_cfg_r10_c" name="asn1::rrc::area_cfg_r10_c">
+<area shape="rect" id="node1" title=" " alt="" coords="117,595,286,921"/>
+<area shape="rect" id="node2" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="26,374,185,481"/>
+<area shape="rect" id="node3" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="5,5,205,273"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="209,323,388,532"/>
+<area shape="rect" id="node5" title=" " alt="" coords="255,101,342,178"/>
+</map>

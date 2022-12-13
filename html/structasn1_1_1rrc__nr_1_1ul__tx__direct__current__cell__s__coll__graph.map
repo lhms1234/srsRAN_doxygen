@@ -1,0 +1,6 @@
+<map id="asn1::rrc_nr::ul_tx_direct_current_cell_s" name="asn1::rrc_nr::ul_tx_direct_current_cell_s">
+<area shape="rect" id="node1" title=" " alt="" coords="22,880,171,1016"/>
+<area shape="rect" id="node2" href="$classasn1_1_1copy__ptr.html" title=" " alt="" coords="239,535,381,803"/>
+<area shape="rect" id="node3" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,219,188,472"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1ul__tx__direct__current__bwp__s.html" title=" " alt="" coords="5,5,188,156"/>
+</map>

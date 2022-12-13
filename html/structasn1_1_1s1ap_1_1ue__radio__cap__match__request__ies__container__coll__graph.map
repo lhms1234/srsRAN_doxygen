@@ -1,0 +1,14 @@
+<map id="asn1::s1ap::ue_radio_cap_match_request_ies_container" name="asn1::s1ap::ue_radio_cap_match_request_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="167,1425,333,1591"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="57,1249,238,1341"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="55,961,234,1185"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="7,696,160,876"/>
+<area shape="rect" id="node5" href="$classasn1_1_1integer.html" title=" " alt="" coords="5,365,161,575"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="184,681,348,891"/>
+<area shape="rect" id="node9" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="259,953,449,1192"/>
+<area shape="rect" id="node7" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="212,431,320,509"/>
+<area shape="rect" id="node8" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="262,1241,443,1348"/>
+<area shape="rect" id="node10" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="373,689,538,883"/>
+<area shape="rect" id="node11" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="366,321,545,619"/>
+<area shape="rect" id="node12" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="366,5,545,259"/>
+</map>

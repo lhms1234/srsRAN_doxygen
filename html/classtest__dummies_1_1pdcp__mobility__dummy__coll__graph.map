@@ -1,0 +1,7 @@
+<map id="test_dummies::pdcp_mobility_dummy" name="test_dummies::pdcp_mobility_dummy">
+<area shape="rect" id="node1" title=" " alt="" coords="267,624,413,775"/>
+<area shape="rect" id="node2" href="$classsrsenb_1_1pdcp__dummy.html" title=" " alt="" coords="123,337,269,561"/>
+<area shape="rect" id="node3" href="$classsrsenb_1_1pdcp__interface__rrc.html" title=" " alt="" coords="5,5,181,288"/>
+<area shape="rect" id="node4" href="$classsrsenb_1_1pdcp__interface__gtpu.html" title=" " alt="" coords="205,101,392,193"/>
+<area shape="rect" id="node5" href="$structtest__dummies_1_1pdcp__mobility__dummy_1_1last__sdu__t.html" title=" " alt="" coords="293,389,485,510"/>
+</map>

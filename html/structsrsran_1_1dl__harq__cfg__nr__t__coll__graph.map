@@ -1,0 +1,3 @@
+<map id="srsran::dl_harq_cfg_nr_t" name="srsran::dl_harq_cfg_nr_t">
+<area shape="rect" id="node1" title="NR specific config for DL HARQ with configurable number of processes." alt="" coords="5,5,168,97"/>
+</map>

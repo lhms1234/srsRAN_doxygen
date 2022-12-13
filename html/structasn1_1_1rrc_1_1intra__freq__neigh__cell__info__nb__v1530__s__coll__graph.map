@@ -1,0 +1,8 @@
+<map id="asn1::rrc::intra_freq_neigh_cell_info_nb_v1530_s" name="asn1::rrc::intra_freq_neigh_cell_info_nb_v1530_s">
+<area shape="rect" id="node1" title=" " alt="" coords="103,661,295,783"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1nsss__rrm__cfg__nb__r15__s.html" title=" " alt="" coords="93,463,304,599"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,154,189,378"/>
+<area shape="rect" id="node4" title=" " alt="" coords="26,5,169,97"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="214,147,389,385"/>
+<area shape="rect" id="node6" title=" " alt="" coords="202,5,401,97"/>
+</map>

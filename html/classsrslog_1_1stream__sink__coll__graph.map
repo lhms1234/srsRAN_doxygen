@@ -1,0 +1,4 @@
+<map id="srslog::stream_sink" name="srslog::stream_sink">
+<area shape="rect" id="node1" title="This sink implementation writes to either stdout or stderr streams." alt="" coords="5,204,141,340"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1sink.html" title=" " alt="" coords="14,5,133,156"/>
+</map>

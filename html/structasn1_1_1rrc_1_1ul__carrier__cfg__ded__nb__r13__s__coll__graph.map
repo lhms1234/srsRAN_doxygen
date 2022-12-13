@@ -1,0 +1,8 @@
+<map id="asn1::rrc::ul_carrier_cfg_ded_nb_r13_s" name="asn1::rrc::ul_carrier_cfg_ded_nb_r13_s">
+<area shape="rect" id="node1" title=" " alt="" coords="104,735,263,915"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,433,169,672"/>
+<area shape="rect" id="node3" title=" " alt="" coords="14,213,161,305"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1carrier__freq__nb__r13__s.html" title=" " alt="" coords="211,477,350,628"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="189,147,372,371"/>
+<area shape="rect" id="node6" title=" " alt="" coords="217,5,344,97"/>
+</map>

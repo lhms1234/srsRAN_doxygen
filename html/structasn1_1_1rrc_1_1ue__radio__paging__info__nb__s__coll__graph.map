@@ -1,0 +1,12 @@
+<map id="asn1::rrc::ue_radio_paging_info_nb_s" name="asn1::rrc::ue_radio_paging_info_nb_s">
+<area shape="rect" id="node1" title=" " alt="" coords="272,1600,403,1721"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1ue__radio__paging__info__nb__s_1_1crit__exts__c__.html" title=" " alt="" coords="259,1299,416,1537"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1ue__radio__paging__info__nb__s_1_1crit__exts__c___1_1c1__c__.html" title=" " alt="" coords="132,953,321,1236"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,681,184,891"/>
+<area shape="rect" id="node5" title=" " alt="" coords="51,431,138,509"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1ue__radio__paging__info__nb__ies__s.html" title=" " alt="" coords="208,725,363,847"/>
+<area shape="rect" id="node7" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="196,321,375,619"/>
+<area shape="rect" id="node8" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="196,5,375,259"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="345,990,553,1199"/>
+<area shape="rect" id="node10" title=" " alt="" coords="407,747,491,825"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="asn1::ngap::rrc_inactive_transition_report_ies_container" name="asn1::ngap::rrc_inactive_transition_report_ies_container">
+<area shape="rect" id="node1" title=" " alt="" coords="455,1669,617,1835"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="122,1500,318,1592"/>
+<area shape="rect" id="node3" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="124,1205,303,1429"/>
+<area shape="rect" id="node4" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="27,940,210,1120"/>
+<area shape="rect" id="node5" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,624,213,833"/>
+<area shape="rect" id="node6" title=" " alt="" coords="67,389,151,466"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="427,925,591,1135"/>
+<area shape="rect" id="node10" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="327,1197,526,1436"/>
+<area shape="rect" id="node14" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="550,1197,733,1436"/>
+<area shape="rect" id="node22" href="$structasn1_1_1detail_1_1base__ie__container__item.html" title=" " alt="" coords="757,1205,936,1429"/>
+<area shape="rect" id="node8" href="$structasn1_1_1crit__opts.html" title=" " alt="" coords="455,690,563,767"/>
+<area shape="rect" id="node9" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="344,1485,525,1607"/>
+<area shape="rect" id="node11" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="237,925,403,1135"/>
+<area shape="rect" id="node12" href="$classasn1_1_1integer.html" title=" " alt="" coords="238,617,405,841"/>
+<area shape="rect" id="node13" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="549,1493,731,1599"/>
+<area shape="rect" id="node15" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="616,933,779,1127"/>
+<area shape="rect" id="node16" href="$structasn1_1_1ngap_1_1user__location__info__c.html" title=" " alt="" coords="609,595,780,863"/>
+<area shape="rect" id="node17" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="690,337,937,517"/>
+<area shape="rect" id="node18" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="713,5,913,273"/>
+<area shape="rect" id="node19" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="487,323,665,532"/>
+<area shape="rect" id="node20" title=" " alt="" coords="533,101,619,178"/>
+<area shape="rect" id="node21" href="$structasn1_1_1protocol__ie__container__item__s.html" title=" " alt="" coords="755,1500,936,1592"/>
+<area shape="rect" id="node23" href="$structasn1_1_1detail_1_1ie__value__item.html" title=" " alt="" coords="806,940,959,1120"/>
+<area shape="rect" id="node24" href="$classasn1_1_1integer.html" title=" " alt="" coords="805,624,961,833"/>
+</map>

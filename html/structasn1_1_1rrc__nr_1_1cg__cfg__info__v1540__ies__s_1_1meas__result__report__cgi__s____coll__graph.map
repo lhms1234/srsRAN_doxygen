@@ -1,0 +1,17 @@
+<map id="asn1::rrc_nr::cg_cfg_info_v1540_ies_s::meas_result_report_cgi_s_" name="asn1::rrc_nr::cg_cfg_info_v1540_ies_s::meas_result_report_cgi_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="160,1813,359,1935"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1cgi__info__nr__s.html" title=" " alt="" coords="171,1629,347,1751"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc__nr_1_1cgi__info__nr__s_1_1no__sib1__s__.html" title=" " alt="" coords="5,1387,164,1479"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc__nr_1_1pdcch__cfg__sib1__s.html" title=" " alt="" coords="11,1085,158,1221"/>
+<area shape="rect" id="node5" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="188,1299,331,1567"/>
+<area shape="rect" id="node6" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="355,1306,510,1559"/>
+<area shape="rect" id="node7" href="$structasn1_1_1rrc__nr_1_1plmn__id__info__s.html" title=" " alt="" coords="369,1071,496,1236"/>
+<area shape="rect" id="node8" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="108,711,251,1008"/>
+<area shape="rect" id="node9" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="202,336,354,648"/>
+<area shape="rect" id="node10" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="275,711,417,1008"/>
+<area shape="rect" id="node11" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="442,733,597,986"/>
+<area shape="rect" id="node12" href="$structasn1_1_1rrc__nr_1_1plmn__id__s.html" title=" " alt="" coords="437,431,596,553"/>
+<area shape="rect" id="node13" href="$classasn1_1_1bounded__array.html" title=" " alt="" coords="445,5,588,273"/>
+<area shape="rect" id="node14" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="624,747,801,971"/>
+<area shape="rect" id="node15" title=" " alt="" coords="620,453,805,531"/>
+</map>

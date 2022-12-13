@@ -1,0 +1,11 @@
+<map id="srslog::backend_worker" name="srslog::backend_worker">
+<area shape="rect" id="node1" title=" " alt="" coords="229,1043,422,1355"/>
+<area shape="rect" id="node2" href="$classsrslog_1_1detail_1_1shared__variable.html" title=" " alt="" coords="185,800,327,951"/>
+<area shape="rect" id="node3" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="186,455,326,649"/>
+<area shape="rect" id="node4" href="$classsrslog_1_1detail_1_1work__queue.html" title=" " alt="" coords="351,771,502,980"/>
+<area shape="rect" id="node9" href="$classsrslog_1_1detail_1_1dyn__arg__store__pool.html" title=" " alt="" coords="5,807,160,943"/>
+<area shape="rect" id="node5" href="$classsrsran_1_1dyn__circular__buffer.html" title=" " alt="" coords="351,455,502,649"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1detail_1_1base__circular__buffer.html" title=" " alt="" coords="343,5,510,347"/>
+<area shape="rect" id="node7" href="$classbasic__memory__buffer.html" title=" " alt="" coords="526,771,701,980"/>
+<area shape="rect" id="node8" href="$classdetail_1_1buffer.html" title=" " alt="" coords="542,396,685,708"/>
+</map>

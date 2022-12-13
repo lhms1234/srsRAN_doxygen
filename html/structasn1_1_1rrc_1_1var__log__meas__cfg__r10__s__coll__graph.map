@@ -1,0 +1,12 @@
+<map id="asn1::rrc::var_log_meas_cfg_r10_s" name="asn1::rrc::var_log_meas_cfg_r10_s">
+<area shape="rect" id="node1" title=" " alt="" coords="301,984,459,1149"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,653,192,863"/>
+<area shape="rect" id="node3" title=" " alt="" coords="6,389,151,466"/>
+<area shape="rect" id="node4" href="$structasn1_1_1rrc_1_1area__cfg__r10__c.html" title=" " alt="" coords="295,595,465,921"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="175,374,334,481"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="155,5,355,273"/>
+<area shape="rect" id="node7" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="359,323,537,532"/>
+<area shape="rect" id="node8" title=" " alt="" coords="405,101,491,178"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="528,653,715,863"/>
+<area shape="rect" id="node10" title=" " alt="" coords="562,389,721,466"/>
+</map>

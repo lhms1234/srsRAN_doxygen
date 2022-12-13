@@ -1,0 +1,12 @@
+<map id="asn1::rrc_nr::csi_report_cfg_s::report_freq_cfg_s_" name="asn1::rrc_nr::csi_report_cfg_s::report_freq_cfg_s_">
+<area shape="rect" id="node1" title=" " alt="" coords="217,925,394,1047"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,624,189,833"/>
+<area shape="rect" id="node3" title=" " alt="" coords="28,389,167,466"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="213,624,397,833"/>
+<area shape="rect" id="node5" title=" " alt="" coords="234,389,377,466"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc__nr_1_1csi__report__cfg__s_1_1report__freq__cfg__s___1_1csi__report__band__c__.html" title=" " alt="" coords="422,595,586,863"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="418,374,553,481"/>
+<area shape="rect" id="node8" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="385,5,585,273"/>
+<area shape="rect" id="node9" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="577,323,756,532"/>
+<area shape="rect" id="node10" title=" " alt="" coords="623,101,710,178"/>
+</map>

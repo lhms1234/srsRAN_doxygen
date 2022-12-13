@@ -1,0 +1,7 @@
+<map id="srsran::nas_5g::nas_5gs_msg" name="srsran::nas_5g::nas_5gs_msg">
+<area shape="rect" id="node1" title=" " alt="" coords="181,735,347,1003"/>
+<area shape="rect" id="node2" href="$structsrsran_1_1nas__5g_1_1nas__5gs__hdr.html" title=" " alt="" coords="5,404,227,672"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="31,132,201,341"/>
+<area shape="rect" id="node4" title=" " alt="" coords="77,5,155,83"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1any.html" title=" " alt="" coords="251,433,376,643"/>
+</map>

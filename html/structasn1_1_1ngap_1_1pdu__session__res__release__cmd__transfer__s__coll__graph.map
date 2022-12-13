@@ -1,0 +1,9 @@
+<map id="asn1::ngap::pdu_session_res_release_cmd_transfer_s" name="asn1::ngap::pdu_session_res_release_cmd_transfer_s">
+<area shape="rect" id="node1" title=" " alt="" coords="42,896,235,1032"/>
+<area shape="rect" id="node2" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="5,653,187,775"/>
+<area shape="rect" id="node3" href="$structasn1_1_1ngap_1_1cause__c.html" title=" " alt="" coords="211,595,354,833"/>
+<area shape="rect" id="node4" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="71,367,252,488"/>
+<area shape="rect" id="node5" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="61,5,261,273"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="276,323,455,532"/>
+<area shape="rect" id="node7" title=" " alt="" coords="322,101,409,178"/>
+</map>

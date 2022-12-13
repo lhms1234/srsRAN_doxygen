@@ -1,0 +1,9 @@
+<map id="asn1::rrc_nr::dl_dcch_msg_s" name="asn1::rrc_nr::dl_dcch_msg_s">
+<area shape="rect" id="node1" title=" " alt="" coords="226,1212,370,1333"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc__nr_1_1dl__dcch__msg__type__c.html" title=" " alt="" coords="215,925,381,1149"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="269,330,447,539"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc__nr_1_1dl__dcch__msg__type__c_1_1c1__c__.html" title=" " alt="" coords="166,609,310,863"/>
+<area shape="rect" id="node4" title=" " alt="" coords="315,101,401,178"/>
+<area shape="rect" id="node6" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="5,323,244,547"/>
+<area shape="rect" id="node7" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="25,5,225,273"/>
+</map>

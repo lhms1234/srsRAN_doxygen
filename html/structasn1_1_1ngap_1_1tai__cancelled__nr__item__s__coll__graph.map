@@ -1,0 +1,11 @@
+<map id="asn1::ngap::tai_cancelled_nr_item_s" name="asn1::ngap::tai_cancelled_nr_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="16,1497,187,1633"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="139,1167,322,1420"/>
+<area shape="rect" id="node3" href="$structasn1_1_1ngap_1_1cancelled__cells__in__tai__nr__item__s.html" title=" " alt="" coords="151,953,310,1104"/>
+<area shape="rect" id="node4" href="$structasn1_1_1ngap_1_1nr__cgi__s.html" title=" " alt="" coords="331,769,474,891"/>
+<area shape="rect" id="node5" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="447,380,582,692"/>
+<area shape="rect" id="node6" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="439,5,591,317"/>
+<area shape="rect" id="node7" href="$classasn1_1_1fixed__octstring.html" title=" " alt="" coords="274,409,417,663"/>
+<area shape="rect" id="node9" href="$structasn1_1_1ngap_1_1tai__s.html" title=" " alt="" coords="43,769,170,891"/>
+<area shape="rect" id="node8" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="60,475,241,597"/>
+</map>

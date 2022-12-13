@@ -1,0 +1,15 @@
+<map id="asn1::rrc::ul_info_transfer_s::crit_exts_c_" name="asn1::rrc::ul_info_transfer_s::crit_exts_c_">
+<area shape="rect" id="node1" title=" " alt="" coords="394,1541,561,1765"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1ul__info__transfer__s_1_1crit__exts__c___1_1c1__c__.html" title=" " alt="" coords="283,1211,458,1479"/>
+<area shape="rect" id="node3" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="409,380,588,589"/>
+<area shape="rect" id="node9" href="$structasn1_1_1rrc_1_1ul__info__transfer__r8__ies__s_1_1ded__info__type__c__.html" title=" " alt="" coords="251,696,403,964"/>
+<area shape="rect" id="node4" title=" " alt="" coords="455,101,542,178"/>
+<area shape="rect" id="node5" href="$structasn1_1_1rrc_1_1ul__info__transfer__r8__ies__s.html" title=" " alt="" coords="249,1027,404,1148"/>
+<area shape="rect" id="node6" href="$structasn1_1_1rrc_1_1ul__info__transfer__v8a0__ies__s.html" title=" " alt="" coords="41,762,223,898"/>
+<area shape="rect" id="node7" href="$classasn1_1_1unbounded__octstring.html" title=" " alt="" coords="13,336,192,633"/>
+<area shape="rect" id="node8" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="5,13,184,266"/>
+<area shape="rect" id="node10" href="$structasn1_1_1choice__buffer__t.html" title=" " alt="" coords="220,431,385,538"/>
+<area shape="rect" id="node11" href="$structasn1_1_1choice__buffer__base__t.html" title=" " alt="" coords="208,5,408,273"/>
+<area shape="rect" id="node12" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="483,1240,691,1449"/>
+<area shape="rect" id="node13" title=" " alt="" coords="545,1049,629,1126"/>
+</map>

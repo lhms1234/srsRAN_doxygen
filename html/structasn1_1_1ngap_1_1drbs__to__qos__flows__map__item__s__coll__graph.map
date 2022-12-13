@@ -1,0 +1,8 @@
+<map id="asn1::ngap::drbs_to_qos_flows_map_item_s" name="asn1::ngap::drbs_to_qos_flows_map_item_s">
+<area shape="rect" id="node1" title=" " alt="" coords="151,963,317,1113"/>
+<area shape="rect" id="node2" href="$classasn1_1_1dyn__array.html" title=" " alt="" coords="49,647,240,900"/>
+<area shape="rect" id="node3" href="$structasn1_1_1ngap_1_1associated__qos__flow__item__s.html" title=" " alt="" coords="49,419,241,584"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,132,188,356"/>
+<area shape="rect" id="node5" title=" " alt="" coords="15,5,178,83"/>
+<area shape="rect" id="node6" href="$structasn1_1_1protocol__ie__container__empty__l.html" title="Empty ProtocolExtensionContainer." alt="" coords="222,183,403,305"/>
+</map>

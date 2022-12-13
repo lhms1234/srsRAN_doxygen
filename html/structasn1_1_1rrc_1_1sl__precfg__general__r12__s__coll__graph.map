@@ -1,0 +1,11 @@
+<map id="asn1::rrc::sl_precfg_general_r12_s" name="asn1::rrc::sl_precfg_general_r12_s">
+<area shape="rect" id="node1" title=" " alt="" coords="216,867,407,1120"/>
+<area shape="rect" id="node2" href="$structasn1_1_1rrc_1_1sl__precfg__general__r12__s_1_1rohc__profiles__r12__s__.html" title=" " alt="" coords="5,558,148,753"/>
+<area shape="rect" id="node3" href="$structasn1_1_1rrc_1_1tdd__cfg__sl__r12__s.html" title=" " alt="" coords="172,573,296,738"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="145,176,302,400"/>
+<area shape="rect" id="node5" title=" " alt="" coords="147,5,299,83"/>
+<area shape="rect" id="node6" href="$classasn1_1_1bitstring.html" title=" " alt="" coords="320,507,463,804"/>
+<area shape="rect" id="node7" href="$classasn1_1_1ext__array.html" title=" " alt="" coords="326,132,478,444"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="487,551,653,760"/>
+<area shape="rect" id="node9" title=" " alt="" coords="513,249,627,327"/>
+</map>

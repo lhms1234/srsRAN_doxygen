@@ -1,0 +1,13 @@
+<map id="asn1::rrc_nr::beam_management_ssb_csi_rs_s" name="asn1::rrc_nr::beam_management_ssb_csi_rs_s">
+<area shape="rect" id="node1" title=" " alt="" coords="405,463,593,599"/>
+<area shape="rect" id="node2" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="5,147,176,385"/>
+<area shape="rect" id="node3" title=" " alt="" coords="17,5,164,97"/>
+<area shape="rect" id="node4" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="200,147,371,385"/>
+<area shape="rect" id="node5" title=" " alt="" coords="204,5,367,97"/>
+<area shape="rect" id="node6" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="395,161,602,371"/>
+<area shape="rect" id="node7" title=" " alt="" coords="396,13,599,90"/>
+<area shape="rect" id="node8" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="627,154,797,378"/>
+<area shape="rect" id="node9" title=" " alt="" coords="623,13,801,90"/>
+<area shape="rect" id="node10" href="$classasn1_1_1enumerated.html" title=" " alt="" coords="822,147,999,385"/>
+<area shape="rect" id="node11" title=" " alt="" coords="836,5,985,97"/>
+</map>

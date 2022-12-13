@@ -1,0 +1,5 @@
+<map id="LIBLTE_MME_UPLINK_GENERIC_NAS_TRANSPORT_MSG_STRUCT" name="LIBLTE_MME_UPLINK_GENERIC_NAS_TRANSPORT_MSG_STRUCT">
+<area shape="rect" id="node1" title=" " alt="" coords="97,175,342,281"/>
+<area shape="rect" id="node2" href="$structLIBLTE__BYTE__MSG__STRUCT.html" title=" " alt="" coords="5,5,212,112"/>
+<area shape="rect" id="node3" href="$structLIBLTE__MME__ADDITIONAL__INFORMATION__STRUCT.html" title=" " alt="" coords="236,5,427,112"/>
+</map>

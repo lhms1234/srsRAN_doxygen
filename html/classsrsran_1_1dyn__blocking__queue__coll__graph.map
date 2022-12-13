@@ -1,0 +1,5 @@
+<map id="srsran::dyn_blocking_queue&lt; T, PushingCallback, PoppingCallback &gt;" name="srsran::dyn_blocking_queue&lt; T, PushingCallback, PoppingCallback &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,639,197,775"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1detail_1_1base__blocking__queue.html" title=" " alt="" coords="14,175,189,589"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1detail_1_1noop__operator.html" title=" " alt="" coords="35,5,168,97"/>
+</map>

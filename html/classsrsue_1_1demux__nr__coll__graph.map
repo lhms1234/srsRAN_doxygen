@@ -1,0 +1,16 @@
+<map id="srsue::demux_nr" name="srsue::demux_nr">
+<area shape="rect" id="node1" title="Logical Channel Demultiplexing and MAC CE dissassemble according to TS 38.321." alt="" coords="380,1269,547,1464"/>
+<area shape="rect" id="node2" href="$classsrsue_1_1demux__interface__harq__nr.html" title="Interface from HARQ class to demux class." alt="" coords="5,924,172,1060"/>
+<area shape="rect" id="node3" href="$classsrslog_1_1detail_1_1logger__impl.html" title=" " alt="" coords="297,498,488,707"/>
+<area shape="rect" id="node11" href="$classsrsran_1_1mac__sch__pdu__nr.html" title=" " alt="" coords="197,851,362,1133"/>
+<area shape="rect" id="node4" title=" " alt="" coords="336,277,375,355"/>
+<area shape="rect" id="node5" href="$classsrslog_1_1detail_1_1mutex.html" title="Abstraction of a pthread mutex." alt="" coords="399,219,539,413"/>
+<area shape="rect" id="node6" href="$classsrsran_1_1block__queue.html" title=" " alt="" coords="478,792,681,1192"/>
+<area shape="rect" id="node7" href="$classsrsran_1_1block__queue_1_1call__mutexed__itf.html" title=" " alt="" coords="513,549,697,656"/>
+<area shape="rect" id="node8" href="$classsrsue_1_1phy__interface__mac__nr.html" title=" " alt="" coords="705,909,877,1075"/>
+<area shape="rect" id="node9" href="$classsrsue_1_1rlc__interface__mac.html" title=" " alt="" coords="902,902,1083,1082"/>
+<area shape="rect" id="node10" href="$classsrsran_1_1read__pdu__interface.html" title=" " alt="" coords="905,564,1081,641"/>
+<area shape="rect" id="node12" href="$classsrsran_1_1byte__buffer__t.html" title=" " alt="" coords="131,476,273,729"/>
+<area shape="rect" id="node13" href="$structsrsran_1_1byte__buffer__t_1_1buffer__metadata__t.html" title=" " alt="" coords="129,270,275,362"/>
+<area shape="rect" id="node14" href="$structsrsran_1_1buffer__latency__calc.html" title=" " alt="" coords="113,5,291,156"/>
+</map>

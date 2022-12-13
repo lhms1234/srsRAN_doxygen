@@ -1,0 +1,5 @@
+<map id="srsran::pdcp_pdu_info&lt; HeaderType &gt;" name="srsran::pdcp_pdu_info&lt; HeaderType &gt;">
+<area shape="rect" id="node1" title="Class that contains the parameters and state (e.g. unACKed segments) of a PDCP PDU." alt="" coords="35,491,185,803"/>
+<area shape="rect" id="node2" href="$classsrsran_1_1intrusive__double__linked__list.html" title=" " alt="" coords="5,175,215,428"/>
+<area shape="rect" id="node3" href="$structsrsran_1_1intrusive__double__linked__list__element.html" title=" " alt="" coords="18,5,202,112"/>
+</map>
